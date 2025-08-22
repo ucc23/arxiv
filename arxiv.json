@@ -1,6 +1,96 @@
 {
-  "fetched_at": "2025-08-22T01:57:52.184Z",
+  "fetched_at": "2025-08-22T06:37:10.195Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.15056v1",
+      "updated": "2025-08-20T20:44:57Z",
+      "published": "2025-08-20T20:44:57Z",
+      "title": "Tidal Tails of Nearby Open Clusters. II. A Review of Simulated\n  Properties and the Reliability of Observational Catalogues",
+      "summary": "  Context: Recent studies using Gaia data have reported tidal tail detections\nfor tens to hundreds of open clusters. However, a comprehensive assessment of\nthe reliability & completeness of these detections is lacking. Aims: This work\naims to summarise the expected properties of tidal tails based on N-body\nsimulations, review the reliability of tidal tail detections in the literature,\nand grade them according to a set of diagnostic tests. Methods: We used a grid\nof 68-20000 Msun simulated clusters & analysed the formation & evolution of the\ntails. We compiled 122 catalogues (58 unique clusters) from literature, within\n500 pc of the Sun. We employed tests based on photometric, morphological &\ndynamical signatures, & comparisons with simulations, to grade their tails.\nResults: Based on the simulations, we analysed the complex morphology of the\ntails & their properties (e.g., size, span, stellar types, number density, &\nmass function) at various cluster masses & ages. During the first 200 Myr of\nevolution, the tails typically form a characteristic S shape, with an amplitude\nthat scales with cluster mass. The tail span increases at a rate of 4 times the\ninitial velocity dispersion, & the near-tail is predominantly populated by\nrecent escapees. Conclusions: In the 122 published tail catalogues, we found\nthat 15 gold & 55 silver catalogues passed the majority of the tests. The\nremaining 51 were graded as bronze; care should be taken before using these for\nfurther analysis. The age, metallicity, binary fraction, & mass function of\nstars in the tails were generally consistent with those of their parent\nclusters. The gold/silver catalogues (69 catalogues of 40 clusters) represent\nreliable samples for detailed analyses of tails. Future data will be essential\nfor further validation & for leveraging tidal tails as tracers of cluster\ndissolution & the Galactic potential.\n",
+      "author": [
+        {
+          "name": "Vikrant V. Jadhav",
+          "arxiv:affiliation": {
+            "_": "Uni Bonn",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Dhanraj Risbud",
+          "arxiv:affiliation": {
+            "_": "Uni Bonn",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Pavel Kroupa",
+          "arxiv:affiliation": {
+            "_": "Uni Bonn",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Wenjie Wu",
+          "arxiv:affiliation": {
+            "_": "Uni Bonn",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pages main text and 39 pages appendix. Catalogues will be\n  available on CDS. Accepted in Astronomy & Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.15056v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.15056v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2508.14701v1",
       "updated": "2025-08-20T13:24:18Z",
