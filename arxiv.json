@@ -1,6 +1,185 @@
 {
-  "fetched_at": "2025-08-27T01:55:21.105Z",
+  "fetched_at": "2025-08-27T06:35:06.796Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.18538v1",
+      "updated": "2025-08-25T22:19:48Z",
+      "published": "2025-08-25T22:19:48Z",
+      "title": "Impact of gravity on changing magnetic field orientations in a sample of\n  massive protostellar clusters observed with ALMA",
+      "summary": "  The magnetic field is integral to our understanding of the formation and\ndynamical evolution of molecular clouds and star formation within. We present a\npolarimetric survey of 17 massive protostellar cluster forming clumps, covered\nin 34 pointings in the 230-GHz window using the Atacama Large\nMillimeter/submillimeter Array (ALMA). The two array configurations, C43-1 and\nC43-4, probe linearly polarized dust emission, hence the plane-of-the-sky\norientation of magnetic fields, at resolutions of 1\\arcsec\\ and 0\\arcsec.4 that\ncorrespond to approximately 0.01pc core and $10^3$ au envelope scales,\nrespectively. The relative orientations (ROs) of the magnetic field probed at\ntwo spatial scales are analyzed for the entire protostellar cluster sample and\nfor a subset of objects in NGC 6334. We found a bimodal distribution of ROs\nwith peaks at 0\\deg\\ (parallel) and 90\\deg (orthogonal) for the entire sample\ncombined as well as for NGC 6334. We investigate the physical origin of this\nbimodal distribution through a projected Rayleigh statistic (PRS) analysis in\nrelation to column densities and local gravity in NGC 6334. We found an excess\nof parallel magnetic fields at column densities $> 10^{23}$ \\cmm. The\nunderlying cause of the RO distribution of the magnetic field is gravitational\ncollapse at higher gas densities, which drags and reorients the magnetic field\nas shown in the alignment between the magnetic field and the direction of\ngravitational forces. The distribution of ROs observed here is consistent with\nthe evolution of relative orientations of an initially sub-Alv\\'enic cloud that\nbecomes magnetically super-critical and super-Alv\\'enic as the cloud collapses\nto form stars.\n",
+      "author": [
+        {
+          "name": "Qizhou Zhang"
+        },
+        {
+          "name": "Junhao Liu"
+        },
+        {
+          "name": "Lingzhen Zeng"
+        },
+        {
+          "name": "J. D. Soler"
+        },
+        {
+          "name": "Huei-Ru Vivien Chen"
+        },
+        {
+          "name": "Tao-Chung Ching"
+        },
+        {
+          "name": "Paul T. P. Ho"
+        },
+        {
+          "name": "Josep Miquel Girart"
+        },
+        {
+          "name": "Patrick M. Koch"
+        },
+        {
+          "name": "Shih-Ping Lai"
+        },
+        {
+          "name": "Shanghuo Li"
+        },
+        {
+          "name": "Zhi-Yun Li"
+        },
+        {
+          "name": "Hauyu Baobab Liu"
+        },
+        {
+          "name": "Keping Qiu"
+        },
+        {
+          "name": "Ramprasad Rao"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in the Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.18538v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.18538v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.18358v1",
+      "updated": "2025-08-25T18:00:05Z",
+      "published": "2025-08-25T18:00:05Z",
+      "title": "The Missing Hard Photons of Little Red Dots: Their Incident Ionizing\n  Spectra Resemble Massive Stars",
+      "summary": "  The nature of Little Red Dots (LRDs) has largely been investigated through\ntheir continuum emission, with lines assumed to arise from a broad-line region.\nIn this paper, we instead use recombination lines to infer the intrinsic\nproperties of the central engine of LRDs. Our analysis first reveals a tension\nbetween the ionizing properties implied from H$\\alpha$ and HeII$\\,\\lambda$4686.\nThe high H$\\alpha$ EWs require copious H-ionizing photons, more than the bluest\nAGN ionizing spectra can provide. In contrast, HeII emission is marginally\ndetected, and its low EW is, at most, consistent with the softest AGN spectra.\nThe low HeII/H$\\beta$ ($\\sim10^{-2}$, $<20\\times$ local AGN median) further\npoints to an unusually soft ionizing spectrum. We extend our analysis to dense\ngas environments (the ``black-hole star'' hypothesis), and find that hydrogen\nrecombination lines become optically thick and lose diagnostic power, but HeII\nremains optically thin and a robust tracer. Photoionization modeling with\nCloudy rules out standard AGN accretion disk spectra. Alternative explanations\ninclude: exotic AGN with red rest-optical emission; a very high {\\it average}\noptical depth ($>10$) from gas/dust; and/or soft ionizing spectra with abundant\nH-ionizing photons, consistent with e.g., a cold accretion disk or a composite\nof AGN and stars. The latter is an intriguing scenario since high hydrogen\ndensities are highly conducive for star formation, and nuclear star clusters\nare found in the immediate vicinity of local massive black holes. While\nprevious studies have mostly focused on features dominated by the absorbing\nhydrogen cloud, the HeII-based diagnostic proposed here represents a crucial\nstep toward understanding the central engine of LRDs.\n",
+      "author": [
+        {
+          "name": "Bingjie Wang"
+        },
+        {
+          "name": "Joel Leja"
+        },
+        {
+          "name": "Harley Katz"
+        },
+        {
+          "name": "Kohei Inayoshi"
+        },
+        {
+          "name": "Nikko J. Cleri"
+        },
+        {
+          "name": "Anna de Graaff"
+        },
+        {
+          "name": "Raphael E. Hviding"
+        },
+        {
+          "name": "Pieter van Dokkum"
+        },
+        {
+          "name": "Jenny E. Greene"
+        },
+        {
+          "name": "Ivo Labbé"
+        },
+        {
+          "name": "Jorryt Matthee"
+        },
+        {
+          "name": "Ian McConachie"
+        },
+        {
+          "name": "Rohan P. Naidu"
+        },
+        {
+          "name": "Erica J. Nelson"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Submitted to ApJ; 25 pages, 14 figures, 1 table",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.18358v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.18358v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2508.15056v1",
       "updated": "2025-08-20T20:44:57Z",
