@@ -1,6 +1,211 @@
 {
-  "fetched_at": "2025-08-28T01:54:25.371Z",
+  "fetched_at": "2025-08-28T06:36:27.706Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.19767v1",
+      "updated": "2025-08-27T10:46:00Z",
+      "published": "2025-08-27T10:46:00Z",
+      "title": "Attempting an accurate age estimate of the open cluster NGC 6633 using\n  CoRoT and Gaia",
+      "summary": "  Asteroseismology of solar-like oscillations in giant stars allow the\nderivation of their masses and radii. For members of open clusters, this\nprovides an age of the cluster that should be identical to the one derived from\nthe colour-magnitude diagram, but independent of the uncertainties that are\npresent for that type of analysis. We aim to identify and measure the\nproperties of giant members of the open cluster NGC6633, and combine these with\nasteroseismic measurements to derive a precise and self-consistent cluster age.\nImportantly, we wish to constrain the effects of rotational mixing on stellar\nevolution, since assumptions about internal mixing can have a significant\nimpact on stellar age estimates. We identify five giant members of NGC6633\nusing photometry and Gaia data, supplemented by spectroscopic literature\nmeasurements. These are combined with asteroseismic measurements from CoRoT\ndata and compared to stellar-model isochrones. This constrains the interior\nmixing to a low level and enables the most precise, accurate and\nself-consistent age estimate so far for this cluster. Asteroseismology of the\ngiants and the cluster colour-magnitude diagram provide self-consistent masses\nof the giant members and their radii constrain the stellar interior mixing to a\nlow level. The [C/N] ratios and Li abundances also suggest that rotation has\nhad very little influence on the evolution of the stars in NGC 6633. This\nresults in an age estimate of 0.55+0.05-0.10 Gyr for NGC6633. Four giant\nmembers appear to be in the helium-core burning evolutionary phase as also\nexpected from evolutionary timescales. For the largest giant, the evidence\nremains inconclusive. A comparison to other age and mass estimates for the same\nstars in the literature uncovers biases for automated age estimates of\nhelium-core burning stars.\n",
+      "author": [
+        {
+          "name": "K. Brogaard"
+        },
+        {
+          "name": "A. Miglio"
+        },
+        {
+          "name": "T. Arentoft"
+        },
+        {
+          "name": "J. S. Thomsen"
+        },
+        {
+          "name": "G. Casali"
+        },
+        {
+          "name": "L. Martinelli"
+        },
+        {
+          "name": "E. Willett"
+        },
+        {
+          "name": "M. Tailo"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "12 pages, 5 figures, accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.19767v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.19767v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.19715v1",
+      "updated": "2025-08-27T09:21:38Z",
+      "published": "2025-08-27T09:21:38Z",
+      "title": "Meridional Circulation II: A Unified Mechanism for Lithium Depletion in\n  Solar Analogs and the Lithium Dip in Mid-F Cluster Stars",
+      "summary": "  The behavior of lithium (Li) in Population I main sequence stars challenges\nstandard stellar theory. Two phenomena stand out: the solar Li problem which\nextends to Li depletion in solar analogs and the Li dip observed in mid-F stars\nwithin open clusters. Building on the meridional circulation-driven radial\nmixing framework previously developed to explain Li-enriched red clump stars,\nwe explore its relevance to Li depletion on the main sequence. First, our\nmodels reproduce the observed $A(\\text{Li})$-Age correlation in solar analogs.\nThrough detailed isochrone analysis, we find good agreement between the\nsimulated and observed $A(\\text{Li})$-$T_{\\text{eff}}$ relationships within the\nsolar analog parameter space. However, the predicted solar Li abundance ($\\sim\n1.5\\,\\text{dex}$) is still higher than current solar measurements. Second, our\nmodels partially explain the Li dip phenomenon in mid-F cluster stars. The\nmodels accurately reproduce Li distributions on the cool side of the Li dip in\nmost clusters and capture the Li behaviors on the hot side observed in systems\nlike the Hyades. However, we identify limitations in the models' ability to\nfully reproduce the dip morphology, particularly due to the rotation velocity\ndistribution of sample stars in this temperature zone.\n",
+      "author": [
+        {
+          "name": "Xuefeng Li"
+        },
+        {
+          "name": "Jianrong Shi"
+        },
+        {
+          "name": "Yan Li"
+        },
+        {
+          "name": "Hongliang Yan"
+        },
+        {
+          "name": "Jinghua Zhang"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted in Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.19715v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.19715v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.19457v1",
+      "updated": "2025-08-26T22:15:58Z",
+      "published": "2025-08-26T22:15:58Z",
+      "title": "Tidal Tails in Open Clusters I. Morphology, Binary Fraction, Dynamics,\n  and Rotation",
+      "summary": "  Context: This research presents unsupervised machine learning and statistical\nmethods to identify and analyze tidal tails in open star clusters using data\nfrom the Gaia-DR3 catalog. Aims: We aim to identify member stars, detect and\nanalyze tidal tails in five open clusters, BH 164, Alessi 2, NGC 2281, NGC\n2354, and M67, of ages between 60 Myr and 4 Gyr. These clusters were selected\nbased on the previous evidence of extended tidal structures. Methods: We\nutilized machine learning algorithms such as Density-Based Spatial Clustering\nof Applications with Noise (DBSCAN) and Principal Component Analysis (PCA),\nalong with statistical methods to analyze the kinematic, photometric, and\nastrometric properties of stars. Key characteristics of tidal tails, including\nradial velocity, color-magnitude diagram, and spatial projections in the\ntangent plane beyond the cluster's Jacobi radius ($r_J$), were used to detect\nthem. We used N-body simulations to visualize and compare the observables with\nreal data. Further analysis was done on the detected cluster and tail stars to\nstudy their internal dynamics and populations, including binary fraction. We\nalso applied the residual velocity method to detect rotational patterns in the\nclusters and their tails. Results: We identified tidal tails in all five\nclusters, with detected tails extending farther in some clusters and containing\nsignificantly more stars than previously reported (tails ranging from 40 to 100\npc, one to four times the Jacobi radius, with 100 - 200 tail stars). The\nluminosity functions of the tails and their parent clusters were generally\nconsistent, and tails lacked massive stars. In general, the binary fraction was\nfound to be higher in the tidal tails. Significant rotation was detected in M67\nand NGC 2281 for the first time.\n",
+      "author": [
+        {
+          "name": "Ira Sharma"
+        },
+        {
+          "name": "Vikrant V. Jadhav"
+        },
+        {
+          "name": "Annapurni Subramaniam"
+        },
+        {
+          "name": "Henriette Wirth"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 12 figures, 3 tables. Manuscript is under review at\n  Astronomy & Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.19457v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.19457v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 7
+    },
     {
       "id": "http://arxiv.org/abs/2508.18538v1",
       "updated": "2025-08-25T22:19:48Z",
