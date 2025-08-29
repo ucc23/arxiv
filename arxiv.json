@@ -1,6 +1,84 @@
 {
-  "fetched_at": "2025-08-29T01:54:17.324Z",
+  "fetched_at": "2025-08-29T06:35:19.415Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.20191v1",
+      "updated": "2025-08-27T18:10:35Z",
+      "published": "2025-08-27T18:10:35Z",
+      "title": "Chaos and Carter: Extreme-mass-ratio systems of relativistic rotating\n  black holes in astrophysical environments",
+      "summary": "  Extreme-mass-ratio inspirals, where a stellar-mass object orbits a\nsupermassive black hole, are prime sources of millihertz gravitational waves\nfor upcoming space-based detectors. While most studies assume idealized vacuum\nbackgrounds, realistic extreme-mass-ratio binaries are embedded in\nastrophysical environments, such as accretion disks, stellar clusters, or dark\nmatter spikes, disks and halos, that can significantly alter the orbital\ndynamics. We explore bound geodesics around general-relativistic solutions\ndescribing rotating black holes surrounded by matter halos, for the first time,\nand map how environmental effects meddle with the spacetime symmetries of\nvacuum spinning (Kerr) black holes. In particular, we find that the loss of a\nCarter-like constant leads to geodesic non-integrability and the onset of\nchaos. This manifests through resonant island and chaotic layer formations\naround transient orbital resonances in phase space; features that are otherwise\ncompletely absent in integrable Kerr geodesics. Resonant islands, which are\nextended, non-zero volume regions in phase space, encapsulate periodic orbit\npoints. Non-integrability ensures that the periodicity of the central resonant\npoint is shared throughout the island's geodesics, thus effectively enhancing\nthe lifespan of resonances, beyond Kerr-based predictions. Therefore, they can\nsubject distinct imprint on gravitational-wave signals, with significant\nconsequences for gravitational-wave modeling and parameter inference of\nastrophysical extreme-mass-ratio inspirals.\n",
+      "author": [
+        {
+          "name": "Kyriakos Destounis"
+        },
+        {
+          "name": "Pedro G. S. Fernandes"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "17 pages, 3 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.20191v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.20191v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "gr-qc",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "hep-ph",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "hep-th",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2508.19767v1",
       "updated": "2025-08-27T10:46:00Z",
