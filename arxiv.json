@@ -1,6 +1,169 @@
 {
-  "fetched_at": "2025-09-01T02:10:45.372Z",
+  "fetched_at": "2025-09-01T06:39:03.675Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2508.21748v1",
+      "updated": "2025-08-29T16:20:50Z",
+      "published": "2025-08-29T16:20:50Z",
+      "title": "A direct black hole mass measurement in a Little Red Dot at the Epoch of\n  Reionization",
+      "summary": "  Recent discoveries of faint active galactic nuclei (AGN) at the redshift\nfrontier have revealed a plethora of broad \\Halpha emitters with optically red\ncontinua, named Little Red Dots (LRDs), which comprise 15-30\\% of the high\nredshift broad line AGN population. Due to their peculiar spectral properties\nand X-ray weakness, modeling LRDs with standard AGN templates has proven\nchallenging. In particular, the validity of single-epoch virial mass estimates\nin determining the black hole (BH) masses of LRDs has been called into\nquestion, with some models claiming that masses might be overestimated by up to\n2 orders of magnitude, and other models claiming that LRDs may be entirely\nstellar in nature. We report the direct, dynamical BH mass measurement in a\nstrongly lensed LRD at $z = 7.04$. The combination of lensing with deep\nspectroscopic data reveals a rotation curve that is inconsistent with a nuclear\nstar cluster, yet can be well explained by Keplerian rotation around a point\nmass of 50 million Solar masses, consistent with virial BH mass estimates from\nthe Balmer lines. The Keplerian rotation leaves little room for any stellar\ncomponent in a host galaxy, as we conservatively infer $M_{\\rm BH}/M_{*}>2$.\nSuch a ''naked'' black hole, together with its near-pristine environment,\nindicates that this LRD is a massive black hole seed caught in its earliest\naccretion phase.\n",
+      "author": [
+        {
+          "name": "Ignas Juodžbalis"
+        },
+        {
+          "name": "Cosimo Marconcini"
+        },
+        {
+          "name": "Francesco D'Eugenio"
+        },
+        {
+          "name": "Roberto Maiolino"
+        },
+        {
+          "name": "Alessandro Marconi"
+        },
+        {
+          "name": "Hannah Übler"
+        },
+        {
+          "name": "Jan Scholtz"
+        },
+        {
+          "name": "Xihan Ji"
+        },
+        {
+          "name": "Santiago Arribas"
+        },
+        {
+          "name": "Jake S. Bennett"
+        },
+        {
+          "name": "Volker Bromm"
+        },
+        {
+          "name": "Andrew J. Bunker"
+        },
+        {
+          "name": "Stefano Carniani"
+        },
+        {
+          "name": "Stéphane Charlot"
+        },
+        {
+          "name": "Giovanni Cresci"
+        },
+        {
+          "name": "Eiichi Egami"
+        },
+        {
+          "name": "Andrew Fabian"
+        },
+        {
+          "name": "Kohei Inayoshi"
+        },
+        {
+          "name": "Yuki Isobe"
+        },
+        {
+          "name": "Lucy Ivey"
+        },
+        {
+          "name": "Gareth C. Jones"
+        },
+        {
+          "name": "Sophie Koudmani"
+        },
+        {
+          "name": "Nicolas Laporte"
+        },
+        {
+          "name": "Boyuan Liu"
+        },
+        {
+          "name": "Jianwei Lyu"
+        },
+        {
+          "name": "Giovanni Mazzolari"
+        },
+        {
+          "name": "Stephanie Monty"
+        },
+        {
+          "name": "Eleonora Parlanti"
+        },
+        {
+          "name": "Pablo G. Pérez-González"
+        },
+        {
+          "name": "Michele Perna"
+        },
+        {
+          "name": "Brant Robertson"
+        },
+        {
+          "name": "Raffaella Schneider"
+        },
+        {
+          "name": "Debora Sijacki"
+        },
+        {
+          "name": "Sandro Tacchella"
+        },
+        {
+          "name": "Alessandro Trinca"
+        },
+        {
+          "name": "Rosa Valiante"
+        },
+        {
+          "name": "Marta Volonteri"
+        },
+        {
+          "name": "Joris Witstok"
+        },
+        {
+          "name": "Saiyang Zhang"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "17 pages, 11 figures. Submitted",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.21748v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.21748v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2508.20191v1",
       "updated": "2025-08-27T18:10:35Z",
