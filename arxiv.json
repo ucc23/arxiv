@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-09-02T18:32:13.214Z",
+  "fetched_at": "2025-09-03T01:48:23.559Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2508.21748v1",
@@ -144,6 +144,172 @@
           "$": {
             "title": "pdf",
             "href": "http://arxiv.org/pdf/2508.21748v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.21748v2",
+      "updated": "2025-09-01T10:05:21Z",
+      "published": "2025-08-29T16:20:50Z",
+      "title": "A direct black hole mass measurement in a Little Red Dot at the Epoch of\n  Reionization",
+      "summary": "  Recent discoveries of faint active galactic nuclei (AGN) at the redshift\nfrontier have revealed a plethora of broad \\Halpha emitters with optically red\ncontinua, named Little Red Dots (LRDs), which comprise 15-30\\% of the high\nredshift broad line AGN population. Due to their peculiar spectral properties\nand X-ray weakness, modeling LRDs with standard AGN templates has proven\nchallenging. In particular, the validity of single-epoch virial mass estimates\nin determining the black hole (BH) masses of LRDs has been called into\nquestion, with some models claiming that masses might be overestimated by up to\n2 orders of magnitude, and other models claiming that LRDs may be entirely\nstellar in nature. We report the direct, dynamical BH mass measurement in a\nstrongly lensed LRD at $z = 7.04$. The combination of lensing with deep\nspectroscopic data reveals a rotation curve that is inconsistent with a nuclear\nstar cluster, yet can be well explained by Keplerian rotation around a point\nmass of 50 million Solar masses, consistent with virial BH mass estimates from\nthe Balmer lines. The Keplerian rotation leaves little room for any stellar\ncomponent in a host galaxy, as we conservatively infer $M_{\\rm BH}/M_{*}>2$.\nSuch a ''naked'' black hole, together with its near-pristine environment,\nindicates that this LRD is a massive black hole seed caught in its earliest\naccretion phase.\n",
+      "author": [
+        {
+          "name": "Ignas Juodžbalis"
+        },
+        {
+          "name": "Cosimo Marconcini"
+        },
+        {
+          "name": "Francesco D'Eugenio"
+        },
+        {
+          "name": "Roberto Maiolino"
+        },
+        {
+          "name": "Alessandro Marconi"
+        },
+        {
+          "name": "Hannah Übler"
+        },
+        {
+          "name": "Jan Scholtz"
+        },
+        {
+          "name": "Xihan Ji"
+        },
+        {
+          "name": "Santiago Arribas"
+        },
+        {
+          "name": "Jake S. Bennett"
+        },
+        {
+          "name": "Volker Bromm"
+        },
+        {
+          "name": "Andrew J. Bunker"
+        },
+        {
+          "name": "Stefano Carniani"
+        },
+        {
+          "name": "Stéphane Charlot"
+        },
+        {
+          "name": "Giovanni Cresci"
+        },
+        {
+          "name": "Pratika Dayal"
+        },
+        {
+          "name": "Eiichi Egami"
+        },
+        {
+          "name": "Andrew Fabian"
+        },
+        {
+          "name": "Kohei Inayoshi"
+        },
+        {
+          "name": "Yuki Isobe"
+        },
+        {
+          "name": "Lucy Ivey"
+        },
+        {
+          "name": "Gareth C. Jones"
+        },
+        {
+          "name": "Sophie Koudmani"
+        },
+        {
+          "name": "Nicolas Laporte"
+        },
+        {
+          "name": "Boyuan Liu"
+        },
+        {
+          "name": "Jianwei Lyu"
+        },
+        {
+          "name": "Giovanni Mazzolari"
+        },
+        {
+          "name": "Stephanie Monty"
+        },
+        {
+          "name": "Eleonora Parlanti"
+        },
+        {
+          "name": "Pablo G. Pérez-González"
+        },
+        {
+          "name": "Michele Perna"
+        },
+        {
+          "name": "Brant Robertson"
+        },
+        {
+          "name": "Raffaella Schneider"
+        },
+        {
+          "name": "Debora Sijacki"
+        },
+        {
+          "name": "Sandro Tacchella"
+        },
+        {
+          "name": "Alessandro Trinca"
+        },
+        {
+          "name": "Rosa Valiante"
+        },
+        {
+          "name": "Marta Volonteri"
+        },
+        {
+          "name": "Joris Witstok"
+        },
+        {
+          "name": "Saiyang Zhang"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pages, 11 figures. Submitted. Typos corrected",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.21748v2",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.21748v2",
             "rel": "related",
             "type": "application/pdf"
           }
@@ -388,64 +554,6 @@
         }
       ],
       "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2508.19457v1",
-      "updated": "2025-08-26T22:15:58Z",
-      "published": "2025-08-26T22:15:58Z",
-      "title": "Tidal Tails in Open Clusters I. Morphology, Binary Fraction, Dynamics,\n  and Rotation",
-      "summary": "  Context: This research presents unsupervised machine learning and statistical\nmethods to identify and analyze tidal tails in open star clusters using data\nfrom the Gaia-DR3 catalog. Aims: We aim to identify member stars, detect and\nanalyze tidal tails in five open clusters, BH 164, Alessi 2, NGC 2281, NGC\n2354, and M67, of ages between 60 Myr and 4 Gyr. These clusters were selected\nbased on the previous evidence of extended tidal structures. Methods: We\nutilized machine learning algorithms such as Density-Based Spatial Clustering\nof Applications with Noise (DBSCAN) and Principal Component Analysis (PCA),\nalong with statistical methods to analyze the kinematic, photometric, and\nastrometric properties of stars. Key characteristics of tidal tails, including\nradial velocity, color-magnitude diagram, and spatial projections in the\ntangent plane beyond the cluster's Jacobi radius ($r_J$), were used to detect\nthem. We used N-body simulations to visualize and compare the observables with\nreal data. Further analysis was done on the detected cluster and tail stars to\nstudy their internal dynamics and populations, including binary fraction. We\nalso applied the residual velocity method to detect rotational patterns in the\nclusters and their tails. Results: We identified tidal tails in all five\nclusters, with detected tails extending farther in some clusters and containing\nsignificantly more stars than previously reported (tails ranging from 40 to 100\npc, one to four times the Jacobi radius, with 100 - 200 tail stars). The\nluminosity functions of the tails and their parent clusters were generally\nconsistent, and tails lacked massive stars. In general, the binary fraction was\nfound to be higher in the tidal tails. Significant rotation was detected in M67\nand NGC 2281 for the first time.\n",
-      "author": [
-        {
-          "name": "Ira Sharma"
-        },
-        {
-          "name": "Vikrant V. Jadhav"
-        },
-        {
-          "name": "Annapurni Subramaniam"
-        },
-        {
-          "name": "Henriette Wirth"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "19 pages, 12 figures, 3 tables. Manuscript is under review at\n  Astronomy & Astrophysics",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2508.19457v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2508.19457v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 7
     }
   ]
 }
