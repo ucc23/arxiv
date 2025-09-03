@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-09-03T01:48:23.559Z",
+  "fetched_at": "2025-09-03T06:33:59.971Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2508.21748v1",
@@ -458,6 +458,84 @@
           "$": {
             "title": "pdf",
             "href": "http://arxiv.org/pdf/2508.19767v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2508.19767v2",
+      "updated": "2025-09-02T09:31:13Z",
+      "published": "2025-08-27T10:46:00Z",
+      "title": "Attempting an accurate age estimate of the open cluster NGC 6633 using\n  CoRoT and Gaia",
+      "summary": "  Asteroseismology of solar-like oscillations in giant stars allow the\nderivation of their masses and radii. For members of open clusters, this\nprovides an age of the cluster that should be identical to the one derived from\nthe colour-magnitude diagram, but independent of the uncertainties that are\npresent for that type of analysis. We aim to identify and measure the\nproperties of giant members of the open cluster NGC6633, and combine these with\nasteroseismic measurements to derive a precise and self-consistent cluster age.\nImportantly, we wish to constrain the effects of rotational mixing on stellar\nevolution, since assumptions about internal mixing can have a significant\nimpact on stellar age estimates. We identify five giant members of NGC6633\nusing photometry and Gaia data, supplemented by spectroscopic literature\nmeasurements. These are combined with asteroseismic measurements from CoRoT\ndata and compared to stellar-model isochrones. This constrains the interior\nmixing to a low level and enables the most precise, accurate and\nself-consistent age estimate so far for this cluster. Asteroseismology of the\ngiants and the cluster colour-magnitude diagram provide self-consistent masses\nof the giant members and their radii constrain the stellar interior mixing to a\nlow level. The [C/N] ratios and Li abundances also suggest that rotation has\nhad very little influence on the evolution of the stars in NGC 6633. This\nresults in an age estimate of 0.55+0.05-0.10 Gyr for NGC6633. Four giant\nmembers appear to be in the helium-core burning evolutionary phase as also\nexpected from evolutionary timescales. For the largest giant, the evidence\nremains inconclusive. A comparison to other age and mass estimates for the same\nstars in the literature uncovers biases for automated age estimates of\nhelium-core burning stars.\n",
+      "author": [
+        {
+          "name": "K. Brogaard"
+        },
+        {
+          "name": "A. Miglio"
+        },
+        {
+          "name": "T. Arentoft"
+        },
+        {
+          "name": "J. S. Thomsen"
+        },
+        {
+          "name": "G. Casali"
+        },
+        {
+          "name": "L. Martinelli"
+        },
+        {
+          "name": "E. Willett"
+        },
+        {
+          "name": "M. Tailo"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "12 pages, 5 figures, accepted for publication in A&A, layout &\n  affiliation corrections relative to v1",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2508.19767v2",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2508.19767v2",
             "rel": "related",
             "type": "application/pdf"
           }
