@@ -1,6 +1,785 @@
 {
-  "fetched_at": "2025-09-04T01:48:53.156Z",
+  "fetched_at": "2025-09-04T06:34:37.459Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.03461v1",
+      "updated": "2025-09-03T16:37:39Z",
+      "published": "2025-09-03T16:37:39Z",
+      "title": "Crowning the Queen: Membership, Age, Rotation, and Activity for the Open\n  Cluster Coma Berenices",
+      "summary": "  Despite being only 85 pc away, the open cluster Coma Berenices (Coma Ber) has\nnot been extensively studied. This is due in part to its sparseness and low\nproper motion, which together made Coma Ber's membership challenging to\nestablish. Gaia data for $\\approx$400 previously cataloged candidate cluster\nstars allowed us to identify $\\approx$300 as members. With [Fe/H] measurements\nfor nine members, we found that Coma Ber has a solar metallicity, and then fit\nisochrones to its color--magnitude diagram to determine that it is 675$\\pm$100\nMyr old. With photometry obtained by the Transiting Exoplanet Survey Satellite\n(TESS) and Zwicky Transient Facility (ZTF), we measured rotation periods for\n137 of Coma Ber's low-mass stars, increasing the sample of members with\nmeasured periods by a factor of six, and extending the rotational census for\nthe cluster from its late F stars through to its fully convective M dwarfs. By\nmeasuring the equivalent width of the H$\\alpha$ line for $\\approx$250 stars and\ncollecting X-ray detections for $\\approx$100 ($\\approx$85% and $\\approx$33% of\nthe cluster's members, respectively), we characterized magnetic activity in\nComa Ber and examined the dependence of chromospheric and of coronal activity\non rotation in these stars. Despite having a metallicity that is 0.2 dex below\nthat of their coeval cousins in Praesepe and the Hyades, low-mass stars in Coma\nBer seem to follow a similar rotation--activity relation. In detail, however,\nthere are differences that may provide further insight into the impact of\nmetallicity on this still poorly understood relation.\n",
+      "author": [
+        {
+          "name": "M. A. Agüeros",
+          "arxiv:affiliation": [
+            {
+              "_": "Columbia University",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Laboratoire d'astrophysique de Bordeaux",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "J. L. Curtis",
+          "arxiv:affiliation": {
+            "_": "Columbia University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. Núñez",
+          "arxiv:affiliation": {
+            "_": "Columbia University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "C. Burhenne",
+          "arxiv:affiliation": {
+            "_": "Rutgers",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "P. Rothstein",
+          "arxiv:affiliation": {
+            "_": "Columbia University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "B. J. Shaham",
+          "arxiv:affiliation": {
+            "_": "Columbia University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "K. Singh",
+          "arxiv:affiliation": {
+            "_": "Columbia University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "P. Bergeron",
+          "arxiv:affiliation": {
+            "_": "Université de Montréal",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "M. Kilic",
+          "arxiv:affiliation": {
+            "_": "University of Oklahoma",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "K. R. Covey",
+          "arxiv:affiliation": {
+            "_": "Western Washington University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "S. T. Douglas",
+          "arxiv:affiliation": {
+            "_": "Lafayette College",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "34 pages, 24 figures, 5 tables. Accepted by The Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.03461v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.03461v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.03364v1",
+      "updated": "2025-09-03T14:48:04Z",
+      "published": "2025-09-03T14:48:04Z",
+      "title": "Extending the simulations of intermediate-mass black hole mass\n  measurements to Virgo Cluster using ELT/HARMONI high resolution\n  integral-field stellar kinematics",
+      "summary": "  The firm co-existence of intermediate-mass black holes (IMBHs, $M_{\\rm BH}\n\\approx 10^3-10^6 M_odot$) in nuclear star clusters (NSCs) remains uncertain\nbecause the limited number of verified instances within the local Universe,\nlimited within 3.5 Mpc. They are crucial for our understanding about the\nformation and evolution of supermassive black holes (SMBHs). The upcoming\nExtremely Large Telescope (ELT) promises to revolutionize the detection of\nthese mysterious objects. In this study, we simulated the kinematics of an IMBH\nwithin the nuclear star cluster of VCC 1861, one of the faintest galaxies in\nthe Virgo Cluster. Using Jeans Anisotropic Modeling (JAM) and stellar density\nprofiles derived from Hubble Space Telescope (HST) data and the HSIM program,\nwe created mock High Angular Resolution Monolithic Optical and Near-infrared\nIntegral field spectrograph (HARMONI) observations for the ELT. We then extract\nstellar kinematics from these mock data and recover the BH mass using the JAM\nmodel with Markov Chain Monte Carlo simulation method. Our results demonstrate\nthe ELT's capability to detect IMBHs with masses comprising 5% of the NSC's\nmass at the distance of the Virgo Cluster.\n",
+      "author": [
+        {
+          "name": "Hai N Ngo"
+        },
+        {
+          "name": "Dieu D. Nguyen"
+        },
+        {
+          "name": "Truong N. Nguyen"
+        },
+        {
+          "name": "Trung H. Dang"
+        },
+        {
+          "name": "Tien H. T. Ho"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.03364v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.03364v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.03153v1",
+      "updated": "2025-09-03T09:06:47Z",
+      "published": "2025-09-03T09:06:47Z",
+      "title": "A comprehensive catalogue of OB cluster candidates in M31 and their\n  association with giant molecular clouds",
+      "summary": "  We present a new catalogue of 578 OB cluster (OBC) candidates in the\nAndromeda galaxy (M31), identified using a MeanShift-based algorithm on HST's\nF275W-band imaging from the PHAT (Dalcanton et al. 2012) and PHAST (Chen et al.\n2025) Hubble surveys. These clusters exhibit typical half-light radii of 1-2 pc\nand strong ultraviolet luminosities indicative of recent massive star\nformation. Spatial analysis reveals a pronounced north-south asymmetry:\nclusters in the northern disc show tight associations with giant molecular\nclouds (GMCs), while southern clusters appear more compact and luminous but\nless correlated with molecular gas. Two-point correlation functions demonstrate\nsignificant clustering of OBC candidates on scales 100 pc and a strong spatial\nassociation with GMCs, consistent with hierarchical star formation in dense\ngas-rich environments. These findings offer new constraints on the early\nevolution and feedback-driven dispersal of young stellar clusters across\ngalactic discs.\n",
+      "author": [
+        {
+          "name": "Yuan Liang"
+        },
+        {
+          "name": "Guang-Wei Li"
+        },
+        {
+          "name": "Chao-Wei Tsai"
+        },
+        {
+          "name": "Jingwen Wu"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1093/mnras/staf1317",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1093/mnras/staf1317",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.03153v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.03153v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:journal_ref": {
+        "_": "MNRAS, 542, 1562-1572 (2025)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.02394v1",
+      "updated": "2025-09-02T15:01:28Z",
+      "published": "2025-09-02T15:01:28Z",
+      "title": "Eccentricity distribution of extreme mass ratio inspirals",
+      "summary": "  We present realistic eccentricity distributions for extreme mass ratio\ninspirals (EMRIs) forming via the two-body relaxation channel in nuclear star\nclusters, tracking their evolution up to the final plunge onto the central\nSchwarzschild massive black hole (MBH). We find that EMRIs can retain\nsignificant eccentricities at plunge, with a distribution peaking at\n$e_\\mathrm{pl} \\approx0.2$, and a considerable fraction reaching much higher\nvalues. In particular, up to $20\\%$ of the forming EMRIs feature $e_\\mathrm{pl}\n> 0.5$ for central MBH masses $M_\\bullet$ in the range $10^5 \\mathrm{M_\\odot}\n\\leq M_\\bullet \\leq 10^6 \\mathrm{M_\\odot}$, partially due to EMRIs forming at\nlarge semi-major axes and \"cliffhanger EMRI\", usually neglected in literature.\nThis highlights the importance of accounting for eccentricity in waveform\nmodeling and detection strategies for future space-based gravitational wave\nobservatories such as the upcoming Laser Interferometer Space Antenna (LISA).\nFurthermore, we find that the numerical fluxes in energy and angular momentum\ncurrently implemented in the FastEMRIWaveforms (FEW) package may not adequately\nsample the full parameter space relevant to low-mass MBHs ($M_\\bullet < 10^6\n\\mathrm{M_\\odot}$), potentially limiting its predictive power in that regime.\nSpecifically, for $M_\\bullet=10^5 \\mathrm{M_\\odot}$ we find that about $75\\%$\n($50 \\%$) of EMRIs at 2 years (6 months) from plunge fall outside the currently\navailable flux parameter space. Our findings motivate the development of\nextended flux grids and improved interpolation schemes to enable accurate\nmodeling of EMRIs across a broader range of system parameters.\n",
+      "author": [
+        {
+          "name": "Davide Mancieri"
+        },
+        {
+          "name": "Luca Broggi"
+        },
+        {
+          "name": "Morgan Vinciguerra"
+        },
+        {
+          "name": "Alberto Sesana"
+        },
+        {
+          "name": "Matteo Bonetti"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 8 figures, 1 table; submitted to Phys. Rev. D",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.02394v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.02394v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.01740v1",
+      "updated": "2025-09-01T19:46:33Z",
+      "published": "2025-09-01T19:46:33Z",
+      "title": "FEAST: JWST/NIRCam view of the Resolved Stellar Populations of the\n  Interacting Dwarf Galaxies NGC~4485/NGC~4490",
+      "summary": "  We present new JWST/NIRCam observations of the interacting dwarf galaxy\nsystem NGC 4485/NGC 4490 (a.k.a. Arp 269), obtained as part of the Cycle 1\nFeedback in Emerging extrAgalactic Star clusTers (FEAST) program. NGC 4485 and\nNGC 4490 form the closest known pair of interacting late-type dwarf galaxies\n(at $\\sim 7.4$ Mpc), excluding the Magellanic Clouds. Near-infrared\ncolor-magnitude diagrams (CMDs) reveal a wide range of stellar populations in\nboth galaxies, including young ($\\lesssim 200$ Myr) upper main sequence stars,\ncore helium-burning stars, and oxygen-rich asymptotic giant branch (AGB) stars.\nWe also identify intermediate-age ($\\sim 200$ Myr -- $1$ Gyr) carbon-rich AGB\nstars and a well-populated old ($\\gtrsim 1$ Gyr) red giant branch (RGB). The\nCMDs show two distinct bursts of star formation beginning $\\sim 30$ Myr and\n$\\sim 200$ Myr ago, the latter consistent with the most recent pericenter\npassage predicted by N-body simulations. The spatial distribution of stars\nreveals a tidal bridge extending from NGC 4485 and connecting to the disk of\nNGC 4490. Compact star-forming regions are seen along NGC 4490's spiral arms,\npossibly originating from its infrared nucleus. A significant metallicity\ngradient is observed in the young stellar populations forming the bridge. These\nfindings suggest that during the last pericenter passage, gas was stripped from\nNGC 4485 via tidal forces or ram pressure, accreted by NGC 4490, and mixed with\nin-situ material, fueling ongoing star formation. This system provides a unique\nnearby laboratory for studying how tidal interactions shape the star formation\nand chemical enrichment history of dwarf galaxies.\n",
+      "author": [
+        {
+          "name": "Giacomo Bortolini"
+        },
+        {
+          "name": "Matteo Correnti"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Michele Cignoni"
+        },
+        {
+          "name": "Elena Sacchi"
+        },
+        {
+          "name": "Monica Tosi"
+        },
+        {
+          "name": "Göran Östlin"
+        },
+        {
+          "name": "Anastasios Kapodistrias"
+        },
+        {
+          "name": "Arjan Bik"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Ana Duarte-Cabral"
+        },
+        {
+          "name": "Flavia Dell'Agli"
+        },
+        {
+          "name": "John S. Gallagher"
+        },
+        {
+          "name": "Benjamin Gregg"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Thomas S. -Y. Lai"
+        },
+        {
+          "name": "Drew Lapeer"
+        },
+        {
+          "name": "Sean T. Linden"
+        },
+        {
+          "name": "Matteo Messa"
+        },
+        {
+          "name": "Alex Pedrini"
+        },
+        {
+          "name": "Elena Sabbi"
+        },
+        {
+          "name": "Linda J. Smith"
+        },
+        {
+          "name": "Helena Faustino Vieira"
+        },
+        {
+          "name": "John M. Cannon"
+        },
+        {
+          "name": "Salvador Duarte Puertas"
+        },
+        {
+          "name": "Carmelle Robert"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "21 pages. 13 figures. Accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.01740v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.01740v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.01670v1",
+      "updated": "2025-09-01T18:00:04Z",
+      "published": "2025-09-01T18:00:04Z",
+      "title": "The near infrared SED of young star clusters in the FEAST galaxies:\n  Missing ingredients at 1 - 5 $μ$m",
+      "summary": "  We present a combined HST and JWST 0.2 - to - 5 $\\mu$m analysis of the\nspectral energy distributions (SEDs) of emerging young star clusters (eYSCs) in\nfour nearby galaxies from the Feedback in Emerging extrAgalactic Star clusTers\n(FEAST) survey: M51, M83, NGC 628, and NGC 4449. These clusters, selected for\ntheir bright Pa$\\alpha$ and 3.3 $\\mu$m polycyclic aromatic hydrocarbon (PAH)\nemission, are still associated to their natal gas cloud and have been largely\nmissed in previous HST optical campaigns. We modeled their SEDs using the\nCIGALE fitting code and identified: i) a systematic flux excess at 1.5 - 2.5\n$\\mu$m that is not accounted for by current stellar population models; ii) the\npreference for a set of dust model parameters that is not aligned with\nexpectations from self-consistent analyses of star-forming regions, suggesting\nmodel shortcomings also in the 3 - 5 $\\mu$m. The near-infrared (NIR) excess is\nmost prominent in low-mass ($\\leq 3000$ M$_\\odot$) and young ($\\leq 6$ Myr)\nclusters. Additionally, we see that the SED fitting analysis wrongly assigns\nages $\\geq 6$ Myr to a fraction of strong Pa$\\alpha$ emitters with equivalent\nwidths suggestive of significantly younger ages. A parallel analysis with the\nslug code suggests that stochastic initial mass function (IMF) sampling of\npre-main-sequence stars combined with extinction might partially reduce the\ngap. We conclude that the inclusion of young stellar object SEDs, along with\nmore realistic sampling of the cluster IMF, might be needed to fully account\nfor the stellar population and dust properties of eYSCs.\n",
+      "author": [
+        {
+          "name": "Alex Pedrini"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Arjan Bik"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Sean T. Linden"
+        },
+        {
+          "name": "Benjamin Gregg"
+        },
+        {
+          "name": "Varun Bajaj"
+        },
+        {
+          "name": "Jenna E. Ryon"
+        },
+        {
+          "name": "Anne S. M. Buckner"
+        },
+        {
+          "name": "Giacomo Bortolini"
+        },
+        {
+          "name": "Michele Cignoni"
+        },
+        {
+          "name": "Matteo Correnti"
+        },
+        {
+          "name": "Ana Duarte-Cabral"
+        },
+        {
+          "name": "Bruce G. Elmegreen"
+        },
+        {
+          "name": "Helena Faustino Vieira"
+        },
+        {
+          "name": "John S. Gallagher"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Kelsey E. Johnson"
+        },
+        {
+          "name": "Mark R. Krumholz"
+        },
+        {
+          "name": "Drew Lapeer"
+        },
+        {
+          "name": "Thomas S. -Y. Lai"
+        },
+        {
+          "name": "Matteo Messa"
+        },
+        {
+          "name": "Göran Östlin"
+        },
+        {
+          "name": "Linn Roos"
+        },
+        {
+          "name": "Linda J. Smith"
+        },
+        {
+          "name": "Monica Tosi"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "25 pages, 15 figures, 3 tables. Accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.01670v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.01670v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.01069v1",
+      "updated": "2025-09-01T02:17:28Z",
+      "published": "2025-09-01T02:17:28Z",
+      "title": "A magnetic white dwarf formed through a binary merger within 35 million\n  years",
+      "summary": "  White dwarfs (WDs) represent the final evolutionary stage of most stars,\ntypically originating from progenitor stars with masses below approximately 8\n$M_{\\odot}$ to 10 $M_{\\odot}$. Formation through single-star evolution\ngenerally requires at least 25 Myr, with the youngest WDs often near the\nChandrasekhar limit of 1.4 $M_{\\odot}$. In contrast, WDs formed via binary\nchannels, such as mergers or mass transfer, can develop smaller masses in a\nshorter timescale and may exhibit unique characteristics, including strong\nsurface magnetic fields and rapid rotation. Accurately determining the ages of\nthese WDs is essential for understanding their formation. A valuable method\ninvolves studying WDs in star clusters, where member stars share the same age\nand chemical composition, allowing for precise constraints on the formation\ntimes and metallicities of the WDs' progenitors. Here we report a WD found in\nthe open cluster RSG 5, which is only 35 Myr old. The WD's mass is lower than\n1.05 $M_{\\odot}$, indicating it may not have formed through single-star\nevolution. The WD possesses an exceptionally strong surface magnetic field\n($\\ge 200$ MG), a short rotational period ($\\sim 6.5$ min), and, most notably,\na co-rotating half-ring of ionized circumstellar debris. This distinctive\nfeature provides evidence for a binary merger origin, a scenario further\nsubstantiated by our stellar evolution models.\n",
+      "author": [
+        {
+          "name": "Huahui Yan"
+        },
+        {
+          "name": "Jiamao Lin"
+        },
+        {
+          "name": "Rizhong Zheng"
+        },
+        {
+          "name": "Li Wang"
+        },
+        {
+          "name": "Genghao Liu"
+        },
+        {
+          "name": "Liangliang Ren"
+        },
+        {
+          "name": "Zhen Guo"
+        },
+        {
+          "name": "Siyi Xu"
+        },
+        {
+          "name": "Zhangliang Chen"
+        },
+        {
+          "name": "Chun Chen"
+        },
+        {
+          "name": "Bo Ma"
+        },
+        {
+          "name": "Yong Shao"
+        },
+        {
+          "name": "Zhenwei Li"
+        },
+        {
+          "name": "Xianfei Zhang"
+        },
+        {
+          "name": "Christoffer Fremling"
+        },
+        {
+          "name": "Jan J. Eldridge"
+        },
+        {
+          "name": "Hongwei Ge"
+        },
+        {
+          "name": "Chengyuan Li"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 9 figures, accepted for publication in ApJ Letters",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.01069v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.01069v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.00910v1",
+      "updated": "2025-08-31T15:53:14Z",
+      "published": "2025-08-31T15:53:14Z",
+      "title": "Origin of the power-law profile in a core-collapsing galactic\n  globular-cluster model",
+      "summary": "  Observed galactic globular clusters reveal power-law structural profiles in\nthe inner halos around the core-collapse stage. However, the origin of the\npower-law has not been explained in an acceptable manner. The present paper\napplies the Buckingham's Pi theorem to the orbit-averaged Fokker-Plank (OAFP)\nmodel of equal masses to study the inner-halo structure of a core-collapsing\nisotropic star cluster. We first prove that an infinite OAFP model evolves\nself-similarly because of the principle of covariance. We then show that the\ninner halo must form a power-law profile in a finite OAFP model that has\ncomplete similarity so that the principle of covariance and conservation laws\nhold. The conventional assumption that inner halos are self-similar and\nstationary is unnecessary to explain the power-law profiles.\n",
+      "author": {
+        "name": "Yuta Ito"
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.00910v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.00910v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "math-ph",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "math.MP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "physics.class-ph",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2508.21748v1",
       "updated": "2025-08-29T16:20:50Z",
