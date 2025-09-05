@@ -1,6 +1,135 @@
 {
-  "fetched_at": "2025-09-05T01:51:51.210Z",
+  "fetched_at": "2025-09-05T06:35:12.246Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.04054v1",
+      "updated": "2025-09-04T09:34:28Z",
+      "published": "2025-09-04T09:34:28Z",
+      "title": "Rubin Data Preview 1: Extending the View of Unresolved Binary Stars in\n  47 Tucanae",
+      "summary": "  Until now, the study of unresolved main sequence binary stars in globular\nclusters has been possible almost exclusively in their central regions with\ndeep Hubble Space Telescope (HST) observations. We present the first detection\nof unresolved main-sequence binary stars in the outer field of 47 Tucanae using\nRubin Observatory's Data Preview 1 (DP1). Our analysis exploits deep $i$ vs.\n$g-i$ colour-magnitude diagrams beyond the cluster's half-light radius,\nreaching almost to the tidal radius. The high-quality photometry allowed to\nidentify unresolved binaries with mass ratios $q$ larger than 0.7. The derived\nbinary fraction of $f_\\mathrm{bin}(q>0.7) = 0.016 \\pm 0.005$ stands in contrast\nto the significantly lower values in the cluster innermost regions, as measured\nfrom HST photometry. This result provides new empirical input for testing\nphysical processes that drive the formation and evolution of binary stars in\nglobular clusters. It also demonstrates Rubin's unique wide-field and\nhigh-precision photometric capabilities to address a broader range of\noutstanding questions in star cluster research. Future full data releases will\nenable to significantly expand the study of dense stellar systems across the\nMilky Way.\n",
+      "author": [
+        {
+          "name": "Giacomo Cordoni"
+        },
+        {
+          "name": "Luca Casagrande"
+        },
+        {
+          "name": "Helmut Jerjen"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "5 pages, 2 figures, accepted for publication in PASA Letters",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.04054v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.04054v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.03568v1",
+      "updated": "2025-09-03T18:00:00Z",
+      "published": "2025-09-03T18:00:00Z",
+      "title": "Probing dense environments around Sgr A* with S-stars dynamics",
+      "summary": "  The orbits of stars around Sgr A*, the Milky Way's supermassive black hole,\nprovide a unique laboratory for testing its environment with unprecedented\nprecision. In this work, we compute the apsidal precession induced by extended\nmatter distributions through Lagrange's equations and compare it with the\nmeasured precession of S2, reproducing and extending GRAVITY's constraints. In\nparticular, we push bounds on boson clouds to larger gravitational couplings\n$\\alpha$ and to the second-fastest superradiant mode. We also show that\nenvironments with mass of order $1\\%$ of Sgr A* drive stellar orbits to decay\nby dynamical friction within a few Myr. The inner star cluster is however\nefficiently replenished, masking this effect observationally. We also show that\norbital resonances from boson clouds have no impact on relevant timescales.\nWhile S2 currently provides the cleanest dataset, our framework is readily\napplicable to other stars that we identify as particularly promising, whose\norbits will be measured with increasing accuracy, opening up new opportunities\nto probe the environment of Sgr A*.\n",
+      "author": [
+        {
+          "name": "Giovanni Maria Tomaselli"
+        },
+        {
+          "name": "Andrea Caputo"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 9 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.03568v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.03568v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "hep-ph",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2509.03461v1",
       "updated": "2025-09-03T16:37:39Z",
