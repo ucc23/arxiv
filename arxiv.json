@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-09-04T18:33:08.057Z",
+  "fetched_at": "2025-09-05T01:51:51.210Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2509.03461v1",
@@ -491,7 +491,7 @@
       "id": "http://arxiv.org/abs/2509.01670v1",
       "updated": "2025-09-01T18:00:04Z",
       "published": "2025-09-01T18:00:04Z",
-      "title": "The near infrared SED of young star clusters in the FEAST galaxies:\n  Missing ingredients at 1 - 5 $μ$m",
+      "title": "The near infrared SED of young star clusters in the FEAST galaxies:\n  Missing ingredients at 1-5 $μ$m",
       "summary": "  We present a combined HST and JWST 0.2 - to - 5 $\\mu$m analysis of the\nspectral energy distributions (SEDs) of emerging young star clusters (eYSCs) in\nfour nearby galaxies from the Feedback in Emerging extrAgalactic Star clusTers\n(FEAST) survey: M51, M83, NGC 628, and NGC 4449. These clusters, selected for\ntheir bright Pa$\\alpha$ and 3.3 $\\mu$m polycyclic aromatic hydrocarbon (PAH)\nemission, are still associated to their natal gas cloud and have been largely\nmissed in previous HST optical campaigns. We modeled their SEDs using the\nCIGALE fitting code and identified: i) a systematic flux excess at 1.5 - 2.5\n$\\mu$m that is not accounted for by current stellar population models; ii) the\npreference for a set of dust model parameters that is not aligned with\nexpectations from self-consistent analyses of star-forming regions, suggesting\nmodel shortcomings also in the 3 - 5 $\\mu$m. The near-infrared (NIR) excess is\nmost prominent in low-mass ($\\leq 3000$ M$_\\odot$) and young ($\\leq 6$ Myr)\nclusters. Additionally, we see that the SED fitting analysis wrongly assigns\nages $\\geq 6$ Myr to a fraction of strong Pa$\\alpha$ emitters with equivalent\nwidths suggestive of significantly younger ages. A parallel analysis with the\nslug code suggests that stochastic initial mass function (IMF) sampling of\npre-main-sequence stars combined with extinction might partially reduce the\ngap. We conclude that the inclusion of young stellar object SEDs, along with\nmore realistic sampling of the cluster IMF, might be needed to fully account\nfor the stellar population and dust properties of eYSCs.\n",
       "author": [
         {
