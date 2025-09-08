@@ -1,6 +1,243 @@
 {
-  "fetched_at": "2025-09-08T01:57:07.929Z",
+  "fetched_at": "2025-09-08T06:37:10.698Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.04857v1",
+      "updated": "2025-09-05T07:17:29Z",
+      "published": "2025-09-05T07:17:29Z",
+      "title": "Direct measurement of ISM proper motion with image registration",
+      "summary": "  To date, quantification of the on-sky motion for interstellar clouds have\nrelied on proxies such as young stellar objects (YSO) and masers. We present\nthe first direct measurement of an interstellar cloud proper motion using the\nVISTA Star Formation Atlas (VISIONS) multi-epoch infrared images of the Corona\nAustralis star-forming region. Proper motions are extracted by tracking the\nmorphology of extended structures in the cloud complex based on image\nregistration techniques implemented in SimpleITK. Our determined values\n($\\mu_{\\alpha^*} \\sim +15$ mas/yr, $\\mu_{\\delta} \\sim -30$ mas/yr) are in good\nagreement with those obtained for YSOs and young stellar clusters in the\nregion. This study demonstrates the potential of image registration for\ndirectly mapping the kinematics of nearby molecular clouds, opening a new\nwindow into the study of cloud dynamics.\n",
+      "author": [
+        {
+          "name": "M. Piecka"
+        },
+        {
+          "name": "L. Posch"
+        },
+        {
+          "name": "S. Meingast"
+        },
+        {
+          "name": "S. Hutschenreuter"
+        },
+        {
+          "name": "A. Rottensteiner"
+        },
+        {
+          "name": "J. Alves"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "7 pages, 5 figures, 1 table, accepted for publication in Astronomy &\n  Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.04857v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.04857v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.04662v1",
+      "updated": "2025-09-04T21:21:01Z",
+      "published": "2025-09-04T21:21:01Z",
+      "title": "Resolving Emission from Small Dust Grains in the Blue Compact Dwarf II\n  Zw 40 with JWST",
+      "summary": "  We present James Webb Space Telescope (JWST) Near Infrared Spectrograph\n(NIRSpec) and Mid-infrared Instrument (MIRI) integral-field spectroscopy of the\nnearby blue compact dwarf II Zw 40, which has a low metallicity of 25% of\nsolar. Leveraging the high spatial/spectral resolution and wavelength coverage\nof JWST/NIRSpec, we present robust detections of the 3.3 um polycyclic aromatic\nhydrocarbon (PAH) emission on 20 pc scales. The strength of the Pf delta\nemission relative to the 3.3 PAH feature is significantly stronger than typical\nhigher metallicity star-forming galaxies. We find that 3.3 um PAH emission is\nconcentrated near the northern super star cluster and is co-spatial with CO\ngas. A strong correlation exists between the 3.3/11.3 PAH ratio and radiation\nhardness probed by NeIII/NeII, providing evidence of photodestruction of PAH\nmolecules in intense radiation environments. Our analysis shows that while the\noverall PAH fraction is lower in II Zw 40 than in higher metallicity galaxies,\nthe contribution of the 3.3 um PAH feature to the total PAH emission is higher.\nWe propose that the PAH size distribution is fundamentally shaped by two\ncompeting mechanisms in low-metallicity environments: photo-destruction and\ninhibited growth. Additionally, the high radiation field intensity in II Zw 40\nsuggests that multi-photon heating of PAHs may be an important effect. As one\nof the first spatially resolved studies of aromatic emission in a\nlow-metallicity environment, our spectroscopic results offer practical guidance\nfor future observations of the 3.3 um PAH feature in low-metallicity galaxies\nusing JWST.\n",
+      "author": [
+        {
+          "name": "Thomas S. -Y. Lai"
+        },
+        {
+          "name": "Sara Duval"
+        },
+        {
+          "name": "J. D. T. Smith"
+        },
+        {
+          "name": "Lee Armus"
+        },
+        {
+          "name": "Adolf N. Witt"
+        },
+        {
+          "name": "Karin Sandstrom"
+        },
+        {
+          "name": "Elizabeth Tarantino"
+        },
+        {
+          "name": "Shunsuke Baba"
+        },
+        {
+          "name": "Alberto Bolatto"
+        },
+        {
+          "name": "Grant P. Donnelly"
+        },
+        {
+          "name": "Brandon S. Hensley"
+        },
+        {
+          "name": "Masatoshi Imanishi"
+        },
+        {
+          "name": "Laura Lenkic"
+        },
+        {
+          "name": "Sean Linden"
+        },
+        {
+          "name": "Takao Nakagawa"
+        },
+        {
+          "name": "Henrik W. W. Spoon"
+        },
+        {
+          "name": "Aditya Togi"
+        },
+        {
+          "name": "Cory M. Whitcomb"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pages, 8 figures. Accepted for publication in ApJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.04662v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.04662v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.04562v1",
+      "updated": "2025-09-04T18:00:01Z",
+      "published": "2025-09-04T18:00:01Z",
+      "title": "Nuclear Stellar Discs",
+      "summary": "  We review our current understanding of nuclear stellar discs (NSDs),\nrotating, and flattened stellar structures found in the central regions of both\nearly- and late-type galaxies. We examine their demographics, kinematics,\nstellar populations, metallicity gradients and star formation histories. We\nderive scaling relations linking NSDs to properties of their host galaxies, and\ncompare them with analogous relations for nuclear star clusters. The\nrelationship between NSDs and other central galactic components, including\nnuclear rings, nuclear bars, and nuclear star clusters, is explored. The role\nof NSDs as tracers of the secular evolution of barred galaxies is highlighted,\nemphasising how they can be used to constrain properties of galactic bars such\nas their ages. Special attention is given to the Milky Way's NSD, which serves\nas a unique case study thanks to its proximity and the ability to resolve\nindividual stars. The review covers the Milky Way's NSD structure, kinematics,\ndynamics and stellar content, addressing ongoing debates about the presence of\na nuclear bar and implications of the latter for central gas dynamics. We argue\nthat NSDs form by in-situ star formation, most of them because of bar-driven\ngas inflow, but possibly in some cases because of external acquisition of gas\nduring a gas-rich merger. The review concludes by outlining open questions,\nfuture research directions and the exciting prospects provided by upcoming\nobservational facilities.\n",
+      "author": [
+        {
+          "name": "Mathias Schultheis",
+          "arxiv:affiliation": {
+            "_": "Université Côte d'Azur",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Mattia C. Sormani",
+          "arxiv:affiliation": {
+            "_": "Universitá dell'Insubria",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Dimitri A. Gadotti",
+          "arxiv:affiliation": {
+            "_": "Durham University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "To appear in The Astronomy and Astrophysics Review",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.04562v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.04562v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2509.04054v1",
       "updated": "2025-09-04T09:34:28Z",
