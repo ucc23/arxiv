@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-09-07T18:30:03.136Z",
+  "fetched_at": "2025-09-08T01:57:07.929Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2509.04054v1",
@@ -847,67 +847,6 @@
         }
       ],
       "score": 2.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2509.00910v1",
-      "updated": "2025-08-31T15:53:14Z",
-      "published": "2025-08-31T15:53:14Z",
-      "title": "Origin of the power-law profile in a core-collapsing galactic\n  globular-cluster model",
-      "summary": "  Observed galactic globular clusters reveal power-law structural profiles in\nthe inner halos around the core-collapse stage. However, the origin of the\npower-law has not been explained in an acceptable manner. The present paper\napplies the Buckingham's Pi theorem to the orbit-averaged Fokker-Plank (OAFP)\nmodel of equal masses to study the inner-halo structure of a core-collapsing\nisotropic star cluster. We first prove that an infinite OAFP model evolves\nself-similarly because of the principle of covariance. We then show that the\ninner halo must form a power-law profile in a finite OAFP model that has\ncomplete similarity so that the principle of covariance and conservation laws\nhold. The conventional assumption that inner halos are self-similar and\nstationary is unnecessary to explain the power-law profiles.\n",
-      "author": {
-        "name": "Yuta Ito"
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2509.00910v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2509.00910v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "math-ph",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "math.MP",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "physics.class-ph",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 1
     }
   ]
 }
