@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-09-09T18:31:43.673Z",
+  "fetched_at": "2025-09-10T01:49:36.686Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2509.05415v1",
@@ -716,81 +716,6 @@
         }
       },
       "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2509.02394v1",
-      "updated": "2025-09-02T15:01:28Z",
-      "published": "2025-09-02T15:01:28Z",
-      "title": "Eccentricity distribution of extreme mass ratio inspirals",
-      "summary": "  We present realistic eccentricity distributions for extreme mass ratio\ninspirals (EMRIs) forming via the two-body relaxation channel in nuclear star\nclusters, tracking their evolution up to the final plunge onto the central\nSchwarzschild massive black hole (MBH). We find that EMRIs can retain\nsignificant eccentricities at plunge, with a distribution peaking at\n$e_\\mathrm{pl} \\approx0.2$, and a considerable fraction reaching much higher\nvalues. In particular, up to $20\\%$ of the forming EMRIs feature $e_\\mathrm{pl}\n> 0.5$ for central MBH masses $M_\\bullet$ in the range $10^5 \\mathrm{M_\\odot}\n\\leq M_\\bullet \\leq 10^6 \\mathrm{M_\\odot}$, partially due to EMRIs forming at\nlarge semi-major axes and \"cliffhanger EMRI\", usually neglected in literature.\nThis highlights the importance of accounting for eccentricity in waveform\nmodeling and detection strategies for future space-based gravitational wave\nobservatories such as the upcoming Laser Interferometer Space Antenna (LISA).\nFurthermore, we find that the numerical fluxes in energy and angular momentum\ncurrently implemented in the FastEMRIWaveforms (FEW) package may not adequately\nsample the full parameter space relevant to low-mass MBHs ($M_\\bullet < 10^6\n\\mathrm{M_\\odot}$), potentially limiting its predictive power in that regime.\nSpecifically, for $M_\\bullet=10^5 \\mathrm{M_\\odot}$ we find that about $75\\%$\n($50 \\%$) of EMRIs at 2 years (6 months) from plunge fall outside the currently\navailable flux parameter space. Our findings motivate the development of\nextended flux grids and improved interpolation schemes to enable accurate\nmodeling of EMRIs across a broader range of system parameters.\n",
-      "author": [
-        {
-          "name": "Davide Mancieri"
-        },
-        {
-          "name": "Luca Broggi"
-        },
-        {
-          "name": "Morgan Vinciguerra"
-        },
-        {
-          "name": "Alberto Sesana"
-        },
-        {
-          "name": "Matteo Bonetti"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "16 pages, 8 figures, 1 table; submitted to Phys. Rev. D",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2509.02394v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2509.02394v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.HE",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "gr-qc",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 1
     }
   ]
 }
