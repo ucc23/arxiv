@@ -1,6 +1,204 @@
 {
-  "fetched_at": "2025-09-10T01:49:36.686Z",
+  "fetched_at": "2025-09-10T06:35:34.470Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.07810v1",
+      "updated": "2025-09-09T14:48:47Z",
+      "published": "2025-09-09T14:48:47Z",
+      "title": "The heart of NGC 5253 as seen with MUSE-NFM: nitrogen enrichment through\n  stellar chemical feedback at parsec scales",
+      "summary": "  NGC 5253 is a nearby (D=3.6 Mpc) Blue Compact Dwarf galaxy, notable for its\nthree massive young super star clusters (SSCs) and nitrogen enrichment. Its\nsimilarity to extreme star-forming galaxies at high redshift makes it a good\nlocal analogue for studying chemical enrichment at high spatial resolution. We\ncharacterise the ionised gas and dust in the giant HII region in the proximity\nof the three SSCs in the centre of NGC 5253 using new Multi-Unit Spectroscopic\nExplorer Narrow Field Mode adaptive optics-assisted data at unprecedented\nspatial resolution of 0.\"15$\\sim$2.3 pc. We derive the attenuation for the\ncentral SSCs and, for the first time, map the extinction parameter ($R_V$) in\nan extragalactic object. $R_V$ varies among SSCs, suggesting differences in\ndust physics. Electron temperature and density diagnostics yield flat\ntemperature distributions $T_\\mathrm{e,median}$([NII])$=12000 \\pm 1700$ K and\n$T_\\mathrm{e,median}$([SIII])$ = 11000 \\pm 600$ K, and a structured\n$n_e$([SII]) of maximum $1930 \\pm 40$ cm$^{-3}$. The direct method gives a flat\nhelium abundance ($10^3y^+ = 81 \\pm 4$) and uniform oxygen abundance ($12 +\n\\log(\\text{O/H}) = 8.22 \\pm 0.05$). N/O shows a factor 2-3 enhancement around\nthe SSCs, mapped here for the first time at such high spatial resolution. The\ntotal excess nitrogen mass is $\\sim$0.3 $M_\\odot$, which we estimate is\nproducible by the observed WN-type Wolf-Rayet (WR) stars. Because there is no\ndirect spatial overlap between the enrichment and WR star positions, the N-rich\nmaterial appears to have been expelled from the original sites.\n",
+      "author": [
+        {
+          "name": "Brigitte G. A. Pruijt",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory, Leiden University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Ana Monreal-Ibero",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory, Leiden University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Peter M. Weilbacher",
+          "arxiv:affiliation": {
+            "_": "Leibniz-Institut fur Astrophysik Potsdam",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Jeremy R. Walsh",
+          "arxiv:affiliation": {
+            "_": "European Southern Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Sebastian Kamann",
+          "arxiv:affiliation": {
+            "_": "Astrophysics Research Institute, Liverpool John Moores University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Azlizan A. Soemitro",
+          "arxiv:affiliation": [
+            {
+              "_": "Leibniz-Institut fur Astrophysik Potsdam",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Institut fur Physik und Astronomie, Universitat Potsdam",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Haruka Kusakabe",
+          "arxiv:affiliation": {
+            "_": "Department of General Systems Studies, Graduate School of Arts and Sciences, The University of Tokyo",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Leindert Boogaard",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory, Leiden University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pages, 15 figures. Submitted to MNRAS, comments are welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.07810v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.07810v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.07067v1",
+      "updated": "2025-09-08T18:00:01Z",
+      "published": "2025-09-08T18:00:01Z",
+      "title": "Micro-Tidal Disruption Events in Young Star Clusters",
+      "summary": "  Dense young star clusters (YSCs) are ideal environments for dynamical\ninteractions between stars and stellar mass black holes (BHs). In such dense\nenvironments, stars can undergo close encounters with BHs and fall within their\ntidal radius, resulting in micro-tidal disruption events (micro-TDEs),\ntransient phenomena with potential multi-messenger signatures. We performed a\nsuite of direct N-body simulations using the PETAR code, to which we\nimplemented new prescriptions for modeling micro-TDEs. We constructed a set of\nrealistic YSC models including primordial binaries, based on the observed Milky\nWay population. Our simulations incorporate stellar and binary evolution,\nsupernova kicks, and stellar winds using the BSE code, and account for the\nGalactic tidal field via the GALPY library. We identify three dynamical\nchannels for micro-TDE production: single star-single BH encounters,\nbinary-mediated interactions (including supernova-kick triggers), and\ninteractions involving higher-order multiple systems such as hierarchical\ntriples and quadruples, as well as chaotic few-body interactions. Multiple\nencounters are the most efficient production channel, which dominates the total\nrate: 350-450 Gpc$^{-3}$ yr$^{-1}$. Micro-TDEs from YSCs are expected to be\ndetectable by upcoming surveys, particularly the Legacy Survey of Space and\nTime, with detection rates potentially up to hundreds per year. The\ngravitational wave (GW) signals expected from micro-TDEs peak in the deci-Hertz\nband, making them accessible to future instruments such as the Lunar\nGravitational Wave Antenna and the Deci-Hertz Interferometer Gravitational-wave\nObservatory. Micro-TDEs emerge as promising multi-messenger sources,\npotentially offering unique insights into star cluster dynamics, stellar\ncollisions, and the population of dormant stellar-mass BHs, through both\nelectromagnetic and GW observations.\n",
+      "author": [
+        {
+          "name": "Sara Rastello"
+        },
+        {
+          "name": "Giuliano Iorio"
+        },
+        {
+          "name": "Mark Gieles"
+        },
+        {
+          "name": "Long Wang"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 13 figures; submitted to A&A (under review); comments\n  welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.07067v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.07067v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 5
+    },
     {
       "id": "http://arxiv.org/abs/2509.05415v1",
       "updated": "2025-09-05T18:00:09Z",
