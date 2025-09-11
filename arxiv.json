@@ -1,6 +1,148 @@
 {
-  "fetched_at": "2025-09-11T01:52:45.816Z",
+  "fetched_at": "2025-09-11T06:35:53.605Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.08687v1",
+      "updated": "2025-09-10T15:26:55Z",
+      "published": "2025-09-10T15:26:55Z",
+      "title": "The Small Magellanic Cloud through the lens of the James Webb Space\n  Telescope : binaries and mass function within the galaxy outskirts",
+      "summary": "  The stellar initial mass function (IMF) and the fraction of binary systems\nare fundamental ingredients that govern the formation and evolution of\ngalaxies. Whether the IMF is universal or varies with environment remains one\nof the central open questions in astrophysics. Dwarf galaxies such as the Small\nMagellanic Cloud (SMC), with their low metallicity and diffuse star-forming\nregions, offer critical laboratories to address this issue. In this work, we\nexploit ultra-deep photometry from the James Webb Space Telescope to\ninvestigate the stellar populations in the field of the SMC. Using the $m_{\\rm\nF322W2}$ versus $m_{\\rm F115W}-m_{\\rm F322W2}$ color-magnitude diagram (CMD),\nwe derive the luminosity function and measure the fraction of unresolved binary\nsystems. We find a binary fraction of $f_{\\rm bin}^{q>0.6}=0.14\\pm0.01$,\nconsistent with results from synthetic CMDs incorporating the metallicity\ndistribution of the SMC. Additionally, the measured binary fraction in the SMC\nfield is consistent with those observed in Galactic open clusters and Milky Way\nfield stars of similar ages and masses, suggesting similar binary formation and\nevolutionary processes across these low-density environments. By combining the\nluminosity function with the best-fit isochrone, we derive the the mass\nfunction (MF) down to $0.22\\,M_{\\odot}$, the lowest mass limit reached for the\nSMC to date. The resulting MF follows a power-law with a slope of\n$\\alpha=-1.99\\pm0.08$. This value is shallower than the canonical Salpeter\nslope of $\\alpha=-2.35$, providing new evidence for IMF variations in\nlow-metallicity and low-density environments.\n",
+      "author": [
+        {
+          "name": "M. V. Legnardi"
+        },
+        {
+          "name": "F. Muratore"
+        },
+        {
+          "name": "A. P. Milone"
+        },
+        {
+          "name": "G. Cordoni"
+        },
+        {
+          "name": "T. Ziliotto"
+        },
+        {
+          "name": "E. Dondoglio"
+        },
+        {
+          "name": "A. F. Marino"
+        },
+        {
+          "name": "A. Mastrobuono-Battisti"
+        },
+        {
+          "name": "E. Bortolan"
+        },
+        {
+          "name": "E. P. Lagioia"
+        },
+        {
+          "name": "M. Tailo"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "10 pages, 7 figures, accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.08687v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.08687v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.08448v1",
+      "updated": "2025-09-10T09:45:44Z",
+      "published": "2025-09-10T09:45:44Z",
+      "title": "Black hole mass function shift in proto-stellar-clusters driven by gas\n  accretion",
+      "summary": "  The James Webb Space Telescope (JWST) has observed compact, massive\nproto-stellar clusters of low metallicity in the Cosmic Gems arc galaxy at high\nredshift, which represent likely precursors to globular clusters. We model the\nmass growth of stellar black holes (BHs) during the first few Myr of the life\nof a massive, compact, gaseous stellar cluster before stellar feedback expels\nthe primordial gas. At high redshift, in a lower metallicity environment\nstellar winds get weaker allowing for larger gas-depletion time-scales in the\ncluster despite of energetic pair-instability supernova (PISN) feedback for\nsufficiently compact clusters. Mass segregation drives the massive stellar\nprogenitors of BHs in the center of the cluster where gas is most dense. We\nestimate the conditions for which the initial black hole mass function (BHMF),\nwith a PISN-induced cut-off $<55{\\rm M}_\\odot$, gets shifted to values within\nthe upper BH mass gap, $\\sim 60-130{\\rm M}_\\odot$, or higher, as observed by\nGravitational Wave (GW) experiments LIGO-Virgo-KAGRA. We find that the BHs are\nshifted by the end of gas depletion to values within and above the mass gap,\nwell within the range of BH components of the recent GW-signal GW231123,\ndepending on total mass, star formation efficiency, metallicity and\ncompactness. The individual BH mass increase follows approximately a\nsurprisingly steep power law with respect to initial BH mass with an exponent\nin the range $\\approx 4-6$. This occurs in gaseous proto-stellar clusters that\nare sufficiently massive and compact, with typical values of total mass $\\sim\n10^6{\\rm M}_\\odot$ and size $\\sim 1{\\rm pc}$. Our analysis suggests that\nproto-stellar clusters at high redshift such as Cosmic Gems arc clusters have\ngenerated through early gas accretion, BHs as heavy as $\\sim 10^2-10^3{\\rm\nM}_\\odot$.\n",
+      "author": {
+        "name": "Zacharias Roupas"
+      },
+      "arxiv:comment": {
+        "_": "to appear in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.08448v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.08448v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2509.07810v1",
       "updated": "2025-09-09T14:48:47Z",
