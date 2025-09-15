@@ -1,6 +1,742 @@
 {
-  "fetched_at": "2025-09-15T01:58:35.105Z",
+  "fetched_at": "2025-09-15T06:37:34.423Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.10440v1",
+      "updated": "2025-09-12T17:48:52Z",
+      "published": "2025-09-12T17:48:52Z",
+      "title": "Euclid: Early Release Observations -- The star cluster systems of the\n  Local Group dwarf galaxies IC 10 and NGC 6822",
+      "summary": "  Star clusters are valuable indicators of galaxy evolution, offering insights\ninto the buildup of stellar populations across cosmic time. Understanding\nintrinsic star cluster populations of dwarf galaxies is particularly important\ngiven their role in the hierarchical growth of larger systems. Using Euclid\nEarly Release Observation data, we study star clusters in two star-forming\ndwarf irregulars in the Local Group, NGC 6822 and IC 10 [$M_\\star \\sim$ (1--4)\n$\\times10^8 M_\\odot$]. With Euclid, clusters are resolved into individual stars\nacross the main bodies and haloes of both galaxies. Visual inspection of $I_E$\nimages uncovers 30 new cluster candidates in NGC 6822 and 16 in IC 10, from\ncompact to extended clusters. We re-evaluate literature candidates, producing\ncombined catalogues of 52 (NGC 6822) and 71 (IC 10) clusters with\nconfidence-based classifications. We present homogeneous photometry in $I_E$,\n$Y_E$, $J_E$, $H_E$, and archival UBVRI data, alongside size measurements and\nproperties from BAGPIPES SED fitting. Synthetic cluster injection shows our\nsample is $\\sim 50$% complete to $M \\lesssim 10^3 M_\\odot$ for ages $\\lesssim\n100$ Myr, and to $M \\lesssim 3\\times10^4 M_\\odot$ for $\\sim 10$ Gyr. IC 10 has\nmore young clusters than NGC 6822, extending to higher masses, consistent with\nits starburst nature. Both dwarfs host several old massive ($\\gtrsim 10^5\nM_\\odot$) clusters, including an exceptional $1.3 \\times 10^6 M_\\odot$ cluster\nin NGC 6822's outskirts. In NGC 6822, we identify a previously undetected, old,\nextended cluster ($R_h = 12.4 \\pm 0.11$ pc). Using well-defined criteria, we\nidentify 11 candidate GCs in NGC 6822 and eight in IC 10. Both galaxies have\nhigh specific frequencies ($S_N$) but remain consistent with known GC scaling\nrelations at low luminosity.\n",
+      "author": [
+        {
+          "name": "J. M. Howell"
+        },
+        {
+          "name": "A. M. N. Ferguson"
+        },
+        {
+          "name": "S. S. Larsen"
+        },
+        {
+          "name": "A. Lançon"
+        },
+        {
+          "name": "F. Annibali"
+        },
+        {
+          "name": "J. -C. Cuillandre"
+        },
+        {
+          "name": "L. K. Hunt"
+        },
+        {
+          "name": "D. Martínez-Delgado"
+        },
+        {
+          "name": "D. Massari"
+        },
+        {
+          "name": "T. Saifollahi"
+        },
+        {
+          "name": "K. Voggel"
+        },
+        {
+          "name": "B. Altieri"
+        },
+        {
+          "name": "S. Andreon"
+        },
+        {
+          "name": "N. Auricchio"
+        },
+        {
+          "name": "C. Baccigalupi"
+        },
+        {
+          "name": "M. Baldi"
+        },
+        {
+          "name": "S. Bardelli"
+        },
+        {
+          "name": "A. Biviano"
+        },
+        {
+          "name": "E. Branchini"
+        },
+        {
+          "name": "M. Brescia"
+        },
+        {
+          "name": "J. Brinchmann"
+        },
+        {
+          "name": "S. Camera"
+        },
+        {
+          "name": "G. Cañas-Herrera"
+        },
+        {
+          "name": "G. P. Candini"
+        },
+        {
+          "name": "V. Capobianco"
+        },
+        {
+          "name": "C. Carbone"
+        },
+        {
+          "name": "J. Carretero"
+        },
+        {
+          "name": "M. Castellano"
+        },
+        {
+          "name": "G. Castignani"
+        },
+        {
+          "name": "S. Cavuoti"
+        },
+        {
+          "name": "A. Cimatti"
+        },
+        {
+          "name": "C. Colodro-Conde"
+        },
+        {
+          "name": "G. Congedo"
+        },
+        {
+          "name": "C. J. Conselice"
+        },
+        {
+          "name": "L. Conversi"
+        },
+        {
+          "name": "Y. Copin"
+        },
+        {
+          "name": "F. Courbin"
+        },
+        {
+          "name": "H. M. Courtois"
+        },
+        {
+          "name": "M. Cropper"
+        },
+        {
+          "name": "A. Da Silva"
+        },
+        {
+          "name": "H. Degaudenzi"
+        },
+        {
+          "name": "G. De Lucia"
+        },
+        {
+          "name": "F. Dubath"
+        },
+        {
+          "name": "C. A. J. Duncan"
+        },
+        {
+          "name": "X. Dupac"
+        },
+        {
+          "name": "S. Dusini"
+        },
+        {
+          "name": "S. Escoffier"
+        },
+        {
+          "name": "M. Farina"
+        },
+        {
+          "name": "R. Farinelli"
+        },
+        {
+          "name": "F. Faustini"
+        },
+        {
+          "name": "S. Ferriol"
+        },
+        {
+          "name": "F. Finelli"
+        },
+        {
+          "name": "M. Frailis"
+        },
+        {
+          "name": "E. Franceschi"
+        },
+        {
+          "name": "M. Fumana"
+        },
+        {
+          "name": "S. Galeotta"
+        },
+        {
+          "name": "K. George"
+        },
+        {
+          "name": "B. Gillis"
+        },
+        {
+          "name": "C. Giocoli"
+        },
+        {
+          "name": "J. Gracia-Carpio"
+        },
+        {
+          "name": "A. Grazian"
+        },
+        {
+          "name": "F. Grupp"
+        },
+        {
+          "name": "S. V. H. Haugan"
+        },
+        {
+          "name": "H. Hoekstra"
+        },
+        {
+          "name": "W. Holmes"
+        },
+        {
+          "name": "F. Hormuth"
+        },
+        {
+          "name": "A. Hornstrup"
+        },
+        {
+          "name": "K. Jahnke"
+        },
+        {
+          "name": "M. Jhabvala"
+        },
+        {
+          "name": "E. Keihänen"
+        },
+        {
+          "name": "S. Kermiche"
+        },
+        {
+          "name": "B. Kubik"
+        },
+        {
+          "name": "M. Kümmel"
+        },
+        {
+          "name": "M. Kunz"
+        },
+        {
+          "name": "H. Kurki-Suonio"
+        },
+        {
+          "name": "A. M. C. Le Brun"
+        },
+        {
+          "name": "D. Le Mignant"
+        },
+        {
+          "name": "S. Ligori"
+        },
+        {
+          "name": "P. B. Lilje"
+        },
+        {
+          "name": "V. Lindholm"
+        },
+        {
+          "name": "I. Lloro"
+        },
+        {
+          "name": "G. Mainetti"
+        },
+        {
+          "name": "D. Maino"
+        },
+        {
+          "name": "E. Maiorano"
+        },
+        {
+          "name": "O. Mansutti"
+        },
+        {
+          "name": "O. Marggraf"
+        },
+        {
+          "name": "M. Martinelli"
+        },
+        {
+          "name": "N. Martinet"
+        },
+        {
+          "name": "F. Marulli"
+        },
+        {
+          "name": "R. J. Massey"
+        },
+        {
+          "name": "E. Medinaceli"
+        },
+        {
+          "name": "S. Mei"
+        },
+        {
+          "name": "M. Melchior"
+        },
+        {
+          "name": "Y. Mellier"
+        },
+        {
+          "name": "M. Meneghetti"
+        },
+        {
+          "name": "E. Merlin"
+        },
+        {
+          "name": "G. Meylan"
+        },
+        {
+          "name": "A. Mora"
+        },
+        {
+          "name": "M. Moresco"
+        },
+        {
+          "name": "L. Moscardini"
+        },
+        {
+          "name": "R. Nakajima"
+        },
+        {
+          "name": "C. Neissner"
+        },
+        {
+          "name": "S. -M. Niemi"
+        },
+        {
+          "name": "C. Padilla"
+        },
+        {
+          "name": "S. Paltani"
+        },
+        {
+          "name": "F. Pasian"
+        },
+        {
+          "name": "K. Pedersen"
+        },
+        {
+          "name": "W. J. Percival"
+        },
+        {
+          "name": "V. Pettorino"
+        },
+        {
+          "name": "S. Pires"
+        },
+        {
+          "name": "G. Polenta"
+        },
+        {
+          "name": "M. Poncet"
+        },
+        {
+          "name": "L. A. Popa"
+        },
+        {
+          "name": "F. Raison"
+        },
+        {
+          "name": "A. Renzi"
+        },
+        {
+          "name": "J. Rhodes"
+        },
+        {
+          "name": "G. Riccio"
+        },
+        {
+          "name": "E. Romelli"
+        },
+        {
+          "name": "M. Roncarelli"
+        },
+        {
+          "name": "R. Saglia"
+        },
+        {
+          "name": "Z. Sakr"
+        },
+        {
+          "name": "D. Sapone"
+        },
+        {
+          "name": "B. Sartoris"
+        },
+        {
+          "name": "M. Schirmer"
+        },
+        {
+          "name": "P. Schneider"
+        },
+        {
+          "name": "T. Schrabback"
+        },
+        {
+          "name": "A. Secroun"
+        },
+        {
+          "name": "G. Seidel"
+        },
+        {
+          "name": "S. Serrano"
+        },
+        {
+          "name": "P. Simon"
+        },
+        {
+          "name": "C. Sirignano"
+        },
+        {
+          "name": "G. Sirri"
+        },
+        {
+          "name": "J. Skottfelt"
+        },
+        {
+          "name": "L. Stanco"
+        },
+        {
+          "name": "J. Steinwagner"
+        },
+        {
+          "name": "P. Tallada-Crespí"
+        },
+        {
+          "name": "A. N. Taylor"
+        },
+        {
+          "name": "H. I. Teplitz"
+        },
+        {
+          "name": "I. Tereno"
+        },
+        {
+          "name": "S. Toft"
+        },
+        {
+          "name": "R. Toledo-Moreo"
+        },
+        {
+          "name": "F. Torradeflot"
+        },
+        {
+          "name": "I. Tutusaus"
+        },
+        {
+          "name": "L. Valenziano"
+        },
+        {
+          "name": "J. Valiviita"
+        },
+        {
+          "name": "T. Vassallo"
+        },
+        {
+          "name": "Y. Wang"
+        },
+        {
+          "name": "J. Weller"
+        },
+        {
+          "name": "G. Zamorani"
+        },
+        {
+          "name": "I. A. Zinchenko"
+        },
+        {
+          "name": "J. Martín-Fleitas"
+        },
+        {
+          "name": "V. Scottez"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.10440v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.10440v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.10435v1",
+      "updated": "2025-09-12T17:44:11Z",
+      "published": "2025-09-12T17:44:11Z",
+      "title": "Statistic of stars with poor astrometric solutions of Gaia DR3 in open\n  star clusters",
+      "summary": "  We performed counts of stars with poor astrometric solutions of Gaia DR3 in\nthe regions of open star clusters: NGC 188, NGC 1039, NGC 2287, NGC 2301, NGC\n2360, NGC 2420, NGC 2527, NGC 2548, NGC 2682 (M 67), NGC 3114, NGC 3766, NGC\n5460, NGC 6649. The selection of the possible cluster members is based on the\nGaia photometry using the Hess diagram. We look for stars that fall within the\nregion of the Hess diagram plotted from probable cluster members based on Hunt\n& Reffert data. We take stars with two-parameter solutions, with the parameter\nRUWE>1.4, as well as with large relative parallax errors that fall within the\nHess diagram region for probable cluster members. The radii of clusters based\non stars with poor astrometric solutions and the number of such possible\ncluster members were estimated. The number of stars with poor astrometric\nsolutions relative to the number of stars from the Hunt & Reffert sample\nN_bad/N varies very widely with a median average of approximately 30%. This\nmeans that when one selects probable cluster members based on precise\nastrometric data from Gaia DR3, an average of about 23% of cluster members may\nbe lost. Among the lost stars there may be a significant number of unresolved\nbinary and multiple systems. We investigated the dependence of the relative\nnumber of stars with poor astrometric solutions on the galactic latitude and on\nthe average number density of stars. The brightness functions with and without\nstars with poor solutions differ significantly in the region of faint stars\n14<G<18 mag for clusters with a relative number of possible cluster members\nwith poor astrometric solutions of N_bad/N>=0.15.\n",
+      "author": [
+        {
+          "name": "Dmitry I. Tagaev"
+        },
+        {
+          "name": "Anton F. Seleznev"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "13 pages, 1 table, 10 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.10435v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.10435v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.10144v1",
+      "updated": "2025-09-12T11:15:51Z",
+      "published": "2025-09-12T11:15:51Z",
+      "title": "Cluster Ages to Reconstruct the Milky Way Assembly (CARMA) IV.\n  Chrono-dynamics of seven old star clusters in the Large Magellanic Cloud and\n  the peculiar origin of NGC 1841",
+      "summary": "  In this study, we report conclusive evidence for an ancient star cluster that\nhas been accreted by the Large Magellanic Cloud (LMC). By leveraging\nobservations from the Hubble Space Telescope (HST), we investigate the\nchrono-dynamical structure of a sample of seven old star clusters within the\nLMC in a self-consistent way. The multi-epoch nature of the dataset allowed the\ndetermination of high-precision proper motions for the clusters. Employing an\nisochrone-fitting methodology, we additionally infer from the deep\nhigh-resolution HST data homogeneous and robust estimates for their distances,\nages and metallicities. Supplementing these data with literature line-of-sight\nvelocities, we investigate the full 3-dimensional dynamics of the clusters\nwithin the frame of the LMC. With respect to the other clusters in our sample,\nNGC 1841 depicts a peculiar case. Its position in the age-metallicity plane,\nthat makes it about 1 Gyr younger than the other metal-poor LMC clusters, but\nalso its dynamical properties with a radial orbit almost perpendicular to the\nLMC disc plane, clearly advocates for a different origin. We thus conclude that\nNGC 1841 has likely been accreted by the LMC from a smaller galaxy. The other\nclusters in our sample show disc-like kinematics, with the case of NGC 2210\nbeing peculiar, based on its inclined orbit. Their coherent age-metallicity\nrelation closely resembles that of Gaia-Sausage-Enceladus globular clusters,\nthus suggesting a similar early evolution for the two dwarf galaxies. We do not\nfind clear-cut chrono-kinematic evidence that NGC 2005 has been accreted by the\nLMC as suggested by a previous study based on its chemical abundance pattern.\nRegardless of its nature, its very old age illustrates that peculiar chemical\nevolutions already emerge at very early times.\n",
+      "author": [
+        {
+          "name": "F. Niederhofer"
+        },
+        {
+          "name": "D. Massari"
+        },
+        {
+          "name": "F. Aguado-Agelet"
+        },
+        {
+          "name": "S. Cassisi"
+        },
+        {
+          "name": "A. Bellini"
+        },
+        {
+          "name": "V. Kozhurina-Platais"
+        },
+        {
+          "name": "M. Libralato"
+        },
+        {
+          "name": "N. Kacharov"
+        },
+        {
+          "name": "A. Mucciarelli"
+        },
+        {
+          "name": "M. Monelli"
+        },
+        {
+          "name": "N. Bastian"
+        },
+        {
+          "name": "I. Cabrera-Ziri"
+        },
+        {
+          "name": "E. Ceccarelli"
+        },
+        {
+          "name": "M. -R. L. Cioni"
+        },
+        {
+          "name": "F. Dresbach"
+        },
+        {
+          "name": "M. Häberle"
+        },
+        {
+          "name": "S. Martocchia"
+        },
+        {
+          "name": "S. Saracino"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A, 22 pages, 13 figures, 4 tables",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.10144v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.10144v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.09996v1",
+      "updated": "2025-09-12T06:44:25Z",
+      "published": "2025-09-12T06:44:25Z",
+      "title": "A star-by-star correspondence between X-ray activity and rotation in the\n  young open cluster NGC 2516 with eROSITA",
+      "summary": "  The coronal soft X-ray emission of cool stars, especially when taken in\ncombination with their measured rotation periods, offers insights into their\nlevels of magnetic activity and related transitions. We study the X-ray\nproperties of low-mass members of the open cluster NGC 2516 to explicate their\ndetailed dependencies on mass and rotation. We analysed the pointed SRG/eROSITA\nsatellite observations of NGC 2516 obtained during the calibration and\nperformance verification phase of the mission. We found 1561 X-ray sources\nwithin the field of view and related 1007 of them to their optical stellar\ncounterparts, including 655 members of NGC 2516 (433 with rotation periods). We\ncombined these detections with auxiliary optical data to facilitate their\ninterpretation. Furthermore, we extracted X-ray spectra for all sources and fit\ntwo-component APEC models to them. To aid the analysis, we grouped stars with\nsimilar mass and rotational properties together, which allowed us to\ninvestigate the influence of rotation on various X-ray properties. The\ncolour-activity diagram of NGC 2516 displays a general increase in the\nfractional X-ray luminosity with spectral type change from F through G and K to\nM-type. However, the behaviour of K-type stars, representing the ones that best\nsample the fast-to-slow rotational transition, is more complex, with both\nincreased and decreased X-ray emission relative to G-type stars for fast and\nslow rotators, respectively. The rotation-activity diagram is analogous, with\nan identifiable desaturated group of X-ray emitters that corresponds to stars\nin the rotational gap between the fast and slow rotator sequences. We prefer to\ndescribe the normalised X-ray emission for all cluster stars as declining\nlogarithmically with Rossby number over those using broken power laws. Coronal\ntemperatures appear to be largely independent of mass or rotation. (abridged)\n",
+      "author": [
+        {
+          "name": "Dario J. Fritzewski"
+        },
+        {
+          "name": "Sydney A. Barnes"
+        },
+        {
+          "name": "Samet Ok"
+        },
+        {
+          "name": "Georg Lamer"
+        },
+        {
+          "name": "Axel Schwope"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1051/0004-6361/202554526",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1051/0004-6361/202554526",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.09996v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.09996v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2509.09617v1",
       "updated": "2025-09-11T16:58:42Z",
