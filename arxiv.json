@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-09-15T18:34:09.983Z",
+  "fetched_at": "2025-09-16T01:49:23.862Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2509.10440v1",
@@ -477,6 +477,508 @@
           "$": {
             "title": "pdf",
             "href": "http://arxiv.org/pdf/2509.10440v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.10440v2",
+      "updated": "2025-09-15T10:55:52Z",
+      "published": "2025-09-12T17:48:52Z",
+      "title": "Euclid: Early Release Observations -- The star cluster systems of the\n  Local Group dwarf galaxies IC 10 and NGC 6822",
+      "summary": "  Star clusters are valuable indicators of galaxy evolution, offering insights\ninto the buildup of stellar populations across cosmic time. Understanding\nintrinsic star cluster populations of dwarf galaxies is particularly important\ngiven their role in the hierarchical growth of larger systems. Using Euclid\nEarly Release Observation data, we study star clusters in two star-forming\ndwarf irregulars in the Local Group, NGC 6822 and IC 10 [$M_\\star \\sim$ (1--4)\n$\\times10^8 M_\\odot$]. With Euclid, clusters are resolved into individual stars\nacross the main bodies and haloes of both galaxies. Visual inspection of $I_E$\nimages uncovers 30 new cluster candidates in NGC 6822 and 16 in IC 10, from\ncompact to extended clusters. We re-evaluate literature candidates, producing\ncombined catalogues of 52 (NGC 6822) and 71 (IC 10) clusters with\nconfidence-based classifications. We present homogeneous photometry in $I_E$,\n$Y_E$, $J_E$, $H_E$, and archival UBVRI data, alongside size measurements and\nproperties from BAGPIPES SED fitting. Synthetic cluster injection shows our\nsample is $\\sim 50$% complete to $M \\lesssim 10^3 M_\\odot$ for ages $\\lesssim\n100$ Myr, and to $M \\lesssim 3\\times10^4 M_\\odot$ for $\\sim 10$ Gyr. IC 10 has\nmore young clusters than NGC 6822, extending to higher masses, consistent with\nits starburst nature. Both dwarfs host several old massive ($\\gtrsim 10^5\nM_\\odot$) clusters, including an exceptional $1.3 \\times 10^6 M_\\odot$ cluster\nin NGC 6822's outskirts. In NGC 6822, we identify a previously undetected, old,\nextended cluster ($R_h = 12.4 \\pm 0.11$ pc). Using well-defined criteria, we\nidentify 11 candidate GCs in NGC 6822 and eight in IC 10. Both galaxies have\nhigh specific frequencies ($S_N$) but remain consistent with known GC scaling\nrelations at low luminosity [abridged].\n",
+      "author": [
+        {
+          "name": "J. M. Howell"
+        },
+        {
+          "name": "A. M. N. Ferguson"
+        },
+        {
+          "name": "S. S. Larsen"
+        },
+        {
+          "name": "A. Lançon"
+        },
+        {
+          "name": "F. Annibali"
+        },
+        {
+          "name": "J. -C. Cuillandre"
+        },
+        {
+          "name": "L. K. Hunt"
+        },
+        {
+          "name": "D. Martínez-Delgado"
+        },
+        {
+          "name": "D. Massari"
+        },
+        {
+          "name": "T. Saifollahi"
+        },
+        {
+          "name": "K. Voggel"
+        },
+        {
+          "name": "B. Altieri"
+        },
+        {
+          "name": "S. Andreon"
+        },
+        {
+          "name": "N. Auricchio"
+        },
+        {
+          "name": "C. Baccigalupi"
+        },
+        {
+          "name": "M. Baldi"
+        },
+        {
+          "name": "S. Bardelli"
+        },
+        {
+          "name": "A. Biviano"
+        },
+        {
+          "name": "E. Branchini"
+        },
+        {
+          "name": "M. Brescia"
+        },
+        {
+          "name": "J. Brinchmann"
+        },
+        {
+          "name": "S. Camera"
+        },
+        {
+          "name": "G. Cañas-Herrera"
+        },
+        {
+          "name": "G. P. Candini"
+        },
+        {
+          "name": "V. Capobianco"
+        },
+        {
+          "name": "C. Carbone"
+        },
+        {
+          "name": "J. Carretero"
+        },
+        {
+          "name": "M. Castellano"
+        },
+        {
+          "name": "G. Castignani"
+        },
+        {
+          "name": "S. Cavuoti"
+        },
+        {
+          "name": "A. Cimatti"
+        },
+        {
+          "name": "C. Colodro-Conde"
+        },
+        {
+          "name": "G. Congedo"
+        },
+        {
+          "name": "C. J. Conselice"
+        },
+        {
+          "name": "L. Conversi"
+        },
+        {
+          "name": "Y. Copin"
+        },
+        {
+          "name": "F. Courbin"
+        },
+        {
+          "name": "H. M. Courtois"
+        },
+        {
+          "name": "M. Cropper"
+        },
+        {
+          "name": "A. Da Silva"
+        },
+        {
+          "name": "H. Degaudenzi"
+        },
+        {
+          "name": "G. De Lucia"
+        },
+        {
+          "name": "F. Dubath"
+        },
+        {
+          "name": "C. A. J. Duncan"
+        },
+        {
+          "name": "X. Dupac"
+        },
+        {
+          "name": "S. Dusini"
+        },
+        {
+          "name": "S. Escoffier"
+        },
+        {
+          "name": "M. Farina"
+        },
+        {
+          "name": "R. Farinelli"
+        },
+        {
+          "name": "F. Faustini"
+        },
+        {
+          "name": "S. Ferriol"
+        },
+        {
+          "name": "F. Finelli"
+        },
+        {
+          "name": "M. Frailis"
+        },
+        {
+          "name": "E. Franceschi"
+        },
+        {
+          "name": "M. Fumana"
+        },
+        {
+          "name": "S. Galeotta"
+        },
+        {
+          "name": "K. George"
+        },
+        {
+          "name": "B. Gillis"
+        },
+        {
+          "name": "C. Giocoli"
+        },
+        {
+          "name": "J. Gracia-Carpio"
+        },
+        {
+          "name": "A. Grazian"
+        },
+        {
+          "name": "F. Grupp"
+        },
+        {
+          "name": "S. V. H. Haugan"
+        },
+        {
+          "name": "H. Hoekstra"
+        },
+        {
+          "name": "W. Holmes"
+        },
+        {
+          "name": "F. Hormuth"
+        },
+        {
+          "name": "A. Hornstrup"
+        },
+        {
+          "name": "K. Jahnke"
+        },
+        {
+          "name": "M. Jhabvala"
+        },
+        {
+          "name": "E. Keihänen"
+        },
+        {
+          "name": "S. Kermiche"
+        },
+        {
+          "name": "B. Kubik"
+        },
+        {
+          "name": "M. Kümmel"
+        },
+        {
+          "name": "M. Kunz"
+        },
+        {
+          "name": "H. Kurki-Suonio"
+        },
+        {
+          "name": "A. M. C. Le Brun"
+        },
+        {
+          "name": "D. Le Mignant"
+        },
+        {
+          "name": "S. Ligori"
+        },
+        {
+          "name": "P. B. Lilje"
+        },
+        {
+          "name": "V. Lindholm"
+        },
+        {
+          "name": "I. Lloro"
+        },
+        {
+          "name": "G. Mainetti"
+        },
+        {
+          "name": "D. Maino"
+        },
+        {
+          "name": "E. Maiorano"
+        },
+        {
+          "name": "O. Mansutti"
+        },
+        {
+          "name": "O. Marggraf"
+        },
+        {
+          "name": "M. Martinelli"
+        },
+        {
+          "name": "N. Martinet"
+        },
+        {
+          "name": "F. Marulli"
+        },
+        {
+          "name": "R. J. Massey"
+        },
+        {
+          "name": "E. Medinaceli"
+        },
+        {
+          "name": "S. Mei"
+        },
+        {
+          "name": "M. Melchior"
+        },
+        {
+          "name": "Y. Mellier"
+        },
+        {
+          "name": "M. Meneghetti"
+        },
+        {
+          "name": "E. Merlin"
+        },
+        {
+          "name": "G. Meylan"
+        },
+        {
+          "name": "A. Mora"
+        },
+        {
+          "name": "M. Moresco"
+        },
+        {
+          "name": "L. Moscardini"
+        },
+        {
+          "name": "R. Nakajima"
+        },
+        {
+          "name": "C. Neissner"
+        },
+        {
+          "name": "S. -M. Niemi"
+        },
+        {
+          "name": "C. Padilla"
+        },
+        {
+          "name": "S. Paltani"
+        },
+        {
+          "name": "F. Pasian"
+        },
+        {
+          "name": "K. Pedersen"
+        },
+        {
+          "name": "W. J. Percival"
+        },
+        {
+          "name": "V. Pettorino"
+        },
+        {
+          "name": "S. Pires"
+        },
+        {
+          "name": "G. Polenta"
+        },
+        {
+          "name": "M. Poncet"
+        },
+        {
+          "name": "L. A. Popa"
+        },
+        {
+          "name": "F. Raison"
+        },
+        {
+          "name": "A. Renzi"
+        },
+        {
+          "name": "J. Rhodes"
+        },
+        {
+          "name": "G. Riccio"
+        },
+        {
+          "name": "E. Romelli"
+        },
+        {
+          "name": "M. Roncarelli"
+        },
+        {
+          "name": "R. Saglia"
+        },
+        {
+          "name": "Z. Sakr"
+        },
+        {
+          "name": "D. Sapone"
+        },
+        {
+          "name": "B. Sartoris"
+        },
+        {
+          "name": "M. Schirmer"
+        },
+        {
+          "name": "P. Schneider"
+        },
+        {
+          "name": "T. Schrabback"
+        },
+        {
+          "name": "A. Secroun"
+        },
+        {
+          "name": "G. Seidel"
+        },
+        {
+          "name": "S. Serrano"
+        },
+        {
+          "name": "P. Simon"
+        },
+        {
+          "name": "C. Sirignano"
+        },
+        {
+          "name": "G. Sirri"
+        },
+        {
+          "name": "J. Skottfelt"
+        },
+        {
+          "name": "L. Stanco"
+        },
+        {
+          "name": "J. Steinwagner"
+        },
+        {
+          "name": "P. Tallada-Crespí"
+        },
+        {
+          "name": "A. N. Taylor"
+        },
+        {
+          "name": "H. I. Teplitz"
+        },
+        {
+          "name": "I. Tereno"
+        },
+        {
+          "name": "S. Toft"
+        },
+        {
+          "name": "R. Toledo-Moreo"
+        },
+        {
+          "name": "F. Torradeflot"
+        },
+        {
+          "name": "I. Tutusaus"
+        },
+        {
+          "name": "L. Valenziano"
+        },
+        {
+          "name": "J. Valiviita"
+        },
+        {
+          "name": "T. Vassallo"
+        },
+        {
+          "name": "Y. Wang"
+        },
+        {
+          "name": "J. Weller"
+        },
+        {
+          "name": "G. Zamorani"
+        },
+        {
+          "name": "I. A. Zinchenko"
+        },
+        {
+          "name": "J. Martín-Fleitas"
+        },
+        {
+          "name": "V. Scottez"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Submitted to A&A following internal review",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.10440v2",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.10440v2",
             "rel": "related",
             "type": "application/pdf"
           }
@@ -1233,78 +1735,6 @@
         }
       },
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2509.07067v1",
-      "updated": "2025-09-08T18:00:01Z",
-      "published": "2025-09-08T18:00:01Z",
-      "title": "Micro-Tidal Disruption Events in Young Star Clusters",
-      "summary": "  Dense young star clusters (YSCs) are ideal environments for dynamical\ninteractions between stars and stellar mass black holes (BHs). In such dense\nenvironments, stars can undergo close encounters with BHs and fall within their\ntidal radius, resulting in micro-tidal disruption events (micro-TDEs),\ntransient phenomena with potential multi-messenger signatures. We performed a\nsuite of direct N-body simulations using the PETAR code, to which we\nimplemented new prescriptions for modeling micro-TDEs. We constructed a set of\nrealistic YSC models including primordial binaries, based on the observed Milky\nWay population. Our simulations incorporate stellar and binary evolution,\nsupernova kicks, and stellar winds using the BSE code, and account for the\nGalactic tidal field via the GALPY library. We identify three dynamical\nchannels for micro-TDE production: single star-single BH encounters,\nbinary-mediated interactions (including supernova-kick triggers), and\ninteractions involving higher-order multiple systems such as hierarchical\ntriples and quadruples, as well as chaotic few-body interactions. Multiple\nencounters are the most efficient production channel, which dominates the total\nrate: 350-450 Gpc$^{-3}$ yr$^{-1}$. Micro-TDEs from YSCs are expected to be\ndetectable by upcoming surveys, particularly the Legacy Survey of Space and\nTime, with detection rates potentially up to hundreds per year. The\ngravitational wave (GW) signals expected from micro-TDEs peak in the deci-Hertz\nband, making them accessible to future instruments such as the Lunar\nGravitational Wave Antenna and the Deci-Hertz Interferometer Gravitational-wave\nObservatory. Micro-TDEs emerge as promising multi-messenger sources,\npotentially offering unique insights into star cluster dynamics, stellar\ncollisions, and the population of dormant stellar-mass BHs, through both\nelectromagnetic and GW observations.\n",
-      "author": [
-        {
-          "name": "Sara Rastello"
-        },
-        {
-          "name": "Giuliano Iorio"
-        },
-        {
-          "name": "Mark Gieles"
-        },
-        {
-          "name": "Long Wang"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "19 pages, 13 figures; submitted to A&A (under review); comments\n  welcome",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2509.07067v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2509.07067v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.HE",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 5
     }
   ]
 }
