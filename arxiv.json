@@ -1,6 +1,223 @@
 {
-  "fetched_at": "2025-09-16T01:49:23.862Z",
+  "fetched_at": "2025-09-16T06:35:49.318Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.11938v1",
+      "updated": "2025-09-15T13:56:15Z",
+      "published": "2025-09-15T13:56:15Z",
+      "title": "Chemical Abundances of M and G Dwarfs in the Hyades and Coma Berenices\n  Open Clusters from APOGEE Spectra",
+      "summary": "  Open clusters are one of the best astrophysical laboratories we have\navailable for stellar astrophysics studies. This work presents metallicities\nand individual abundances for fourteen M dwarfs and six G dwarfs from two\nwell-known open clusters: Hyades and Coma Berenices. Our analysis is based on\nnear-infrared (1.51--1.69 $\\mu$m), high-resolution ($R \\sim 22,500$) spectra\nobtained from the SDSS IV/APOGEE Survey. Using one-dimensional, plane-parallel\nMARCS model atmospheres, the APOGEE line list, and the Turbospectrum radiative\ntransfer code in local thermodynamic equilibrium, we derived spectroscopic\nstellar parameters for the M dwarfs, along with abundances of 13 elements (C,\nO, Na, Mg, Al, Si, K, Ca, Ti, V, Cr, Mn, and Fe) for both M and G dwarfs. We\nfind a high degree of chemical homogeneity within each cluster when comparing\nabundances derived from M and G dwarfs: $\\delta$[M/H] (M dwarfs -- G dwarfs) of\n0.01$\\pm$0.04, and 0.02$\\pm$0.03 for the Hyades and Coma Berenices,\nrespectively. The overall cluster metallicities derived from M dwarfs (Hyades:\n0.16$\\pm$0.03 and Coma Berenices: 0.02$\\pm$0.06) are consistent with previous\nliterature determinations. Finally, we demonstrate the value of M dwarfs as key\ntracers in galactic archaeology, emphasizing their potential for studying\ngalactic metallicity gradients and chemical evolution.\n",
+      "author": [
+        {
+          "name": "Deusalete Vilar"
+        },
+        {
+          "name": "Diogo Souto"
+        },
+        {
+          "name": "Katia Cunha"
+        },
+        {
+          "name": "Anderson andrade-silva"
+        },
+        {
+          "name": "Veronica Loaiza-Tucuri"
+        },
+        {
+          "name": "Fabio Wanderley"
+        },
+        {
+          "name": "Verne V. Smith"
+        },
+        {
+          "name": "Vinicius Grilo"
+        },
+        {
+          "name": "Cintia F. Martinez"
+        },
+        {
+          "name": "Barbara Rojas-Ayala"
+        },
+        {
+          "name": "Zachary Way"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "15 pages, 6 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.11938v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.11938v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.10670v1",
+      "updated": "2025-09-12T19:54:58Z",
+      "published": "2025-09-12T19:54:58Z",
+      "title": "Formation of Cosmic Noon Protogalaxies via Quasar-Induced Fragmentation\n  of a Cosmic Filament",
+      "summary": "  When black hole jets encounter ambient medium, they can compress the gas,\ntrigger star formation, and create stellar clusters containing tens of\nthousands of stars. Here, we report a remarkable discovery of such a phenomenon\nthat happened just 2.2 billion years after the Big Bang, during the Cosmic Noon\nera. Quasar SDSSJ141924.44+532315.5, powered by a one-billion-solar-mass black\nhole, is seen blasting a powerful jet that interacts with a hypermassive gas\nreservoir, creating a fascinating, clumpy, arc-like structure spanning over 250\nkiloparsecs in projected length, consisting of at least eight clumps. Each\nclump contains billions of stars, is as massive as the Milky Way, and exhibits\nextreme levels of star formation. We interpret these findings as fragmentation\nof a cosmic filament triggered by a jet overpressurized expanding cocoon, which\nleads to the birth of protogalaxies, a process observed at scales never seen\nbefore. We find that the physical conditions within the filament are favorable\nfor a fragmentation scenario to occur. We also discuss the survivability and\nevolution of individual clumps in the context of unsolved galaxy formation\ntheory problems.\n",
+      "author": [
+        {
+          "name": "Marko Mićić"
+        },
+        {
+          "name": "Themiya Nanayakkara"
+        },
+        {
+          "name": "Xinyu Dai"
+        },
+        {
+          "name": "Jeremy Bailin"
+        },
+        {
+          "name": "Miljan Kolčić"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "9 pages, 2 figures, 1 table. Submitted to ApJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.10670v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.10670v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.10609v1",
+      "updated": "2025-09-12T18:00:03Z",
+      "published": "2025-09-12T18:00:03Z",
+      "title": "Assembling GW231123 in star clusters through the combination of stellar\n  binary evolution and hierarchical mergers",
+      "summary": "  GW231123 is the most massive binary black hole (BBH) merger detected to date\nby the LIGO-Virgo-KAGRA collaboration. With at least one black hole (BH) in the\nupper-mass gap and both BHs exhibiting high spins ($\\chi_{1,2} \\gtrsim 0.8$),\nthis event challenges standard isolated binary evolution models. A compelling\nalternative is a dynamical origin in star clusters, where stellar binaries and\nhierarchical mergers may both contribute to the formation of similar BBHs. In\nthis work, we investigate the formation of GW231123-like events in different\ncluster environments using the B-POP semi-analytic population synthesis code.\nWe find that low-metallicity environments ($Z \\lesssim 0.002$) are ideal for\nproducing BBH mergers similar to GW231123. In young and globular clusters,\nthese BBHs have components formed in stellar binaries, whilst in nuclear\nclusters there is also a significant contribution from BHs built-up via\nhierarchical mergers. Natal spins of BHs formed in stellar binaries are crucial\nto find GW231123 analogs. In particular, our models suggest that BHs from\nstellar binaries are likely characterized by high-spins. Simulated\nGW231123-like systems exhibit short delay times, $t_\\mathrm{del} \\sim 0.1 - 1$\nGyr, which suggests their progenitors formed close to the inferred merger\nredshift ($z = 0.39^{+0.27}_{-0.24}$). We argue that star clusters in\nmetal-poor dwarf galaxies or Milky Way-like galaxies are ideal nurseries,\ninferring an upper limit to the local merger rate of $\\mathcal{R} \\sim\n1.6\\times10^{-3} - 0.16$ yr$^{-1}$ Gpc$^{-3}$ for nuclear clusters, $\\sim 0.036\n- 0.72$ yr$^{-1}$ Gpc$^{-3}$ for globular clusters, and $4\\times10^{-4}-0.041$\nyr$^{-1}$ Gpc$^{-3}$ for young clusters.\n",
+      "author": [
+        {
+          "name": "Lavinia Paiella"
+        },
+        {
+          "name": "Cristiano Ugolini"
+        },
+        {
+          "name": "Mario Spera"
+        },
+        {
+          "name": "Marica Branchesi"
+        },
+        {
+          "name": "Manuel Arca Sedda"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "11 pages, 6 figure, 1 table",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.10609v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.10609v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 5
+    },
     {
       "id": "http://arxiv.org/abs/2509.10440v1",
       "updated": "2025-09-12T17:48:52Z",
@@ -1467,6 +1684,73 @@
         }
       },
       "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.10564v1",
+      "updated": "2025-09-10T16:09:24Z",
+      "published": "2025-09-10T16:09:24Z",
+      "title": "Gravitational Recoil and Suppression of Super Massive Black Hole Seeds\n  in the Early Universe",
+      "summary": "  We investigate the impact of gravitational-wave (GW) recoil on the growth of\nsupermassive black holes (SMBHs) in the early Universe. Forming ~10^9 Msun\nSMBHs by z ~ 6 is challenging and may require hierarchical mergers of smaller\nseed black holes. We extend a semi-analytic seed model (Sassano et al. 2021) by\nexplicitly incorporating GW recoil physics. Our model includes: (1) recoil\nvelocity formulae calibrated to numerical relativity for spinning, unequal-mass\nBH binaries (Campanelli et al. 2007; Lousto et al. 2012); (2) assignment of\nspin magnitudes and orientations based on seed type (Pop III remnant, stellar\ncluster, or direct-collapse); and (3) a retention probability scheme comparing\nthe recoil speed to the host halo escape velocity. We find that including GW\nrecoil reduces final SMBH masses by ~20-30% by z = 6 and creates a population\nof off-nuclear (\"wandering\") BHs amounting to a few percent of the total.\nObservable consequences include spatial offsets ~0.1 arcsec and line-of-sight\nvelocity shifts ~10^2-10^3 km/s in a few percent of high-z quasars. All code is\npublicly available at\nhttps://github.com/SMALLSCALEDEV/Black-hole-Recoil-Effects\n",
+      "author": {
+        "name": "Bisweswar Sen"
+      },
+      "arxiv:comment": {
+        "_": "4 Pages , 0 Figure , All code is publicly available at\n  https://github.com/SMALLSCALEDEV/Black-hole-Recoil-Effects",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.10564v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.10564v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.CO",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.CO",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2509.08687v1",
