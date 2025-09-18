@@ -1,6 +1,82 @@
 {
-  "fetched_at": "2025-09-18T01:49:27.517Z",
+  "fetched_at": "2025-09-18T06:35:34.068Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.14038v1",
+      "updated": "2025-09-17T14:40:46Z",
+      "published": "2025-09-17T14:40:46Z",
+      "title": "A Pearl in the Shell: an ultra-compact dwarf within the tidal debris\n  surrounding spiral galaxy NGC 7531",
+      "summary": "  Stellar substructures within tidal debris preserve information about their\nprogenitor galaxies' properties, offering insights into hierarchical mass\nassembly. We examine a compact stellar system (CSS) around the nearby spiral\ngalaxy NGC 7531, including the shell-like tidal debris. Our goals are to\ndetermine the nature of the CSS, reconstruct the accretion history, and\nunderstand how the large, diffuse shell-like structure formed. We present\nphotometric measurements of the shell-like debris and CSS using DESI Legacy\nImaging Survey (LS) data. We obtained Keck/LRIS spectroscopic data for the CSS\nto confirm its association with NGC 7531 and to derive its star formation\nhistory (SFH). Deep ($\\sim$27.9 mag/arcsec$^{2}$) amateur telescope images\nenabled complete characterization of the tidal debris structure. We confirm the\nCSS is associated with NGC 7531. We rename it NGC 7531-UCD1, since its stellar\nmass ($3.7_{-0.7}^{+1.0}\\times 10^6$ $\\mathrm{M}_\\odot$), half-light radius\n($R_{h} = 0.13 \\pm 0.05$ arcsec) and SFH place it as an ultra-compact dwarf\ngalaxy (UCD). NGC 7531-UCD1 was likely a nuclear star cluster (NSC) that was\ntidally stripped into a UCD- this is further supported by the presence of tidal\ntails. We quantify the shell-like debris' mass as $M_\\star\\sim 3$--$11\\times\n10^8 M_\\odot$, implying a merger mass ratio of ~300:1 to 10:1. Our amateur\ntelescope images confirm new pieces of debris, previously unclear in the DESI\nLS images. N-body simulations reproduce the tidal features, requiring a near\nradial orbit of the progenitor with two pericentric passages. The first passage\ncoincides with the measured star formation enhancement ~1 Gyr ago. Our findings\nagree with predictions about the NSC to UCD formation pathway via tidal\nstripping, and further confirm the presence of these objects outside of our\nMilky Way.\n",
+      "author": [
+        {
+          "name": "David Martínez-Delgado"
+        },
+        {
+          "name": "Aaron J. Romanowsky"
+        },
+        {
+          "name": "Yimeng Tang"
+        },
+        {
+          "name": "Joanna D. Sakowska"
+        },
+        {
+          "name": "Denis Erkal"
+        },
+        {
+          "name": "Juan Miró-Carretero"
+        },
+        {
+          "name": "Giuseppe Donatiello"
+        },
+        {
+          "name": "Sepideh Eskandarlou"
+        },
+        {
+          "name": "Mark Hanson"
+        },
+        {
+          "name": "Dustin Lang"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "10 pages, 8 figures, submitted to Astronomy and Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.14038v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.14038v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2509.12318v1",
       "updated": "2025-09-15T18:00:03Z",
