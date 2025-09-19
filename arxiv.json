@@ -1,6 +1,280 @@
 {
-  "fetched_at": "2025-09-19T01:52:55.019Z",
+  "fetched_at": "2025-09-19T06:35:22.273Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.14948v1",
+      "updated": "2025-09-18T13:34:56Z",
+      "published": "2025-09-18T13:34:56Z",
+      "title": "Distance measurements from the internal dynamics of globular clusters:\n  Application to the Sombrero galaxy (M 104)",
+      "summary": "  Globular clusters (GCs) are dense star clusters found in all massive\ngalaxies. Recent work has established that they follow a tight relation between\ntheir internal stellar velocity dispersion $\\sigma$ and luminosity, enabling\naccurate distance measurements. In this work, we aim to apply this GC velocity\ndispersion (GCVD) distance method to measure the distance to M 104 (NGC 4594,\nthe Sombrero galaxy). We have measured internal stellar velocity dispersions\nfor 85 globular clusters (GCs) and one ultra-compact dwarf galaxy around M 104\nusing high-resolution multi-object integrated-light spectroscopy with\nFLAMES/GIRAFFE on the Very Large Telescope. The measured velocity dispersions\nrange from $\\sigma = 4 - 30$ km s$^{-1}$, with a mean uncertainty of\n$\\Delta\\sigma = 2.5$ km s$^{-1}$. For a subset of 77 GCs with $V$-band\nmagnitudes and reliable velocity dispersion measurements above $\\sigma > 4$ km\ns$^{-1}$, we constructed the $M_V$-$\\sigma$ relation to measure the distance to\nM 104, finding $D=9.00\\pm0.29$ (stat.) $\\pm0.26$ (sys.) Mpc. The GCs follow the\nMilky Way and M 31 $M_V-\\sigma$ relation closely, with the exception of the\nluminous ultra-compact dwarf SUCD1, which is nearly one magnitude brighter than\nthe mean relation. 29 GCs in the sample have sizes determined from Hubble Space\nTelescope imaging which allowed us to determine their masses and $V$-band\ndynamical mass-to-light ratios (M/L$_V$). We find a mean $<M/L_V> = 2.6 \\pm 0.8\nM_{\\odot}/L_{\\odot}$ for the luminous ($M_V < -8$ mag) M 104 GCs, which is\nhigher than the Milky Way GCs, but is reminiscent of the brightest GCs in\nCentaurus A. With the exception of SUCD1, the GCs of M 104 follow the GCVD\nrelation irrespective of their mass-to-light ratio.\n",
+      "author": [
+        {
+          "name": "Katja Fahrion"
+        },
+        {
+          "name": "Michael A. Beasley"
+        },
+        {
+          "name": "Anastasia Gvozdenko"
+        },
+        {
+          "name": "Glenn van de Ven"
+        },
+        {
+          "name": "Katherine L. Rhode"
+        },
+        {
+          "name": "Ana L. Chies-Santos"
+        },
+        {
+          "name": "Anna Ferre-Mateu"
+        },
+        {
+          "name": "Marina Rejkuba"
+        },
+        {
+          "name": "Oliver Müller"
+        },
+        {
+          "name": "Eric Emsellem"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "10 pages + appendix, 7 figures, to be submitted to the Open Journal\n  of Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.14948v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.14948v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.14616v1",
+      "updated": "2025-09-18T04:44:20Z",
+      "published": "2025-09-18T04:44:20Z",
+      "title": "Tidal Disruption of Super Star Clusters as the origin of Bluish Light at\n  the inner region of the Perseus Cluster Central Galaxy",
+      "summary": "  Relatively blue light extends beyond a spiral disk from a radius of ~5 kpc\nout to ~14 kpc from the center of NGC 1275. Analyses of its spectrum and\nbroadband colors reveal a population of young stars having sub-solar\nmetallicities superposed on a dominant population of old stars having\nsuper-solar metallicities. The young stars have a characteristic age of ~160\nMyr and may span ages of a few hundred Myr, similar to that of stars comprising\nthe central spiral disk, and a total mass about one-third that of this disk for\na combined stellar mass (at birth) of ~4 $\\times$ 10$^9$ $\\rm M_\\odot$. A\nmultitude of arc-like features embedded in the extended blue light have\nbrightnesses comparable to the somewhat older (~500 Myr) super star clusters\n(SSCs) projected against the central spiral disk. The SSCs have a relatively\nshallow mass function, suggesting that the tidal disruption of an initially\nlarger population that we estimate could have had an initial total mass (far)\nexceeding ~1 $\\times$ 10$^9$ $\\rm M_\\odot$ gave rise to the extended blue light\n-- the arc-like features corresponding to stellar streams tracing disrupted\nstar clusters -- and perhaps also the central spiral disk. We speculate that,\nbeginning about 500 Myr ago, an enhanced episode of AGN activity in NGC 1275,\nleaving still visible X-ray bubbles, induced vigorous cooling of the\nintracluster medium to fuel the formation of numerous star clusters: many were\ntidally disrupted to leave bluish light at the inner region of this galaxy,\nwith the survivors being the SSCs projected against the central spiral disk.\n",
+      "author": [
+        {
+          "name": "Arsen Levitskiy"
+        },
+        {
+          "name": "Youichi Ohyama"
+        },
+        {
+          "name": "Jeremy Lim"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/1538-4357/ae070e",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/1538-4357/ae070e",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.14616v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.14616v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "25 pages, 11 figures, accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.14319v1",
+      "updated": "2025-09-17T18:00:09Z",
+      "published": "2025-09-17T18:00:09Z",
+      "title": "Nuclear discs in disc galaxies: structural properties and scaling\n  relations",
+      "summary": "  The presence of nuclear discs in barred disc galaxies has been demonstrated\nin studies on stellar structures and kinematics. It is thus imperative to\nestablish their fundamental properties and scaling relations, which can help\nunderstanding their connection to other central stellar structures, including\nnuclear star clusters. In this Letter, we use results from the structural\nanalysis and star formation histories of a sample of galaxies with nuclear\ndiscs to show the distributions of fundamental parameters and scaling\nrelations. Our analysis shows that the nuclear disc mass-size relation, and the\nrelation between the nuclear disc mass and the stellar mass of its host galaxy,\nare - at face value - different from the corresponding relations for nuclear\nstar clusters, but marginally compatible given the uncertainties. This sets\nconstraints to scenarios in which their formation is connected. We also find\nthat the nuclear disc in the Milky Way is on the shorter end of the\ndistribution of sizes set by nuclear discs in other galaxies. This is the first\nanalysis of this kind for kinematically confirmed nuclear discs, and further\nunderstanding of the properties of the nuclear disc in the Milky Way and other\ngalaxies is necessary to corroborate these results.\n",
+      "author": [
+        {
+          "name": "Dimitri A. Gadotti",
+          "arxiv:affiliation": {
+            "_": "Durham University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Camila de Sá-Freitas",
+          "arxiv:affiliation": {
+            "_": "ESO",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "To appear in MNRAS Letters",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.14319v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.14319v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.14308v1",
+      "updated": "2025-09-17T18:00:00Z",
+      "published": "2025-09-17T18:00:00Z",
+      "title": "Close Binary Open Cluster Systems: A Gaia DR3 Perspective on Alessi 36\n  and Collinder 135",
+      "summary": "  In this study, we examined the nearby open clusters (OCs) Alessi 36 and\nCollinder 135. Their spatial proximity was assessed using photometric and\nastrometric data from \\textit{Gaia} DR3. Likely member stars were identified\nbased on a membership probability threshold ($P \\geq 0.5$), yielding 230\nmembers for Alessi 36 and 342 members for Collinder 135. The mean proper-motion\ncomponents ($\\mu_\\alpha \\cos\\delta, \\mu_\\delta$) were determined as $(-9.681\n\\pm 0.072, 7.021 \\pm 0.081)$ mas yr$^{-1}$ for Alessi 36 and $(-10.061 \\pm\n0.083, 6.256 \\pm 0.095)$ mas yr$^{-1}$ for Collinder 135. The parallax-based\ndistances ($d$) were found to be $278 \\pm 7$ and $299 \\pm 11$ pc, while their\nestimated ages ($t$) were $39 \\pm 5$ and $36 \\pm 5$ Myr for Alessi 36 and\nCollinder 135, respectively. The Galactic orbital analysis of Alessi 36 and\nCollinder 135 reveals nearly circular orbits with low eccentricities and minor\nfluctuations in their apogalactic and perigalactic distances. The maximum\nheights they attain above the Galactic plane are $0.035 \\pm 0.001$ kpc for\nAlessi 36 and $0.074 \\pm 0.003$ kpc for Collinder 135, supporting their\nclassification as part of the young stellar disc population.\n",
+      "author": [
+        {
+          "name": "Hülya Karagöz"
+        },
+        {
+          "name": "Deniz Cennet Çınar"
+        },
+        {
+          "name": "Seval Taşdemir"
+        },
+        {
+          "name": "Remziye Canbay"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "14 pages, including 4 figures and 2 tables accepted for publication\n  in the Bitlis Eren University Journal of Science",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.14308v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.14308v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2509.14038v1",
       "updated": "2025-09-17T14:40:46Z",
