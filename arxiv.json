@@ -1,6 +1,279 @@
 {
-  "fetched_at": "2025-09-22T02:00:35.950Z",
+  "fetched_at": "2025-09-22T06:37:48.632Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.15337v1",
+      "updated": "2025-09-18T18:27:56Z",
+      "published": "2025-09-18T18:27:56Z",
+      "title": "Abundance anomalies in low mass field mergers as evidence of a merger\n  origin for the second generation stars in globular clusters",
+      "summary": "  The canonical formation of second-generation (G2) stars in globular clusters\n(GCs) from gas enriched and ejected by G1 (primordial) polluters faces\nsubstantial challenges, i.e. (i) a mass-budget problem and (ii) uncertainty in\nthe source(s) of the abundance anomaly of light elements (AALE) in G2 stars.\nThe merger of G1 low-mass main-sequence (MS) binaries can overcome (i), but its\nability to result in AALE is omitted. We provide evidence of the merger process\nto explain AALE by relying on highly probable merger remnants in the Galactic\ndisk. We focus on carbon-deficient red-clump giants with low mass of 1.0\nM_{\\sun} < M $\\lesssim$ 2.0 M_{\\sun} and hot He-intermediate subdwarfs of\nsupersolar metallicity, both manifesting G2-like AALE incompatible with GC\norigin. The origin of such rare core He-burning stars as the mergers of [MS\nstar (MSS)]+[helium white dwarf (HeWD)] binaries, evolved from low-mass\nhigh-mass ratio (MSS+MSS) ones, is supported by models evolving to either\nhorizontal branch (HB) stars or He subdwarfs via the red giant branch (RGB).\nSuch binaries in the GC NGC 362 contain very young ($\\sim$ 4 Myr) extremely\nlow-mass HeWDs, in contrast to much older ($\\sim 100$ times) counterparts in\nopen clusters. This agrees with the impact of GC environment on the lifetime of\nhard binaries: (MSS+HeWD) systems merge there soon after arising from (MSS+MSS)\nbinaries that underwent the common-envelope stage of evolution. From the number\nand lifetime of the (MSS+HeWD) binaries uncovered in NGC 362, the expected\nfraction of their progeny RGB G2 stars is estimated to be $\\lesssim$10\\%. The\nfield merger remnants with G2-like AALE support the merger nature of at least a\nfraction of G2 stars in GCs. The specific channel [(MSS+MSS) - (MSS+HeWD) -\nmerger product] supported by observations and models is tentatively identified\nas the channel of formation of the extreme G2 RGB component in GCs.\n",
+      "author": [
+        {
+          "name": "Valery Kravtsov",
+          "arxiv:affiliation": {
+            "_": "Sternberg Astronomical Institute, Lomonosov Moscow State University, Russia",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Sami Dib",
+          "arxiv:affiliation": {
+            "_": "Max Planck Institute for Astronomy, Germany",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Francisco A. Calderon",
+          "arxiv:affiliation": {
+            "_": "Departamento de Fisica, Unuversidad Catolica del Norte, Chile",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "9 pages, 1 figure, 2 table; Accepted for publication in Astronomy and\n  Astrophysics",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.15337v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.15337v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.15311v1",
+      "updated": "2025-09-18T18:00:21Z",
+      "published": "2025-09-18T18:00:21Z",
+      "title": "Protostellar Jets in Star Cluster Formation and Evolution: I.\n  Implementation and Initial Results",
+      "summary": "  Stars form in clusters from the gravitational collapse of giant molecular\nclouds, which is opposed by a variety of physical processes, including stellar\nfeedback. The interplay between these processes determines the star formation\nrate of the clouds. To study how feedback controls star formation, we use a\nnumerical framework that is optimized to simulate star cluster formation and\nevolution. This framework, called Torch, combines the magnetohydrodynamical\ncode FLASH with N-body and stellar evolution codes in the Astrophysical\nMultipurpose Software Environment (AMUSE). Torch includes stellar feedback from\nionizing and non-ionizing radiation, stellar winds, and supernovae, but, until\nnow, did not include protostellar jets. We present our implementation of\nprotostellar jet feedback within the Torch framework and describe its free\nparameters. We then demonstrate our new module by comparing cluster formation\nsimulations with and without jets. We find that the inclusion of protostellar\njets slows star formation, even in clouds of up to M $= 2 \\times 10^4$\nM$_{\\odot}$. We also find that the star formation rate of our lower mass clouds\n(M $= 5 \\times 10^3$ M$_{\\odot}$) is strongly affected by both the inclusion of\nprotostellar jets and the chosen jet parameters, including the jet lifetime and\ninjection velocity. We follow the energy budget for each simulation and find\nthat the inclusion of jets systematically increases the kinetic energy of the\ngas at early times. The implementation of protostellar jet feedback in Torch\nopens new areas of investigation regarding the role of feedback in star cluster\nformation and evolution.\n",
+      "author": [
+        {
+          "name": "Sabrina M. Appel"
+        },
+        {
+          "name": "Blakesley Burkhart"
+        },
+        {
+          "name": "Mordecai-Mark Mac Low"
+        },
+        {
+          "name": "Eric P. Andersson"
+        },
+        {
+          "name": "Claude Cournoyer-Cloutier"
+        },
+        {
+          "name": "Sean Lewis"
+        },
+        {
+          "name": "Stephen L. W. McMillan"
+        },
+        {
+          "name": "Brooke Polak"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        },
+        {
+          "name": "Aaron Tran"
+        },
+        {
+          "name": "Maite J. C. Wilhelm"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "28 pages, 10 figures in the main paper, 3 appendices with 4\n  additional figures. Submitted to AJ. Comments welcome!",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.15311v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.15311v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.15305v1",
+      "updated": "2025-09-18T18:00:03Z",
+      "published": "2025-09-18T18:00:03Z",
+      "title": "M&M33: MUSE and M33 I. Unveiling the Diversity of HII Regions in M33\n  with MUSE",
+      "summary": "  We present new VLT/MUSE mosaic observations of a 3 $\\times$ 8 arcmin$^2$ area\nalong the southern major axis of the nearby galaxy M33 at a distance of 840 kpc\nfrom the Milky Way. These data provide an unprecedented view of the galaxy\ninterstellar medium (ISM), and allow us to resolve ionised nebulae at a spatial\nscale of $\\approx$5 pc. We identify and catalogue 124 HII regions, down to\nH$\\alpha$ luminosities of $\\approx 5\\times$10$^{35}$ erg s$^{-1}$, one order of\nmagnitude fainter than previous surveys on local galaxies, and compare these\nregions with the spatial distribution of ionising stars and embedded star\nclusters. For each region, we extract the corresponding integrated optical\nspectra and measured the intensity of key optical emission lines (H$\\beta$,\n[OIII], [NII], H$\\alpha$, [SII], [SIII], other weaker optical lines when\ndetectable, and Paschen lines) to characterize their physical properties of the\nioinized gas such as density, dust attenuation, and metallicity. Our spatially\nresolved line ratio and flux maps reveal remarkable diversity in ionisation\nproperties, from dust-obscured regions hosting young stellar objects to highly\nionised bubbles exhibiting high [OIII]/H$\\beta$ ratios (>5). Our data reveal a\ndiversity of ionisation fronts, ranging from well-defined to partial to absent.\nRadial profiles indicate the presence of both optically thin (density-bounded)\nand optically thick (radiation-bounded) HII regions. Our study highlights the\nrichness of this MUSE mosaic and their unparalleled view of the ISM. In\nparticular, the ability to probe the ISM at $\\approx$ 5 pc resolution opens a\nnew window onto the complex structure of the ionised gas, enabling direct\ninsight into how stellar feedback operates on the scales where it originates.\n",
+      "author": [
+        {
+          "name": "A. Feltre"
+        },
+        {
+          "name": "F. Belfiore"
+        },
+        {
+          "name": "G. Cresci"
+        },
+        {
+          "name": "E. Corbelli"
+        },
+        {
+          "name": "N. Tomičić"
+        },
+        {
+          "name": "F. Mannucci"
+        },
+        {
+          "name": "A. Marconi"
+        },
+        {
+          "name": "E. Bertola"
+        },
+        {
+          "name": "C. Bracci"
+        },
+        {
+          "name": "M. Ceci"
+        },
+        {
+          "name": "M. Curti"
+        },
+        {
+          "name": "Q. D'Amato"
+        },
+        {
+          "name": "M. Ginolfi"
+        },
+        {
+          "name": "E. Koch"
+        },
+        {
+          "name": "I. Lamperti"
+        },
+        {
+          "name": "L. Magrini"
+        },
+        {
+          "name": "C. Marconcini"
+        },
+        {
+          "name": "A. Plat"
+        },
+        {
+          "name": "M. Scialpi"
+        },
+        {
+          "name": "G. Tozzi"
+        },
+        {
+          "name": "L. Ulivi"
+        },
+        {
+          "name": "G. Venturi"
+        },
+        {
+          "name": "M. V. Zanchettin"
+        },
+        {
+          "name": "A. Chakraborty"
+        },
+        {
+          "name": "A. Amiri"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "20 pages, 16 figures, submitted to A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.15305v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.15305v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2509.14948v1",
       "updated": "2025-09-18T13:34:56Z",
