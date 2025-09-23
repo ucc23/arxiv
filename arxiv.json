@@ -1,6 +1,226 @@
 {
-  "fetched_at": "2025-09-23T01:50:09.211Z",
+  "fetched_at": "2025-09-23T06:36:03.302Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.17846v1",
+      "updated": "2025-09-22T14:41:34Z",
+      "published": "2025-09-22T14:41:34Z",
+      "title": "The young stellar clusters in M51 and the impact of GMC encounters",
+      "summary": "  We investigate the young stellar cluster population of M51 and how it is\naffected by encounters with giant molecular clouds (GMCs). We combine a\ngalactic model with $N$-body simulations of 5000 unique clusters in the mass\nrange [600 - 24000] $M_{\\odot}$. We simulate each cluster twice: with ($C_R$)\nand without ($C_N$) tidal perturbations from the GMCs. We are able to reproduce\nthe majority of the observed mass- and age functions. However, for the age\nfunction we see a large discrepancy for clusters with masses $\\sim$ 5000\n$M_{\\odot}$, which is likely related to incompleteness in the observations. We\nfind that old low-mass clusters, located close to the galactic centre, are most\nlikely to be disrupted. The effect of GMC encounters causes a decrease in\nsurvivability by 8 per cent points for the oldest clusters with initial masses\nbelow 6000 $M_{\\odot}$. For 15 clusters we find that the presence of GMCs can\nprotect the $C_R$ clusters from the rest of the galactic tidal field and\nthereby cause them to retain a significantly higher fraction of stars compared\nto the $C N$ clusters. For clusters that are super-virialized we find that the\n$C_R$ clusters have a higher virial ratio compared to the $C_N$ clusters, which\nis a result of interactions with GMCs. We see no significant difference between\nthe $C_R$ and $C_N$ populations, indicating that over a time period of 200 Myr\nthe effect of the GMCs cannot be detected.\n",
+      "author": [
+        {
+          "name": "Timmi G. Jørgensen"
+        },
+        {
+          "name": "Ross P. Church"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1093/mnras/staf1548",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1093/mnras/staf1548",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.17846v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.17846v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 18 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.16459v1",
+      "updated": "2025-09-19T22:48:02Z",
+      "published": "2025-09-19T22:48:02Z",
+      "title": "The Hidden Life of Stars: Embedded Beginnings to AGB Endings in the\n  PHANGS-JWST Sample. I. Catalog of Mid-IR Sources",
+      "summary": "  We present a multiwavelength catalog of mid-infrared-selected compact sources\nin 19 nearby galaxies, combining JWST NIRCam/MIRI, HST UV-optical broadband,\nH$\\alpha$ narrow-band, and ALMA CO observations. We detect 24,945 compact\nsources at 21 $\\mu$m and 55,581 at 10 $\\mu$m. Artificial star tests show 50%\ncompleteness limits of $\\sim$5 $\\mu$Jy for the 10 $\\mu$m catalog, and $\\sim$24\n$\\mu$Jy for the 21 $\\mu$m catalog. We find that 21 $\\mu$m compact sources\ncontribute $\\sim$20% of the total galaxy emission in that band, but only\ncontribute $5%$ at 10 $\\mu$m. We classify sources using stellar evolution and\npopulation synthesis models combined with empirical classifications derived\nfrom the literature.Our classifications include H$\\alpha$-bright and\ndust-embedded optically faint clusters, red supergiants (RSGs), oxygen-rich and\ncarbon-rich AGB stars, and a range of rarer stellar types.In sampling a broad\nrange of star forming environments with a uniform, well-characterized\nselection, this catalog enables enables analyses of infrared-bright stellar\npopulations. We find that H$\\alpha$-faint sources account for only 10% of dusty\n(likely young) clusters, implying that the infrared-bright, optically-faint\nphase of cluster evolution is short compared to the H$\\alpha$-bright stage. The\nluminosity functions of 10 and 21 $\\mu$m sources follow power-law\ndistributions, with the 21 $\\mu$m slope ($-1.7 \\pm 0.1$) similar to that of\ngiant molecular cloud mass functions and ultraviolet bright star-forming\ncomplexes, while the 10 $\\mu$m slope ($-2.0 \\pm 0.1$) is closer to that of\nyoung stellar clusters.\n",
+      "author": [
+        {
+          "name": "Hamid Hassani"
+        },
+        {
+          "name": "Erik Rosolowsky"
+        },
+        {
+          "name": "Adam K. Leroy"
+        },
+        {
+          "name": "Karin Sandstrom"
+        },
+        {
+          "name": "Médéric Boquien"
+        },
+        {
+          "name": "David A. Thilker"
+        },
+        {
+          "name": "Bradley C. Whitmore"
+        },
+        {
+          "name": "Gagandeep S. Anand"
+        },
+        {
+          "name": "Ashley T. Barnes"
+        },
+        {
+          "name": "Yixian Cao"
+        },
+        {
+          "name": "Ryan Chown"
+        },
+        {
+          "name": "Enrico Congiu"
+        },
+        {
+          "name": "Daniel A. Dale"
+        },
+        {
+          "name": "Oleg V. Egorov"
+        },
+        {
+          "name": "Ivan Gerasimov"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Remy Indebetouw"
+        },
+        {
+          "name": "Janice C. Lee"
+        },
+        {
+          "name": "Fu-Heng Liang"
+        },
+        {
+          "name": "Daniel Maschmann"
+        },
+        {
+          "name": "Sharon E. Meidt"
+        },
+        {
+          "name": "Elias K. Oakes"
+        },
+        {
+          "name": "Ismael Pessa"
+        },
+        {
+          "name": "Jérôme Pety"
+        },
+        {
+          "name": "Miguel Querejeta"
+        },
+        {
+          "name": "Lise Ramambason"
+        },
+        {
+          "name": "M. Jimena Rodríguez"
+        },
+        {
+          "name": "Sumit K. Sarbadhicary"
+        },
+        {
+          "name": "Jessica Sutter"
+        },
+        {
+          "name": "Leonardo Úbeda"
+        },
+        {
+          "name": "Thomas G. Williams"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "41 pages, 30 figures. Submitted to ApJS. The codes and software used\n  in this work are available at https://github.com/hamidnpc/Neloura",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.16459v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.16459v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2509.15337v1",
       "updated": "2025-09-18T18:27:56Z",
