@@ -1,6 +1,365 @@
 {
-  "fetched_at": "2025-09-24T01:51:37.455Z",
+  "fetched_at": "2025-09-24T06:35:40.595Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.19239v1",
+      "updated": "2025-09-23T17:00:39Z",
+      "published": "2025-09-23T17:00:39Z",
+      "title": "Recalibration of the H$α$ surface brightness-radius relation for\n  planetary nebulae using Gaia DR3: new distances and the Milky Way oxygen\n  radial gradient",
+      "summary": "  The spatial distribution of chemical elements in the Galactic disk provides\nkey constraints on models of galaxy evolution. However, studies using planetary\nnebulae (PNe) as tracers have been historically limited by large uncertainties\nin their distances. To overcome the long-standing distance uncertainties, we\nrecalibrated the H$\\alpha$ surface brightness-radius relation (Frew et al.\n2016) with Gaia DR3 parallaxes, deriving statistical distances for 1,200 PNe\nand Bayesian distances for 419 objects with reliable parallaxes. Adopting\nBayesian values preferentially, we determined the O/H radial gradient for 230\ndisk PNe. We tested three models: a single linear gradient, a segmented fit\nwith one break, and a segmented fit with two breaks. Although model selection\nis statistically inconclusive, segmented fits indicate a change in slope near\nthe solar radius ($R \\sim 8$ kpc), with a flatter or slightly positive gradient\ninward and a steeper negative gradient outward. This feature may reflect\nchanges in star formation efficiency driven by the Galactic bar or the\ncorotation resonance of the spiral arms. Comparison with other tracers -\nCepheids, red giants, and open clusters - shows qualitative consistency. The\ntwo-dimensional O/H distribution in the Galactic plane supports the adopted\ndistances and reveals modest azimuthal asymmetry, with enhanced abundances near\nthe bar at positive longitudes, and a bimodal abundance structure between the\ninner and outer solar regions. Our results provide new constraints on the\nchemical evolution of the Milky Way, the impact of non-axisymmetric structures,\nand the possible existence of distinct radial abundance regimes across the\nGalactic disk.\n",
+      "author": [
+        {
+          "name": "Oscar Cavichia"
+        },
+        {
+          "name": "Hektor Monteiro"
+        },
+        {
+          "name": "Adalberto R. da Cunha-Silva"
+        },
+        {
+          "name": "Walter J. Maciel"
+        },
+        {
+          "name": "André F. S. Cardoso"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pages, 11 figures and 4 tables. Submitted to ApJ. Comments are\n  welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.19239v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.19239v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.19071v1",
+      "updated": "2025-09-23T14:33:31Z",
+      "published": "2025-09-23T14:33:31Z",
+      "title": "Stellar Feedback Effects on the Mass Distribution of Clouds and Cloud\n  Complexes",
+      "summary": "  Galaxy evolution is sensitive to how stars inject feedback into their\nsurroundings. In particular, stellar feedback from star clusters strongly\naffects gas motions and the baryonic cycle, with more massive clusters having\nstronger effects. Our previous results show that the star cluster mass\ndistribution in dwarf galaxies depends on feedback, as strong pre-SN feedback,\nparticularly ionizing radiation, results in fewer high-mass clusters. We\ninvestigate the mass distribution of gas clouds in dwarf galaxies. Since\nclusters form from collapsing gas clouds, we expect a similar feedback\ndependence in both distributions, so we hypothesize that pre-SN feedback yields\nfewer high-mass clouds. To test this, we use an isocontour analysis at cutoff\ndensities of $10,\\ 10^{1.5},\\ 10^{2}$ cm$^{-3}$ to identify clouds in dwarf\ngalaxy simulations run with the RAMSES adaptive mesh refinement code. We\ncalculate mass distributions for models with different combinations of SNe,\nstellar winds, and ionizing radiation. We find that the mass distribution for\nclouds with $n>100$ cm$^{-3}$ is independent of feedback, but the distribution\nfor complexes with $n>10$ cm$^{-3}$ is more top-heavy in the presence of\nradiation. Winds do not affect the distribution at any scale. This contradicts\nour hypothesis that cloud and cluster mass distributions respond similarly to\nfeedback. Instead, the dense cloud mass function shows no feedback dependence,\nsuggesting its shape is set by gravity. We conclude that the cluster mass\nfunction must be shaped by intra-cloud feedback regulating star formation and,\nin the case of radiation, effects on parent cloud temperature. (shortened)\n",
+      "author": [
+        {
+          "name": "Luanna Veroneze Quinalha"
+        },
+        {
+          "name": "Eric P. Andersson"
+        },
+        {
+          "name": "Mordecai-Mark Mac Low"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "10 pages, 7 figures, 1 appendix with 2 additional figures. Submitted\n  to Astronomy & Astrophysics. Comments welcome!",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.19071v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.19071v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.19068v1",
+      "updated": "2025-09-23T14:32:33Z",
+      "published": "2025-09-23T14:32:33Z",
+      "title": "Dwarf Galaxies in the MATLAS Survey: Hubble Space Telescope Observations\n  of Nuclear Star Clusters",
+      "summary": "  In dwarf galaxies, nuclear star clusters (NSCs) are believed to primarily\nform from the migration and merger of globular clusters (GCs), with a possible\ncontribution from in-situ star-forming activity triggered by gas infall. We\npresent the study of NSCs in 41 MATLAS survey dwarf galaxies including\nultra-diffuse galaxies (UDGs), as part of a large follow-up imaging program\nwith the Hubble Space Telescope (HST) Advanced Camera for Surveys (ACS) using\nthe F606W and F814W filters. The sample is biased towards low-surface\nbrightness and large dwarfs, i.e., UDG-like galaxies, and includes two galaxies\nwith a double nucleus, 13 newly identified nucleated dwarfs thanks to HST's\nhigh spatial resolution, and five candidate ultra-compact dwarf progenitors. We\nmodeled the NSCs with a S\\'ersic profile and derived their structural\nproperties and photometry. We find the NSC S\\'ersic index to increase with the\nluminosity and stellar mass, while no obvious trend is seen on the effective\nradius and ellipticity. The faint NSCs tend to have a constant color profile,\nwhereas the bright ones have a bluer center, suggesting that the most massive\nNSCs in our sample might have experienced a mixed formation scenario, including\nin-situ star formation. A significant portion of our NSCs tend to be more\nmassive than for other galaxy samples of similar stellar mass, which could be\ndue to some dwarfs ongoing tidal disruption or an initial formation of massive\nNSCs from multiple GC mergers and in-situ star forming activity. More\nobservations of resolved NSC are needed to be able to infer their formation\nscenario from the structural properties and photometry in dwarfs.\n",
+      "author": [
+        {
+          "name": "Mélina Poulain"
+        },
+        {
+          "name": "Francine R. Marleau"
+        },
+        {
+          "name": "Pierre-Alain Duc"
+        },
+        {
+          "name": "Rubén Sánchez-Janssen"
+        },
+        {
+          "name": "Patrick R. Durrell"
+        },
+        {
+          "name": "Sanjaya Paudel"
+        },
+        {
+          "name": "Rebecca Habas"
+        },
+        {
+          "name": "Oliver Müller"
+        },
+        {
+          "name": "Sungsoon Lim"
+        },
+        {
+          "name": "Nick Heesters"
+        },
+        {
+          "name": "Jérémy Fensch"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A. 18 pages, 10 figures, 2 tables",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.19068v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.19068v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.18559v1",
+      "updated": "2025-09-23T02:33:46Z",
+      "published": "2025-09-23T02:33:46Z",
+      "title": "Evolution of Stellar Activity and Habitable zone: I. Ultraviolet\n  Emission of Dwarfs in Open Clusters and Field Stars",
+      "summary": "  Near-ultraviolet (NUV) radiation from dwarf stars plays a critical role in\nshaping the habitability of planetary systems, yet its long-term evolution\nacross different spectral types remains poorly investigated. Based on GALEX NUV\nobservations, we study the evolution of stellar NUV emission for a sample of\n386,500 A- to M-type dwarfs spanning ages from 3 Myr to 10 Gyr, drawn from both\nopen clusters and the field. The normalized NUV emission ($f_{\\rm NUV}/f_{\\rm\nJ}$) is used to trace the evolutionary trends. Our results reveal distinct\nevolutionary pathways after considering the distance completeness: A and\nearly-F dwarfs show a weak decline in NUV emission during the main-sequence\nphase; late-F to G dwarfs exhibit a clear decrease, consistent with continuous\nspin-down driven by magnetic braking; late-K and M-dwarfs undergo a rapid\ndecline in NUV emission when they evolve from young stellar objects to\nmain-sequence stars. Furthermore, we construct the evolutionary tracks of\nstellar ultraviolet habitable zone (UHZ). By comparing stellar circumstellar\nhabitable zone (CHZ) and UHZ, we find that G- and K-type stars offer the most\nstable overlap between thermal and UV habitability over long-term evolution.\n",
+      "author": [
+        {
+          "name": "Xue Li"
+        },
+        {
+          "name": "Song Wang"
+        },
+        {
+          "name": "Jun Ma"
+        },
+        {
+          "name": "Henggeng Han"
+        },
+        {
+          "name": "Yang Huang"
+        },
+        {
+          "name": "Jifeng Liu"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 16 figures, 3 tables. Accepted for publication in ApJS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.18559v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.18559v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.18268v1",
+      "updated": "2025-09-22T18:00:12Z",
+      "published": "2025-09-22T18:00:12Z",
+      "title": "Deep chemical tagging - Identifying open clusters and moving groups in\n  chemical space with graph attention networks",
+      "summary": "  Reconstructing the formation history of the Milky Way is hindered by stellar\nmigration, which erases kinematic birth signatures. In contrast, stellar\nchemical abundances remain stable and can be used to trace stars back to their\nbirth environments through chemical tagging. This study aims to improve\nchemical tagging by developing a method that leverages kinematic and age\ninformation to enhance clustering in chemical space, while remaining grounded\nin chemistry. We implement a graph attention auto-encoder that encodes stars as\nnodes with chemical features and connects them via edges based on orbital\nsimilarity and age. The network learns an ``informed'' chemical space that\naccentuates coherent groupings.Applied to $\\sim$47,000 APOGEE thin disk stars,\nthe method identifies 282 stellar groups. Among them, five out of six open\nclusters are successfully recovered. Other groups align with the known moving\ngroups Arch/Hat, Sirius, Hyades, and Hercules. Our approach enables chemically\ngrounded yet kinematically and age informed chemical tagging. It significantly\nimproves the identification of coherent stellar populations, offering a\nframework for future large-scale stellar archaeology efforts.\n",
+      "author": [
+        {
+          "name": "Lorenzo Spina"
+        },
+        {
+          "name": "Milan Quandt Rodriguez"
+        },
+        {
+          "name": "Laura Magrini"
+        },
+        {
+          "name": "Leda Berni"
+        },
+        {
+          "name": "Sara Lucatello"
+        },
+        {
+          "name": "Marco Canducci"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "12 pages, 8 figures, accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.18268v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.18268v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "85-02",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "J.2",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2509.17846v1",
       "updated": "2025-09-22T14:41:34Z",
