@@ -1,6 +1,207 @@
 {
-  "fetched_at": "2025-09-25T01:52:48.379Z",
+  "fetched_at": "2025-09-25T06:36:12.992Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.20075v1",
+      "updated": "2025-09-24T12:53:20Z",
+      "published": "2025-09-24T12:53:20Z",
+      "title": "Supergiant GCIRS 22 in the Milky Way Nuclear Star Cluster: Revised alpha\n  abundances",
+      "summary": "  Context: The chemical abundances of alpha-elements in Galactic Centre (GC)\nsupergiants provide key insights into the chemical enrichment and star\nformation history of the Milky Way's Nuclear Star Cluster. Previous studies\nhave reported enhanced alpha-element abundances, raising questions about the\nchemical evolution of this unique region.\n  Aims: We aim to reassess the alpha-element abundances in the GC supergiant\nGCIRS 22 using updated spectral modelling and non-local thermodynamic\nequilibrium (NLTE) corrections to resolve discrepancies from earlier abundance\nanalyses.\n  Methods: High-resolution near-infrared spectra of GCIRS 22 were analysed\nusing contemporary line lists and precise stellar parameters derived from\nscandium line diagnostics. We applied comprehensive NLTE corrections to\naccurately determine the abundances of silicon and calcium.\n  Results: Our analysis reveals solar-scale alpha abundances ([Ca/Fe] = 0.06\n$\\pm$ 0.07; [Si/Fe] = $-$0.08 $\\pm$ 0.20) for GCIRS 22, significantly lower\nthan previous LTE-based findings. NLTE corrections reduce the calcium abundance\nby approximately 0.3,dex compared to LTE estimates, aligning our results with\nrecent studies and highlighting the importance of accurate NLTE modelling.\n  Conclusions: The solar-scale alpha-element abundances observed in GCIRS 22\nsuggest that recent star formation in the region has not been dominated by Type\nII supernovae, such as those expected from a recent starburst. Our findings\nsupport a scenario of episodic star formation, characterized by intermittent\nbursts separated by extended quiescent phases, or potentially driven by gas\ninflows from the inner disk, funnelled by the Galactic bar. Future\ncomprehensive NLTE studies of additional GC stars will be essential for\nrefining our understanding of the region's chemical evolution and star\nformation history.\n",
+      "author": [
+        {
+          "name": "B. Thorsbro"
+        },
+        {
+          "name": "S. Khalidy"
+        },
+        {
+          "name": "R. M. Rich"
+        },
+        {
+          "name": "M. Schultheis"
+        },
+        {
+          "name": "D. Taniguchi"
+        },
+        {
+          "name": "A. M. Amarsi"
+        },
+        {
+          "name": "G. Kordopatis"
+        },
+        {
+          "name": "G. Nandakumar"
+        },
+        {
+          "name": "S. Nishiyama"
+        },
+        {
+          "name": "N. Ryde"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.20075v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.20075v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.19487v1",
+      "updated": "2025-09-23T18:48:59Z",
+      "published": "2025-09-23T18:48:59Z",
+      "title": "The evolution of velocity dispersion in the Sco-Cen OB association",
+      "summary": "  We study how stellar velocity dispersion within the Scorpius-Centaurus OB\nassociation (Sco-Cen) has evolved over approximately 20 million years, from its\nformation to the present day. Using data from the \\textit{Gaia} mission along\nwith supplementary stellar radial velocities, we identified a surprising\nsequence of abrupt jumps and intervening plateaus in the velocity dispersion\ncorrelating with star formation bursts. These changes in velocity dispersion\ncoincide with the association expanding in size. We measure a present-day\nexpansion rate of about 10--12\\,pc\\,Myr$^{-1}$ and observe that younger star\nclusters within the association exhibit higher velocities compared to older\nones. This result, along with the stepwise increase in both velocity dispersion\nand spatial extent over time, suggests a structured and sequential star\nformation process rather than a random one. This phased evolution strongly\nsuggests that stellar feedback is the primary driver of Sco-Cen's star\nformation history, expansion, and eventual dispersal. Our findings emphasize\nthe value of precisely characterizing stellar populations within OB\nassociations, particularly through the creation of detailed, high-resolution\nage maps.\n",
+      "author": [
+        {
+          "name": "Josefa E. Großschedl",
+          "arxiv:affiliation": [
+            {
+              "_": "Astronomical Institute of the Czech Academy of Sciences",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Universität zu Köln",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "University of Vienna",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "João Alves",
+          "arxiv:affiliation": {
+            "_": "University of Vienna",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Sebastian Ratzenböck",
+          "arxiv:affiliation": {
+            "_": "Center for Astrophysics, Harvard and Smithsonian",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Núria Miret-Roig",
+          "arxiv:affiliation": [
+            {
+              "_": "FQA, Universitat de Barcelona",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "ICCUB, Universitat de Barcelona",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Alvaro Hacar",
+          "arxiv:affiliation": {
+            "_": "University of Vienna",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Sebastian Hutschenreuter",
+          "arxiv:affiliation": {
+            "_": "University of Vienna",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Laura Posch",
+          "arxiv:affiliation": {
+            "_": "University of Vienna",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 11 figures, 4 tables, Resubmitted to A&A September 23, 2025\n  (Comments Welcome!)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.19487v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.19487v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2509.19239v1",
       "updated": "2025-09-23T17:00:39Z",
