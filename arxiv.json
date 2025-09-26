@@ -1,6 +1,85 @@
 {
-  "fetched_at": "2025-09-26T01:51:48.944Z",
+  "fetched_at": "2025-09-26T06:35:13.384Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.20531v1",
+      "updated": "2025-09-24T20:02:18Z",
+      "published": "2025-09-24T20:02:18Z",
+      "title": "Blue Stragglers and Friends: Initial Evolutionary Pathways in Close\n  Low-Mass Binaries: Literature Review",
+      "summary": "  The scope of this literature review is observations of the products of\nfirst-stage evolution for binaries having components with M < 2 $M_\\odot$. A\ntaxonomy for these products comprises dwarfs (\"blue stragglers\"), giants\n(\"yellow stragglers\"), subdwarf B stars, and giant-like stars (\"sub-subgiants\"\nand \"red stragglers\"). This literature review is organized according to this\ntaxonomy within three distinct environments: open star clusters, globular star\nclusters, and the Galactic field.\n  This literature review is the Supplemental Material for Blue Stragglers and\nFriends: Initial Evolutionary Pathways in Close Low-Mass Binaries (Mathieu &\nPols, 2025, ARAA, 63:467-512, doi:\nwww.annualreviews.org/content/journals/10.1146/annurev-astro-071221-054402). It\nis intended to support and expand on Section 3 of the main text of this Annual\nReview of Astronomy and Astrophysics, where an integrated perspective on the\ncommon and contrasting astrophysical properties of these binary evolution\nproducts is provided. Figures used in the main text to highlight key\nobservational results are referenced in this literature review.\n  The closing date of this review is January 17, 2025, with some citations\nsubsequently updated.\n",
+      "author": [
+        {
+          "name": "Robert D. Mathieu"
+        },
+        {
+          "name": "Onno R. Pols"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1146/annurev-astro-071221-054402",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1146/annurev-astro-071221-054402",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.20531v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.20531v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "42 pages, 9 figures, Open Access to main article available at\n  https://doi.org/10.1146/annurev-astro-071221-054402",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "Annu. Rev. Astron. Astrophys. 2025. 63:467-512",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2509.20075v1",
       "updated": "2025-09-24T12:53:20Z",
