@@ -1,6 +1,307 @@
 {
-  "fetched_at": "2025-09-30T01:49:42.660Z",
+  "fetched_at": "2025-09-30T06:36:47.989Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.25011v1",
+      "updated": "2025-09-29T16:37:55Z",
+      "published": "2025-09-29T16:37:55Z",
+      "title": "Black hole dragging: a new mechanism for forming nuclear star clusters\n  in giant elliptical galaxies",
+      "summary": "  It has long been thought that nuclear star clusters (NSCs) cannot co-exist\nwith the most massive supermassive black holes (SMBHs), since SMBH mergers -\nunavoidable for the most massive systems - would scatter away NSC stars.\nHowever, central concentrations of light have now been reported in up to a\nthird of all massive ellipticals. We present a new mechanism for forming NSCs\nin giant elliptical galaxies, arising naturally from SMBH mergers, which could\nexplain these observations. We call this ''black hole dragging''. After a major\nmerger of two galaxies and their SMBHs, the newly-merged SMBH can receive a\ngravitational wave recoil kick. We show that recoiling SMBHs induce two\ncompeting effects on the galaxy's background stars. Firstly, some stars become\nbound to the SMBH and co-move with it, an effect strongest at low recoil\nvelocities. Secondly, background stars are ejected as the recoiling SMBH falls\nback due to dynamical friction, an effect strongest at high recoil velocities.\nAt intermediate recoil velocities (500-1000 km/s), both effects become\nimportant, and the density of bound stars can exceed that of the background\nstellar core. This yields a central dense NSC that is clearly visible in the\ngalaxy's surface brightness profile. We show that NSCs formed in this way have\nrealistic sizes, masses and velocity dispersions when measured similarly to\nobserved systems. This provides a route for even giant ellipticals containing\nSMBHs to host an NSC. We predict such NSCs should have indistinguishable\ncolors, ages and chemistry from non-NSC central stars, combined with low\nellipticities.\n",
+      "author": [
+        {
+          "name": "Nader Khonji"
+        },
+        {
+          "name": "Alessia Gualandris"
+        },
+        {
+          "name": "Justin I. Read"
+        },
+        {
+          "name": "Walter Dehnen"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "21 pages, 15 figures, accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.25011v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.25011v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.24584v1",
+      "updated": "2025-09-29T10:46:36Z",
+      "published": "2025-09-29T10:46:36Z",
+      "title": "Dynamical model of Praesepe and its tidal tails",
+      "summary": "  Context. The dynamical evolution of open clusters in the tidal field of the\nMilky Way and the feeding of the disc field star population depend strongly on\nthe initial conditions at the time of gas removal. Detailed dynamical models\ntailored to individual clusters help us understand the role of open clusters in\nthe Galactic disc evolution. Aims. We present a detailed dynamical model of\nPraesepe, which reproduces the mass profile, the stellar mass function, and the\nmass segregation observed with the help of Gaia EDR3 data. Based on this model,\nwe investigate the kinematic properties of the tidal tail stars in detail.\nMethods. We used direct N-body simulations along the eccentric orbit of\nPraesepe in the tidal field of the Milky Way, where each particle represents\none star. The initial mass and size of the cluster, the dynamical state, and\nthe initial mass function were adapted to reach the best-fitting model. Based\non this model and a comparison model on a circular orbit, we analysed the stars\nin the tidal tails in terms of density, angular momentum, and orbit shapes.\nResults. Praesepe can be well reproduced by a cluster model with concentrated\nstar formation in a supervirial state after instantaneous gas expulsion,\nadopting a global star formation efficiency of 17%. About 75% of the initially\n7500 MSol are lost in the violent relaxation phase, and the observed mass\nsegregation can be understood by two-body relaxation. We find that the\nself-gravity of the tail stars is the dominant force altering the angular\nmomentum of the tail stars. For a typical star, the total change after escaping\nis about 1.6 kpc km/s. This corresponds to an offset in guiding radius of 7 pc,\nwhere tail stars contribute up to 70% to the alteration. The total radial shift\nof the orbit of the cluster in the Galactic plane can exceed 50 pc. This effect\nis not a result of the eccentricity of the orbit.\n",
+      "author": [
+        {
+          "name": "L. Weis"
+        },
+        {
+          "name": "C. West"
+        },
+        {
+          "name": "A. Just"
+        },
+        {
+          "name": "P. Berczik"
+        },
+        {
+          "name": "M. Ishchenko"
+        },
+        {
+          "name": "S. Röser"
+        },
+        {
+          "name": "E. Schilbach"
+        },
+        {
+          "name": "B. Shukirgaliyev"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Contains 13 pages, 12 figures, and 4 Tables. Accepted for publication\n  in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.24584v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.24584v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.22800v1",
+      "updated": "2025-09-26T18:09:21Z",
+      "published": "2025-09-26T18:09:21Z",
+      "title": "Characterizing the star cluster populations in Stephan's Quintet using\n  HST and JWST observations",
+      "summary": "  Stephan's Quintet (SQ) is a local compact galaxy group system that exhibits\nsignificant star formation activity. A history of tidal interactions between\nits four member galaxies and a recent collision between an intruder galaxy and\nthe original group are associated with active star formation, particularly in\nmany shocked regions in the intra-group medium. Using an existing star cluster\ncandidate (SCC) catalog constructed from HST UV/optical images, we integrate\nflux measurements from five near-infrared filters (F090W, F150W, F200W, F277W,\nF356W) obtained from JWST NIRCam observations in 2022. Leveraging the extended\nphotometric baseline from HST and JWST, spanning ~300 nm to ~3500 nm, we\nperform spectral energy distribution (SED) fitting using the CIGALE code to\nderive reliable estimates of age, mass, and extinction for the 1,588\nhigh-confidence SCCs. We confirm earlier results that very young SCCs (~a few\nMyr) are predominantly located along previously identified shock regions near\nthe merging galaxies, while older (>100 Myr) and globular clusters are more\nwidely distributed. Our analysis shows that NIR photometry helps break the\nage-extinction degeneracy, reclassifying many SCCs from older to younger,\nmoderately dust-extincted clusters when added to HST-based SED fits. We also\nobserve a strong spatial correlation between young clusters and CO-traced\nmolecular gas, although active star formation is present in several regions\nwith no detectable CO. We find that the two prominent epochs of star formation,\naround 5 Myr and 200 Myr, correspond to the two major interaction events in SQ\nthat gave rise to the observed extended tidal features.\n",
+      "author": [
+        {
+          "name": "P. Aromal"
+        },
+        {
+          "name": "S. C. Gallagher"
+        },
+        {
+          "name": "K. Fedotov"
+        },
+        {
+          "name": "N. Bastian"
+        },
+        {
+          "name": "U. Lisenfeld"
+        },
+        {
+          "name": "J. C. Charlton"
+        },
+        {
+          "name": "P. N. Appleton"
+        },
+        {
+          "name": "J. Braine"
+        },
+        {
+          "name": "K. E. Johnson"
+        },
+        {
+          "name": "P. Tzanavaris"
+        },
+        {
+          "name": "B. H. C. Emonts"
+        },
+        {
+          "name": "A. Togi"
+        },
+        {
+          "name": "C. K. Xu"
+        },
+        {
+          "name": "P. Guillard"
+        },
+        {
+          "name": "L. Barcos-Muñoz"
+        },
+        {
+          "name": "L. J. Smith"
+        },
+        {
+          "name": "I. S. Konstantopoulos"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "26 pages, 10 figures, Accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.22800v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.22800v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2509.22776v1",
+      "updated": "2025-09-26T18:00:01Z",
+      "published": "2025-09-26T18:00:01Z",
+      "title": "Observing compact Pop III star clusters and the presence of cosmic\n  streaming",
+      "summary": "  The formation of the Universe's first luminous stellar structures depends on\nthe unique conditions at \"Cosmic Dawn,\" which are set by the underlying\ncosmological model and early baryonic physics. Observations suggest that\nhigh-$z$ star clusters reached stellar surface densities above $10^5 M_\\odot$\npc$^{-2}$, suggesting scenarios where models predict that the ability of\nstellar feedback to counter gravitational collapse is severely limited. We\ninvestigate the first star clusters in a suite of AREPO simulations, which\nexplore the capacity for $\\Lambda$CDM halos to maximally form high-density\nsystems without feedback. We include the effects of the supersonic baryon-dark\nmatter streaming velocity, an effect that impacts gas density and distribution\nin early minihalos. We show that early star clusters can reach high densities\neven in regions of strong supersonic streaming, provided feedback is weak. We\nanalyze the interplay of the stream velocity and the dynamical processes of\nstructure formation, finding that JWST has the opportunity to detect the\nbrightest, most massive objects in our computational box. The detection of\nindividual $z\\geq12$ Pop III star clusters below $10^7M_\\odot$ is challenging,\nalthough lensing could reveal these objects in rare configurations, especially\nif a top-heavy IMF is present. We find that accounting for baryonic clusters\nseparately from dark matter halos complicates predictions for the faint-end of\nthe high-$z$ UVLF, with competing effects from the stream velocity and low-mass\nclusters outside of halos. Finally, we explore clustering of star clusters as a\npromising probe of the stream velocity in these systems.\n",
+      "author": [
+        {
+          "name": "Claire E. Williams"
+        },
+        {
+          "name": "Smadar Naoz"
+        },
+        {
+          "name": "Naoki Yoshida"
+        },
+        {
+          "name": "William Lake"
+        },
+        {
+          "name": "Blakesley Burkhart"
+        },
+        {
+          "name": "Federico Marinacci"
+        },
+        {
+          "name": "Mark Vogelsberger"
+        },
+        {
+          "name": "Shyam H. Menon"
+        },
+        {
+          "name": "Avi Chen"
+        },
+        {
+          "name": "Kyle Kremer"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "22 pages, 13 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.22776v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.22776v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 8
+    },
     {
       "id": "http://arxiv.org/abs/2509.22336v1",
       "updated": "2025-09-26T13:29:24Z",
