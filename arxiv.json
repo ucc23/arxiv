@@ -1,6 +1,58 @@
 {
-  "fetched_at": "2025-10-01T02:02:23.847Z",
+  "fetched_at": "2025-10-01T06:36:18.846Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2509.25341v1",
+      "updated": "2025-09-29T18:00:28Z",
+      "published": "2025-09-29T18:00:28Z",
+      "title": "Seeking Kinematic Association of Known FU Orionis Stars with Young\n  Clusters in Cygnus",
+      "summary": "  Kinematic studies of young stars and star clusters have increased our\nunderstanding of the process of star formation and evolution in the Milky Way.\nFU Orionis objects are a specific class of young stellar object notable for\ntheir extremely high disk-to-star accretion rates. We use parallax and proper\nmotion information from the Gaia astrometric survey to study five known FU Ori\nstars towards the Cygnus clouds, in the distance range ~500-900 parsecs, and\nseek evidence of their kinematic association with proximal stellar groups or\nclusters. We develop multiple search criteria within the Gaia datasets to look\nfor nearby stellar aggregates and to reliably isolate their likely member\nstars. We show that V1057 Cygni and HBC 722 are kinematically consistent with\nthe 3D locations as well as the inferred proper motion fields of the North\nAmerica Nebula cluster. We show a similar association of V1515 Cygni with NGC\n6914 in the Cygnus-X region, and of V2494 Cygni with stars in the dark cloud\nLDN 1003 and Braid Nebula. Further, we find that V1735 Cygni is consistent in\nboth position and proper motion with the streamer structure of IC 5146, and we\ntrace the streamer's similar proper motions to the main cluster.\nColor-magnitude diagrams of all identified clusters show the presence of\npre-main-sequence populations, strengthening the likelihood of a physical\nassociation between the young FU Ori stars and their respective nearby\nclusters.\n",
+      "author": [
+        {
+          "name": "Tamojeet Roychowdhury"
+        },
+        {
+          "name": "Lynne A. Hillenbrand"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "20 pages, 15 figures; accepted in the Publications of the\n  Astronomical Society of the Pacific",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2509.25341v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2509.25341v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2509.25011v1",
       "updated": "2025-09-29T16:37:55Z",
