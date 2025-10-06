@@ -1,6 +1,320 @@
 {
-  "fetched_at": "2025-10-06T01:53:18.311Z",
+  "fetched_at": "2025-10-06T06:36:59.788Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.03144v1",
+      "updated": "2025-10-03T16:15:16Z",
+      "published": "2025-10-03T16:15:16Z",
+      "title": "SIGNALS of Giant HII Regions: A Spatially Resolved Analysis of NGC 604",
+      "summary": "  Observing giant HII regions at fine spatial scales uncovers detailed\nstructures and reveals variations in ionization, abundance, and dynamical\nproperties of ionized gas and the effect of stellar feedback. Using emission\nline data of M33 observed with SITELLE as part of the Star-formation, Ionized\nGas, and Nebular Abundances Legacy Survey (SIGNALS), we present maps of the\nprincipal optical emission line ratios for NGC 604, the most luminous HII\nregion in M33. The excitation maps align well with the H$\\alpha$ morphology and\nare clearly related to the location of the central stellar cluster and\nsecondary stellar groups. The maps of ionization-sensitive line ratios show\nsubstantial variations across the face of NGC 604. We demonstrate that these\nvariations are unlikely to be due to chemical inhomogeneities but are primarily\ncaused by changes in ionization, which in turn affect the observed line ratios.\nWe present the H$\\alpha$ kinematics of the region and connect it to the\nexcitation structure, showing how the dynamic motions influence the spatial\ndistribution of ionized gas. We note two distinct sources identified in these\nexcitation maps: a known supernova remnant and a previously unknown planetary\nnebula. Such parsec-scale features contribute only a small percentage to the\noverall light and would remain undetected without the use of high-resolution\nspatial data. Throughout the paper, we make comparisons to and raise concerns\nabout single-aperture and long-slit spectroscopic measurements of giant HII\nregions, highlighting the limitations and potential inaccuracies of such\nmethods.\n",
+      "author": [
+        {
+          "name": "Ray Garner III"
+        },
+        {
+          "name": "Robert C. Kennicutt Jr"
+        },
+        {
+          "name": "Laurent Drissen"
+        },
+        {
+          "name": "Carmelle Robert"
+        },
+        {
+          "name": "Laurie Rousseau-Nepton"
+        },
+        {
+          "name": "Christophe Morisset"
+        },
+        {
+          "name": "Philippe Amram"
+        },
+        {
+          "name": "R. Pierre Martin"
+        },
+        {
+          "name": "Emma Jarvis"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "26 pages, 11 figures, 3 tables. Submitted to ApJ, comments welcome!",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.03144v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.03144v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.02600v1",
+      "updated": "2025-10-02T22:16:15Z",
+      "published": "2025-10-02T22:16:15Z",
+      "title": "Foreground Extinction to Extended Celestial Objects -- I. New Extinction\n  Maps",
+      "summary": "  We present a new two-dimensional (2D) map of total Galactic extinction,\n$A_\\mathrm{V}$, across the entire dust half-layer from the Sun to extragalactic\nspace for Galactic latitudes $|b|>13$ deg, as well as a three-dimensional (3D)\nmap of $A_\\mathrm{V}$ within 2~kpc of the Sun. These maps are based on\n$A_\\mathrm{V}$ and distance estimates derived from a dataset, which utilizes\n{\\it Gaia} Data Release 3 parallaxes and multi-band photometry for nearly 100\nmillion dwarf stars. We apply our own corrections to account for significant\nsystematics in this dataset. Our 2D map achieves an angular resolution of\n6.1~arcmin, while the 3D map offers a transverse resolution of 3.56~pc --\ncorresponding to variable angular resolution depending on distance -- and a\nradial resolution of 50~pc. In constructing these maps, we pay particular\nattention to the solar neighborhood (within 200~pc) and to high Galactic\nlatitudes. The 3D map predicts $A_\\mathrm{V}$ from the Sun to any extended\nobject within the Galactic dust layer with an accuracy of $\\sigma(A_\\mathrm{V})\n= 0.1$~mag. The 2D map provides $A_\\mathrm{V}$ estimates for the entire dust\nhalf-layer up to extragalactic distances with an accuracy of\n$\\sigma(A_\\mathrm{V}) = 0.07$~mag. We provide $A_\\mathrm{V}$ estimates from our\nmaps for various classes of extended celestial objects with angular size\nprimarily in the range of 2--40~arcmin, including 19,809 galaxies and quasars,\n170 Galactic globular clusters, 458 open clusters, and several hundreds\nmolecular clouds from two lists. We also present extinction values for 8,293\nType Ia supernovae. Comparison of our extinction estimates with those from\nprevious maps and literature sources reveals systematic differences, indicating\nlarge-scale spatial variations in the extinction law and suggesting that\nearlier 2D reddening maps based on infrared dust emission tend to underestimate\nlow extinction values.\n",
+      "author": [
+        {
+          "name": "G. A. Gontcharov"
+        },
+        {
+          "name": "A. A. Marchuk"
+        },
+        {
+          "name": "S. S. Savchenko"
+        },
+        {
+          "name": "A. V. Mosenkov"
+        },
+        {
+          "name": "V. B. Il'in"
+        },
+        {
+          "name": "D. M. Poliakov"
+        },
+        {
+          "name": "A. A. Smirnov"
+        },
+        {
+          "name": "H. Krayani"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Accepted to be published in Research in Astronomy and Astrophysics.\n  Presented maps and tables are at https://www.scidb.cn/ or\n  https://drive.google.com/drive/folders/1iy-bT5O4RzednIM7pAPaxYV4sMxmuapi",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.02600v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.02600v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.02462v1",
+      "updated": "2025-10-02T18:16:32Z",
+      "published": "2025-10-02T18:16:32Z",
+      "title": "Unveiling Dynamics and Variability in Open Clusters: Insights from a\n  Comprehensive Analysis of Six Galactic Clusters",
+      "summary": "  We present a kinematic and dynamical analysis of six Galactic open clusters\nNGC~2204, NGC~2660, NGC~2262, Czernik~32, Pismis~18, and NGC~2437, using\n\\textit{Gaia}~DR3. We used Bayesian and Gaussian Mixture Model (GMM) methods to\nidentify cluster members, but chose GMM because it's more appropriate for\nlow-mass stars. Estimated distances range from 1.76 to 4.20~kpc and ages from\n0.199 to 1.95~Gyr, confirming their intermediate-age nature. King model fits\nindicate compact morphologies, with core radii of 1--10~arcmin and cluster\nradii of 5--24~arcmin. We identify 13 BSS and 3 YSS members, whose central\nconcentrations suggest origins via mass transfer or stellar collisions. The\nmass function slopes (0.96--1.19) are flatter than the Salpeter value, which\nindicates that these clusters have undergone dynamical mass segregation. Orbit\nintegration within a Galactic potential indicates nearly circular orbits\n(eccentricities 0.02--0.10), vertical excursions within $\\pm$132~pc, and\nguiding radii near the solar circle, suggesting disk confinement. These\nclusters likely formed in the thin disk and are shaped by Galactic tidal\nperturbations, facilitating the rapid loss of low-mass members. Additionally,\ntwelve variable stars were found across four clusters using \\textit{TESS} light\ncurves, including $\\gamma$~Doradus and SPB pulsators, eclipsing binaries, and a\nyellow straggler candidate. Periods were derived via Lomb-Scargle analysis. Two\neclipsing binaries (TIC~94229743 and TIC~318170024) were modeled using PHOEBE,\nyielding mass ratios of 1.37 and 2.16, respectively. Our findings demonstrate\nthat integrating orbital dynamics and variable star studies presents valuable\ninsights into the evolutionary pathways of open clusters.\n",
+      "author": [
+        {
+          "name": "Kuldeep Belwal"
+        },
+        {
+          "name": "D. Bisht"
+        },
+        {
+          "name": "Ing-Guey Jiang"
+        },
+        {
+          "name": "R. K. S. Yadav"
+        },
+        {
+          "name": "Ashish Raj"
+        },
+        {
+          "name": "Geeta Rangwal"
+        },
+        {
+          "name": "Arvind K. Dattatrey"
+        },
+        {
+          "name": "Mohit Singh Bisht"
+        },
+        {
+          "name": "Alok Durgapal"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "24 pages, 16 figures (main text), 2 figures (appendices), 7 tables,\n  Accepted to MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.02462v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.02462v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 7.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.02431v1",
+      "updated": "2025-10-02T18:00:00Z",
+      "published": "2025-10-02T18:00:00Z",
+      "title": "No Observational Evidence for Dark Matter Nor a Large Metallicity Spread\n  in the Extreme Milky Way Satellite Ursa Major III / UNIONS 1",
+      "summary": "  The extremely-low-luminosity, compact Milky Way satellite Ursa Major III /\nUNIONS 1 (UMaIII/U1; $L_V = 11 \\ L_{\\odot}$; $a_{1/2} = 3$ pc) was found to\nhave a substantial velocity dispersion at the time of its discovery ($\\sigma_v\n= 3.7^{+1.4}_{-1.0} \\rm \\ km \\ s^{-1}$), suggesting that it might be an\nexceptional, highly dark-matter-dominated dwarf galaxy with very few stars.\nHowever, significant questions remained about the system's dark matter content\nand nature as a dwarf galaxy due to the small member sample ($N=11$), possible\nspectroscopic binaries, and the lack of any metallicity information. Here, we\npresent new spectroscopic observations covering $N=16$ members that both\ndynamically and chemically test UMaIII/U1's true nature. From higher-precision\nKeck/DEIMOS spectra, we find a 95% confidence level velocity dispersion limit\nof $\\sigma_v< 2.3 \\rm \\ km \\ s^{-1}$, with a $\\sim$120:1 likelihood ratio now\nfavoring the expected stellar-only dispersion of $\\sigma_* \\approx 0.1 \\rm \\ km\n\\ s^{-1}$ over the original $3.7 \\rm \\ km \\ s^{-1}$ dispersion. There is now no\nobservational evidence for dark matter in the system. From Keck/LRIS spectra\ntargeting the Calcium II K line, we also measure the first metallicities for 12\nmember stars, finding a mean metallicity of $\\rm [Fe/H] = -2.65 \\; \\pm \\, 0.1$\n(stat.) $\\pm \\,0.3$ (zeropoint) with a metallicity dispersion limit of\n$\\sigma_{\\rm [Fe/H]} < 0.35$ dex (at the 95% credible level). Together, these\nproperties are more consistent with UMaIII/U1 being a star cluster, though the\ndwarf galaxy scenario is not fully ruled out. Under this interpretation,\nUMaIII/U1 ranks among the most metal-poor star clusters yet discovered and is\npotentially the first known example of a cluster stabilized by a substantial\npopulation of unseen stellar remnants.\n",
+      "author": [
+        {
+          "name": "William Cerny"
+        },
+        {
+          "name": "Daisy Bissonette"
+        },
+        {
+          "name": "Alexander P. Ji"
+        },
+        {
+          "name": "Marla Geha"
+        },
+        {
+          "name": "Anirudh Chiti"
+        },
+        {
+          "name": "Simon E. T. Smith"
+        },
+        {
+          "name": "Joshua D. Simon"
+        },
+        {
+          "name": "Andrew B. Pace"
+        },
+        {
+          "name": "Evan N. Kirby"
+        },
+        {
+          "name": "Kim A. Venn"
+        },
+        {
+          "name": "Ting S. Li"
+        },
+        {
+          "name": "Alice M. Luna"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "11+8 pages; 6 figures, submitted to ApJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.02431v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.02431v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2509.25341v1",
       "updated": "2025-09-29T18:00:28Z",
