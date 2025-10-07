@@ -1,6 +1,124 @@
 {
-  "fetched_at": "2025-10-07T01:50:17.576Z",
+  "fetched_at": "2025-10-07T06:36:06.385Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.04957v1",
+      "updated": "2025-10-06T15:56:33Z",
+      "published": "2025-10-06T15:56:33Z",
+      "title": "Galaxy Model Subtraction with a Convolutional Denoising Autoencoder",
+      "summary": "  Galaxy model subtraction removes the smooth light of nearby galaxies so that\nfainter sources (e.g., stars, star clusters, background galaxies) can be\nidentified and measured. Traditional approaches (isophotal or parametric\nfitting) are semi-automated and can be challenging for large data sets. We\nbuild a convolutional denoising autoencoder (DAE) for galaxy model subtraction:\nimages are compressed to a latent representation and reconstructed to yield the\nsmooth galaxy, suppressing other objects. The DAE is trained on\nGALFIT-generated model galaxies injected into real sky backgrounds and tested\non real images from the Next Generation Virgo Cluster Survey (NGVS). To\nquantify performance, we conduct an injection-recovery experiment on residual\nimages by adding mock globular clusters (GCs) with known fluxes and positions.\nOur tests confirm a higher recovery rate of mock GCs near galaxy centers for\ncomplex morphologies, while matching ellipse fitting for smooth ellipticals.\nOverall, the DAE achieves subtraction equivalent to isophotal ellipse fitting\nfor regular ellipticals and superior results for galaxies with high\nellipticities or spiral features. Photometry of small-scale sources on DAE\nresiduals is consistent with that on ellipse-subtracted residuals. Once\ntrained, the DAE processes an image cutout in $\\lesssim 0.1$ s, enabling fast,\nfully automatic analysis of large data sets. We make our code available for\ndownload and use.\n",
+      "author": [
+        {
+          "name": "Rongrong Liu"
+        },
+        {
+          "name": "Eric W. Peng"
+        },
+        {
+          "name": "Kaixiang Wang"
+        },
+        {
+          "name": "Laura Ferrarese"
+        },
+        {
+          "name": "Patrick Côté"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.04957v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.04957v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.IM",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.03766v1",
+      "updated": "2025-10-04T10:25:42Z",
+      "published": "2025-10-04T10:25:42Z",
+      "title": "Formation and growth of intermediate-mass black holes in dense star\n  clusters: Lessons from N-body and MOCCA Monte Carlo Simulations",
+      "summary": "  Dense star clusters are promising nurseries for the formation and growth of\nintermediate-mass black holes (IMBHs; $\\sim 10^2-10^5\\,\\mathrm{M}_{\\odot}$),\nwith increasing observational evidence pointing to their presence in massive\nstar clusters and stripped dwarf-galaxy nuclei. During the early evolution of\ncompact clusters, massive stars can rapidly segregate to the center, where\nfrequent collisions may trigger the runaway growth of a very massive star\n(VMS). This object can subsequently collapse to form an IMBH or merge with a\nstellar-mass black hole. We carried out direct $N$-body and Monte Carlo\nsimulations of star clusters with initial core densities between $10^6$ to\n$4\\times 10^8\\,\\mathrm{M}_{\\odot}\\,\\mathrm{pc}^{-3}$ and total masses of\n$5.9\\times 10^5$ and $1.3\\times 10^6\\,\\mathrm{M}_{\\odot}$. These models show\nthat IMBHs of $10^3-10^4\\,\\mathrm{M}_{\\odot}$ can form within $\\leq 5$ Myr\nthrough the runaway collision channel. At later times, the IMBHs continue to\ngrow through mergers with black holes, stars, and compact remnants, providing\npredictions testable with future gravitational-wave and transient surveys.\n",
+      "author": [
+        {
+          "name": "Abbas Askar"
+        },
+        {
+          "name": "Marcelo C. Vergara"
+        },
+        {
+          "name": "Sohaib Ali"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "4 pages, 2 figures, 1 table. To appear in the Proceedings of IAU\n  Symposium 398 and MODEST-25: \"Compact Objects and Binaries in Dense Stellar\n  Systems\" (Seoul, South Korea, June 2025)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.03766v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.03766v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 3
+    },
     {
       "id": "http://arxiv.org/abs/2510.03144v1",
       "updated": "2025-10-03T16:15:16Z",
