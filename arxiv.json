@@ -1,6 +1,284 @@
 {
-  "fetched_at": "2025-10-08T01:50:30.567Z",
+  "fetched_at": "2025-10-08T06:36:30.143Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.06134v1",
+      "updated": "2025-10-07T17:08:44Z",
+      "published": "2025-10-07T17:08:44Z",
+      "title": "Resolving Star Cluster Formation in Galaxy Simulations with Cosmic Ray\n  Feedback",
+      "summary": "  Star clusters host the massive stars responsible for feedback in star-forming\ngalaxies. Stellar feedback shapes the interstellar medium (ISM), affecting the\nformation of future star clusters. To self-consistently capture the interplay\nbetween feedback and star formation, a model must resolve the parsec-scale star\nformation sites and the multiphase ISM. Additionally, the dynamical impact of\ncosmic rays (CRs) on star formation rates (SFRs) must also be considered. We\npresent the first simulations of the formation of an ensemble of star clusters\nwith dynamically-coupled CRs, near-individual star particles, and a\nfeedback-regulated ISM. We analyze tallbox simulations performed using the\nCRISP model in the moving-mesh code AREPO. We apply varied implementations of\nCR transport under the theory of self-confinement. We find that CRs\nsimultaneously reduce the SFR, the power law slope of the cluster mass\nfunction, and the cluster formation efficiency. Each simulation is compatible\nwith observations, and CR feedback tends to move results along observed star\ncluster relations. We see only modest changes in cluster radius and velocity\ndispersions, but significant differences in the virial parameters. Ultimately,\nthe primary impact of CRs is to reduce SFRs. Lower SFRs imply fewer supernovae,\nand consequently a lower turbulent energy budget for gas. Star clusters formed\nin a CR-regulated ISM have lower velocity dispersions, and are therefore more\nbound under self-gravity. The effective clustering of SNe is unchanged by CRs.\nThrough this work, we demonstrate the predictive power of the CRISP feedback\nmodel, despite this idealized setup.\n",
+      "author": [
+        {
+          "name": "Brandon Sike"
+        },
+        {
+          "name": "Mateusz Ruszkowski"
+        },
+        {
+          "name": "Oleg Y. Gnedin"
+        },
+        {
+          "name": "Yingtian Chen"
+        },
+        {
+          "name": "Matthias Weber"
+        },
+        {
+          "name": "Timon Thomas"
+        },
+        {
+          "name": "Christoph Pfrommer"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 9 figures, 1 table",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.06134v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.06134v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 8
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.05634v1",
+      "updated": "2025-10-07T07:35:28Z",
+      "published": "2025-10-07T07:35:28Z",
+      "title": "On the Formation of GW231123 in Population III Star Clusters",
+      "summary": "  GW231123 is a binary black hole merger whose primary component lies within or\nabove the pair-instability mass gap, while the secondary component falls within\nthis gap. The standard theory of stellar evolution is significantly challenged\nby this event. We investigate the formation of candidate progenitors of\nGW231123 in Population III (Pop3) star clusters. We find that they could form\nthrough stellar mergers, binary black hole mergers, and mixed mergers. The mass\ndistribution of these candidate progenitors covers the component masses of\nGW231123. Their predicted merger rate density spans the range of $0.001{\\rm\nGpc^{-3}yr^{-1}}-0.26{\\rm Gpc^{-3}yr^{-1}}$, encompassing that of GW231123.\nThese findings suggest that GW231123 may originate from Pop3 star clusters.\nFurthermore, such candidate progenitors are expected to be detectable by future\ngravitational wave detectors LISA/Taiji/TianQin/DECIGO/CE/ET, which would\nprovide valuable insights into the formation scenarios of events like GW231123.\n",
+      "author": [
+        {
+          "name": "Shuai Liu"
+        },
+        {
+          "name": "Long Wang"
+        },
+        {
+          "name": "Ataru Tanikawa"
+        },
+        {
+          "name": "Weiwei Wu"
+        },
+        {
+          "name": "Michiko S. Fujii"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "8 pages, 4 figures, and 1 table. Accepted by ApJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.05634v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.05634v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "hep-th",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.05332v1",
+      "updated": "2025-10-06T19:54:46Z",
+      "published": "2025-10-06T19:54:46Z",
+      "title": "Declining metallicity and extended HeII in the outflow of an epoch of\n  reionization analogue galaxy",
+      "summary": "  We present VLT/X-shooter spectroscopy of the extremely metal-poor starburst\ngalaxy SBS 0335-052E, a nearby (D $\\sim$54 Mpc) analog of high-redshift\nsystems, probing its outflow up to a distance of $\\sim$2.6 kpc. Using\ndirect-method oxygen abundances, we find a complex metallicity profile that\ngenerally declines with distance, decreasing by 0.37 dex from the galaxy center\nout to 2.4 kpc into the outflow. This implies a metal-loading factor roughly an\norder of magnitude lower than predictions based on the mass-metallicity\nrelation for low-mass galaxies. We also detect extended HeII emission,\nincluding a broad, redshifted component beyond 2 kpc, distinct from narrow\nemission associated with star clusters. No H$\\beta$ emission is detected\nassociated with the broad redshifted component, implying extremely high\nHeII/H$\\beta$ ratios (0.7--4.8). Such extreme values, combined with the\ndecreasing metallicity, challenge current models for stellar feedback. The\ncontribution of an intermediate-mass black hole could simultaneously account\nfor the declining metallicity and the unusually extended HeII emission.\n",
+      "author": [
+        {
+          "name": "M. J. Hamel-Bravo"
+        },
+        {
+          "name": "D. B. Fisher"
+        },
+        {
+          "name": "D. A. Berg"
+        },
+        {
+          "name": "A. J. Cameron"
+        },
+        {
+          "name": "J. Chisholm"
+        },
+        {
+          "name": "G. G. Kacprzak"
+        },
+        {
+          "name": "B. Mazzilli Ciraulo"
+        },
+        {
+          "name": "H. Katz"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "4 pages, submitted to A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.05332v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.05332v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.05258v1",
+      "updated": "2025-10-06T18:20:34Z",
+      "published": "2025-10-06T18:20:34Z",
+      "title": "Self-interacting dark matter in the center of a Local Group dwarf galaxy\n  and its satellites",
+      "summary": "  We present a detailed comparison of a Local Group dwarf galaxy analogue\nevolved in two cosmological models: the standard $\\Lambda$CDM and a\nself-interacting dark matter (SIDM) model with a velocity-dependent\ncross-section. Both simulations are run with the high-resolution,\nhydrodynamical LYRA galaxy formation model, allowing us to explore the global\nand substructure properties of the dwarf in a consistent context. While the\noverall halo growth, final mass, and subhalo mass functions remain largely\nunchanged across models, SIDM produces a central dark matter core extending to\n$\\sim$1 kpc, which does not significantly vary with the inclusion of baryons.\nBaryonic properties, however, differ notably. The SIDM model leads to a 25%\nreduction in stellar mass and retains more gas within the stellar half-mass\nradius due to a prolonged quiescent phase in star formation. The stellar\ndistribution is less centrally concentrated, and a population of in-situ star\nclusters form at late times. Substructure analysis reveals fewer luminous\nsatellites and more stellar-only systems in SIDM, driven in part by tidal\nstripping that affects the dark matter more than the stars. A subset of\nsatellites undergoes tidal-triggered core collapse after infall, enhancing the\ndiversity of SIDM satellite rotation curves. These differences offer potential\nobservational signatures of SIDM in low-mass galaxies.\n",
+      "author": [
+        {
+          "name": "Thales A. Gutcke"
+        },
+        {
+          "name": "Giulia Despali"
+        },
+        {
+          "name": "Stephanie O'Neil"
+        },
+        {
+          "name": "Mark Vogelsberger"
+        },
+        {
+          "name": "Azadeh Fattahi"
+        },
+        {
+          "name": "David B. Sanders"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "13 pages, 11 figures, submitted to ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.05258v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.05258v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2510.04957v1",
       "updated": "2025-10-06T15:56:33Z",
