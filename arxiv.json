@@ -1,6 +1,170 @@
 {
-  "fetched_at": "2025-10-09T01:51:47.630Z",
+  "fetched_at": "2025-10-09T06:36:47.078Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.06668v1",
+      "updated": "2025-10-08T05:35:41Z",
+      "published": "2025-10-08T05:35:41Z",
+      "title": "Formation of A Nuclear Star Cluster Through A Merger Event In The Low\n  Surface Brightness Galaxy AGC 223218",
+      "summary": "  We present the properties of the nuclear star cluster (NSC) in the low\nsurface brightness galaxy AGC 223218. The disk of the galaxy can be modeled\nusing two S$\\acute{\\rm e}$rsic components with distinct central positions: one\nrepresenting the inner bright disk and the other corresponding to the extended\nouter disk. We estimate the stellar masses of the NSC and the host galaxy using\ntwo methods: spectral energy distribution (SED) fitting and mass-to-light\nversus color relations (MLCRs). The stellar mass ratio of the NSC to AGC 223218\nis 0.094 based on the SED method and 0.072 using MLCRs. The NSC presents a\nyounger stellar population and a lower [Fe/H] value than the host, as\ndetermined from SDSS and LAMOST spectra analysis using pPXF fitting. AGC 223218\nis located at the boundary between the Seyfert and star-forming regions in the\n[SII]-BPT diagram, whereas in the [NII]-BPT diagram, it falls in the track of\nstar-forming SDSS galaxies. This suggests the presence of strong shocks in AGC\n223218. We propose that the NSC in AGC 223218 may have formed as a result of a\nmerger event. Furthermore, the observed X-ray luminosity of AGC 223218 with\neROSITA is two orders of magnitude higher than the expected X-ray luminosity\nfrom X-ray binaries, suggesting the presence of an intermediate-mass black hole\n(IMBH) in the NSC. To account for the observed X-ray luminosity, we estimate\nthe IMBH accretion rate to be approximately 0.001.\n",
+      "author": [
+        {
+          "name": "Tian-Wen Cao"
+        },
+        {
+          "name": "Zi-Qi Chen"
+        },
+        {
+          "name": "Zi-Jian Li"
+        },
+        {
+          "name": "Cheng Cheng"
+        },
+        {
+          "name": "Gaspar Galaz"
+        },
+        {
+          "name": "Venu M. Kalari"
+        },
+        {
+          "name": "Jun-feng Wang"
+        },
+        {
+          "name": "Chun-Yi Zhang"
+        },
+        {
+          "name": "Pei-Bin Chen"
+        },
+        {
+          "name": "Meng-Ting Shen"
+        },
+        {
+          "name": "Hong Wu"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/1538-4357/adf559",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/1538-4357/adf559",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.06668v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.06668v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "11 pages, 8 figures, accepted for publication in ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "ApJ 990 131 (2025)",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.06320v1",
+      "updated": "2025-10-07T18:00:02Z",
+      "published": "2025-10-07T18:00:02Z",
+      "title": "A Deep Look into the Intermediate-Age Open Cluster NGC 2506: What Binary\n  Systems Reveal About Cluster Distance and Age",
+      "summary": "  Using high-precision observations from the space-based \\textit{Gaia} and\n\\textit{TESS} missions, complemented by ground-based spectroscopic data and\nmulti-band photometric surveys, we perform a detailed investigation of the\nGalactic open cluster NGC~2506. We present a new analysis of the\nintermediate-age open cluster NGC~2506, using joint fits to the radial\nvelocities (RVs) and spectral energy distributions (SEDs) of five double-lined\nbinary systems, including two eclipsing binaries. The analysis yields\nself-consistent estimates of the cluster's age, distance, and extinction, based\non 18 free parameters: 10 stellar masses, 5 orbital inclinations, and common\nvalues for age, distance, and $A_V$. The SED fitting incorporates stellar\nisochrones, and the resulting parameters are examined through HR diagrams\n(R--$T_{\\rm eff}$, R--M, and M--$T_{\\rm eff}$) to assess evolutionary\nconsistency. The age we derive for the cluster is $1.94 \\pm 0.03$ Gyr for an\nassumed [Fe/H] = -0.30, and a fitting formula is given for extrapolation to\nother metallicities. The distance we find from the SED fitting is $3189 \\pm 53$\npc, and this is to be compared with our own inference from the Gaia data which\nis $3105 \\pm 75$ pc, based on 919 stars identified as cluster members. Our\nresults demonstrate the power of binary systems in tightly constraining\ncluster-wide age and distance at this evolutionary stage. This approach\nrepresents one of the most accurate characterizations of an intermediate-age\nopen cluster using multiple binary systems.\n",
+      "author": [
+        {
+          "name": "K. Yakut"
+        },
+        {
+          "name": "B. Kalomeni"
+        },
+        {
+          "name": "S. Rappaport"
+        },
+        {
+          "name": "Veselin Kostov"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "12 pages, 7 figures, 5 tables, Accepted for publication in MNRAS",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.06320v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.06320v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.SR",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 9
+    },
     {
       "id": "http://arxiv.org/abs/2510.06134v1",
       "updated": "2025-10-07T17:08:44Z",
