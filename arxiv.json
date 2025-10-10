@@ -1,6 +1,76 @@
 {
-  "fetched_at": "2025-10-10T01:52:25.176Z",
+  "fetched_at": "2025-10-10T06:36:34.419Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.07368v1",
+      "updated": "2025-10-08T18:00:00Z",
+      "published": "2025-10-08T18:00:00Z",
+      "title": "RIGEL: Feedback regulated cloud-scale star formation efficiency in a\n  simulated dwarf galaxy merger",
+      "summary": "  Major mergers of galaxies are likely to trigger bursty star formation\nactivities. The accumulation of dense gas and the boost of star formation\nefficiency (SFE) are considered to be the two main drivers of the starbursts.\nHowever, it is still unclear how each process operates on the scale of\nindividual star-forming clouds. Here, we present a high-resolution (2 Msun) RHD\nsimulation of a gas-rich dwarf galaxy merger using the RIGEL model to\ninvestigate how mergers affect the properties of the structure of dense\nstar-forming gas and the cloud-scale SFE. We track the evolution of sub-virial\ndense clouds in the simulation by mapping them across successive snapshots\ntaken at intervals of 0.2 Myr. We found that the merger triggers a 130 times\nhigher SFR and shortens the galaxy-wide gas-depletion time by two orders of\nmagnitude compared to those of two isolated galaxies. However, the depletion\ntime of individual clouds and their lifetime distribution remained unchanged\nover the simulation period. The cloud life cycles and cloud-scale SFE are\ndetermined by the local stellar feedback rather than environmental factors\nregardless of the merger process, and the integrated SFE ($\\epsilon_{\\rm int}$)\nof clouds in complex environments is still well described by an $\\epsilon_{\\rm\nint}-\\Sigma_{\\rm tot}$ relation found in idealized isolated-cloud experiments.\nDuring the peak of the starburst, the median integrated SFE only changed by\n0.17-0.33 dex lower compared to the value when the galaxies are not\ninteracting. The merger boosts the SFR primarily through the accumulation and\ncompression of dense gas fueling star formation. Strong tidal torques assemble\n$>10^ 5$ Msun clouds that seed massive star clusters. The average separation\nbetween star-forming clouds decreases during the merger, which in turn\ndecreases the cloud--cluster spatial decorrelation from >1 kpc to 0.1 kpc\ndepicted by tuning fork diagrams.\n",
+      "author": [
+        {
+          "name": "Yunwei Deng"
+        },
+        {
+          "name": "Hui Li"
+        },
+        {
+          "name": "Federico Marinacci"
+        },
+        {
+          "name": "Yang Ni"
+        },
+        {
+          "name": "Boyuan Liu"
+        },
+        {
+          "name": "Aaron Smith"
+        },
+        {
+          "name": "Rahul Kannan"
+        },
+        {
+          "name": "Greg L. Bryan"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "16 pages, 14 figures; A&A in press; abstract slightly abridged;\n  comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.07368v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.07368v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2510.06668v1",
       "updated": "2025-10-08T05:35:41Z",
