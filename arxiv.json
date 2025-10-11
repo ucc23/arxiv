@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-10-10T18:34:01.272Z",
+  "fetched_at": "2025-10-11T01:47:18.256Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2510.07368v1",
@@ -630,79 +630,6 @@
         }
       },
       "score": 3
-    },
-    {
-      "id": "http://arxiv.org/abs/2510.03144v1",
-      "updated": "2025-10-03T16:15:16Z",
-      "published": "2025-10-03T16:15:16Z",
-      "title": "SIGNALS of Giant HII Regions: A Spatially Resolved Analysis of NGC 604",
-      "summary": "  Observing giant HII regions at fine spatial scales uncovers detailed\nstructures and reveals variations in ionization, abundance, and dynamical\nproperties of ionized gas and the effect of stellar feedback. Using emission\nline data of M33 observed with SITELLE as part of the Star-formation, Ionized\nGas, and Nebular Abundances Legacy Survey (SIGNALS), we present maps of the\nprincipal optical emission line ratios for NGC 604, the most luminous HII\nregion in M33. The excitation maps align well with the H$\\alpha$ morphology and\nare clearly related to the location of the central stellar cluster and\nsecondary stellar groups. The maps of ionization-sensitive line ratios show\nsubstantial variations across the face of NGC 604. We demonstrate that these\nvariations are unlikely to be due to chemical inhomogeneities but are primarily\ncaused by changes in ionization, which in turn affect the observed line ratios.\nWe present the H$\\alpha$ kinematics of the region and connect it to the\nexcitation structure, showing how the dynamic motions influence the spatial\ndistribution of ionized gas. We note two distinct sources identified in these\nexcitation maps: a known supernova remnant and a previously unknown planetary\nnebula. Such parsec-scale features contribute only a small percentage to the\noverall light and would remain undetected without the use of high-resolution\nspatial data. Throughout the paper, we make comparisons to and raise concerns\nabout single-aperture and long-slit spectroscopic measurements of giant HII\nregions, highlighting the limitations and potential inaccuracies of such\nmethods.\n",
-      "author": [
-        {
-          "name": "Ray Garner III"
-        },
-        {
-          "name": "Robert C. Kennicutt Jr"
-        },
-        {
-          "name": "Laurent Drissen"
-        },
-        {
-          "name": "Carmelle Robert"
-        },
-        {
-          "name": "Laurie Rousseau-Nepton"
-        },
-        {
-          "name": "Christophe Morisset"
-        },
-        {
-          "name": "Philippe Amram"
-        },
-        {
-          "name": "R. Pierre Martin"
-        },
-        {
-          "name": "Emma Jarvis"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "26 pages, 11 figures, 3 tables. Submitted to ApJ, comments welcome!",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2510.03144v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2510.03144v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 0.5
     }
   ]
 }
