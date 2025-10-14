@@ -1,6 +1,918 @@
 {
-  "fetched_at": "2025-10-14T01:52:33.863Z",
+  "fetched_at": "2025-10-14T06:36:03.884Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.11684v1",
+      "updated": "2025-10-13T17:47:59Z",
+      "published": "2025-10-13T17:47:59Z",
+      "title": "Ultra-Faint Milky Way Satellites Discovered in Carina, Phoenix, and\n  Telescopium with DELVE Data Release 3",
+      "summary": "  We report the discovery of three Milky Way satellite candidates: Carina IV,\nPhoenix III, and DELVE 7, in the third data release of the DECam Local Volume\nExploration survey (DELVE). The candidate systems were identified by\ncross-matching results from two independent search algorithms. All three are\nextremely faint systems composed of old, metal-poor stellar populations ($\\tau\n\\gtrsim 10$ Gyr, [Fe/H] $ \\lesssim -1.4$). Carina IV ($M_V = -2.8;\\ r_{1/2} =\n40 {\\rm pc}$) and Phoenix III ($M_V = -1.2;\\ r_{1/2} = 19 {\\rm pc}$) have\nhalf-light radii that are consistent with the known population of dwarf\ngalaxies, while DELVE 7 ($M_V = 1.2;\\ r_{1/2} = 2 {\\rm pc}$) is very compact\nand seems more likely to be a star cluster, though its nature remains ambiguous\nwithout spectroscopic followup. The Gaia proper motions of stars in Carina IV\n($M_* = 2250^{+1180}_{-830} {\\rm M_\\odot}$) indicate that it is unlikely to be\nassociated with the LMC, while DECam CaHK photometry confirms that its member\nstars are metal-poor. Phoenix III ($M_* = 520^{+660}_{-290} {\\rm M_\\odot}$) is\nthe faintest known satellite in the extreme outer stellar halo ($D_{\\rm GC} >\n100$ kpc), while DELVE 7 ($M_* = 60^{+120}_{-40} {\\rm M_\\odot}$) is the\nfaintest known satellite with $D_{\\rm GC} > 20$ kpc.\n",
+      "author": [
+        {
+          "name": "C. Y. Tan",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "W. Cerny",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. B. Pace",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. A. Sharp",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "K. Overdeck",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. Drlica-Wagner",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. D. Simon",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "B. Mutlu-Pakdil",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. J. Sand",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. M. Senkevich",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. Erkal",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "P. S. Ferguson",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "F. Sobreira",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "K. R. Atzberger",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. L. Carlin",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. Chiti",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. Crnojević",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. P. Ji",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "L. C. Johnson",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "T. S. Li",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "G. Limberg",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "C. E. Martínez-Vázquez",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "G. E. Medina",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "V. M. Placco",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. H. Riley",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "E. J. Tollerud",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. K. Vivas",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "T. M. C. Abbott",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "M. Aguena",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "O. Alves",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. Bacon",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "S. Bocquet",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. Brooks",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. L. Burke",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "R. Camilleri",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. A. Carballo-Bello",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. Carnero Rosell",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. Carretero",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "T. -Y. Cheng",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Y. Choi",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "L. N. da Costa",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "M. E. da Silva Pereira",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "T. M. Davis",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. De Vicente",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "S. Desai",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "P. Doel",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "S. Everett",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "B. Flaugher",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. Frieman",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. García-Bellido",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. Gruen",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "G. Gutierrez",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "S. R. Hinton",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. L. Hollowood",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. J. James",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "K. Kuehn",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "S. Lee",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. L. Marshall",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. Mena-Fernández",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "F. Menanteau",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "R. Miquel",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "J. Myles",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "M. Navabi",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. L. Nidever",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "R. L. C. Ogando",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. A. Plazas Malagón",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. Porredon",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "S. Samuroff",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "E. Sanchez",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "D. Sanchez Cid",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "I. Sevilla-Noarbe",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "M. Smith",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "E. Suchyta",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "M. E. C. Swanson",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "V. Vikram",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. R. Walker",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "A. Zenteno",
+          "arxiv:affiliation": {
+            "_": "DELVE and DES Collaboration",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "20 pages, 6 figures, 2 tables; To be submitted to AAS Journals,\n  Comments are welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.11684v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.11684v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.11006v1",
+      "updated": "2025-10-13T04:50:59Z",
+      "published": "2025-10-13T04:50:59Z",
+      "title": "Three Birds with One Stone: Core-Collapsed SIDM Halos as the Common\n  Origin of Dense Perturbers in Lenses, Streams, and Satellites",
+      "summary": "  We show that core-collapsed self-interacting dark matter halos of mass $\\sim\n10^6\\,{M_\\odot}$, originally simulated to explain the dense perturber of the\nGD-1 stellar stream, also reproduce the structural properties inferred for the\ndense perturber detected in the strong lensing system JVAS B1938+666 from radio\nobservations. Furthermore, these halos are sufficiently compact and dense to\ngravitationally capture field stars in satellite galaxies of the Milky Way,\nproviding a natural explanation for the origin of Fornax 6, a stellar cluster\nin the Fornax dwarf spheroidal galaxy. Our results demonstrate that\nobservations of halos with similar masses but residing in different cosmic\nenvironments offer a powerful and complementary probe of self-interacting dark\nmatter.\n",
+      "author": {
+        "name": "Hai-Bo Yu"
+      },
+      "arxiv:comment": {
+        "_": "4 pages, 1 figure",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.11006v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.11006v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "hep-ph",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.10821v1",
+      "updated": "2025-10-12T22:06:58Z",
+      "published": "2025-10-12T22:06:58Z",
+      "title": "Co-evolution of Nuclear Star Clusters and Massive Black Holes: Extreme\n  Mass-Ratio Inspirals",
+      "summary": "  We explore extreme mass-ratio inspirals (EMRIs) in the co-evolution of\nmassive black holes (MBHs) and nuclear star clusters (NSCs), which host diverse\nstellar populations across a wide range of masses. The dynamics are simulated\nself-consistently with GNC, which we have updated to incorporate gravitational\nwave orbital decay, the loss cone of a spinning MBH, and stellar evolution.\nOver $12$ Gyr, we investigate the evolution of the NSC with a mass-growing MBH,\nas well as the EMRIs of stellar black holes, neutron stars, white dwarfs, brown\ndwarfs (BDs), and low-mass main-sequence stars (MSs), along with tidal\ndisruption events (TDEs) involving MSs, BDs, and post-MSs. The mass growth of\nthe MBH contributed by TDEs is typically $\\sim 10^7\\,M_{\\odot}$, $\\sim\n10^6\\,M_{\\odot}$, and $\\sim 5\\times10^4\\,M_{\\odot}$ for massive,\nMilky-Way-like, and smaller NSCs, respectively. Between $40\\%$ and $70\\%$ of\nthe stellar mass is lost during stellar evolution, which dominates the mass\ngrowth of the MBH if a significant fraction of the lost mass is accreted. The\nevolution of EMRI rates is generally affected by the cluster's size expansion\nor contraction, stellar population evolution, MBH mass growth, and the stellar\ninitial mass function. The EMRI rates for compact objects peak at early epochs\n($\\lesssim 1$ Gyr) and then gradually decline over cosmic time. LISA-band\n($0.1$ mHz) EMRIs involving compact objects around Milky-Way-like MBHs tend to\nhave high eccentricities, while those around spinning MBHs preferentially\noccupy low-inclination (prograde) orbits. In contrast, MS- and BD-EMRIs usually\nhave eccentricity and inclination distributions that are distinct from those of\ncompact objects.\n",
+      "author": [
+        {
+          "name": "Fupeng Zhang"
+        },
+        {
+          "name": "Pau Amaro Seoane"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "30 pages, 15 figures, submitted to Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.10821v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.10821v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.10385v1",
+      "updated": "2025-10-12T00:46:53Z",
+      "published": "2025-10-12T00:46:53Z",
+      "title": "Refining open cluster parameters with Gaia XP metallicities",
+      "summary": "  The precision of cluster parameter determination has significantly improved\nwith the availability of homogeneous photometric Gaia data, however, challenges\nsuch as age-metallicity degeneracy and lack of spectroscopic observations\nremain. In this paper we investigate whether metallicities derived from\nlow-resolution Gaia XP spectra can be effectively used to break degeneracies\nand improve the accuracy of OC parameter determinations.\n  We analysed 20 OCs using isochrone fitting methods on Gaia DR3 photometry and\nmetallicity estimates from several Gaia XP-based catalogues. We derived age,\ndistance modulus, and extinction using the Approximate Bayesian Computation\n(ABC).\n  We compared the parameter estimates to the values obtained in other works\nthrough isochrone fitting with spectroscopically constrained metallicities or\nthrough neural network techniques applied only to the photometry. We found the\nsystematic difference between Gaia XP derived metallicities and those obtained\nfrom high-resolution spectroscopy to be 0.1-0.15 dex. We found a systematic age\ndifference of <0.03 +- 0.13 dex compared to isochrone fitting using\nhigh-resolution spectroscopy, and <0.08 +- 0.21 dex compared to neural\nnetwork-based methods, and a median individual error of ~0.065 dex.\n  Despite their low resolution, Gaia XP metallicities effectively constrain\nparameters of clusters lacking a well-populated RGB. When used with stringent\nquality cuts and incorporated as priors, they allow to determine ages\ncomparable in precision to those based on high-resolution spectroscopy and more\nprecise than photometry-only neural network methods. These results highlight\nthe potential of Gaia data for accurate cluster parameter analysis and detailed\nGalactic studies without relying on traditional spectroscopy.\n",
+      "author": [
+        {
+          "name": "M. Nizovkina"
+        },
+        {
+          "name": "S. S. Larsen"
+        },
+        {
+          "name": "A. G. A. Brown"
+        },
+        {
+          "name": "A. Helmi"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "17 pages, 16 figures, accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.10385v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.10385v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 4.5
+    },
     {
       "id": "http://arxiv.org/abs/2510.09168v1",
       "updated": "2025-10-10T09:11:20Z",
