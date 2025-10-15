@@ -1,6 +1,259 @@
 {
-  "fetched_at": "2025-10-15T01:55:23.379Z",
+  "fetched_at": "2025-10-15T06:36:19.260Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.12572v1",
+      "updated": "2025-10-14T14:29:10Z",
+      "published": "2025-10-14T14:29:10Z",
+      "title": "JWST and Keck Observations of the Off-Nuclear TDE AT 2024tvd: A Massive\n  Nuclear Star Cluster and Minor-Merger Origin for its Black Hole",
+      "summary": "  We present JWST/NIRSpec and NIRCam observations of the first optically\nselected off-nuclear tidal disruption event (TDE), AT 2024tvd, along with\nKeck/KCWI integral field unit spectroscopy. The spectra show broad H and He\nemission lines that are characteristic of a TDE. Stellar kinematics show smooth\nhost-galaxy morphology and ordered bulge rotation, with no evidence of\ndisturbances in velocity, dispersion, age or metallicity space. We construct\nthe first quasi-simultaneous spectral-energy distribution (SED) from X-rays to\ninfrared for a TDE and decompose it into three components: the TDE accretion\nflow, an unresolved nuclear star cluster (NSC), and heated dust emission. The\naccretion component implies a black hole mass of $\\log(M_\\bullet/M_\\odot) =\n5.50\\pm 0.04$, an instantaneous super-Eddington accretion rate of $\\log\n(\\dot{M}/M_{\\odot} yr^{-1}) = -1.22 \\pm 0.04$, and an outer disk photosphere\nradius of $\\log(r_{out}/r_{g}) = 3.8 \\pm 0.1$. The dust emission is well\ndescribed by a blackbody with $T_{dust} = 873\\pm 15$ K and peak luminosity\n$\\log (L_{dust}/erg$ $s^{-1}) = 40.80\\pm 0.01$, consistent with a dust echo\nnear the sublimation radius. The SED is best fit when including additional\nstellar emission above the galaxy background at the TDE location, corresponding\nto $\\log(M_{\\star}/M_\\odot) = 7.97^{+0.16}_{-0.26}$, which we interpret as a\nmassive NSC or an ultra-compact dwarf galaxy. These results support a\nminor-merger origin for the MBH responsible for the TDE over scenarios\ninvolving gravitational recoil or dynamical ejection from the nucleus.\n",
+      "author": [
+        {
+          "name": "Kishore C. Patra"
+        },
+        {
+          "name": "Ryan J. Foley"
+        },
+        {
+          "name": "Nicholas Earl"
+        },
+        {
+          "name": "Kyle W. Davis"
+        },
+        {
+          "name": "Enrico Ramirez-Ruiz"
+        },
+        {
+          "name": "V. Ashley Villar"
+        },
+        {
+          "name": "Sebastian Gomez"
+        },
+        {
+          "name": "K. Decker French"
+        },
+        {
+          "name": "Kirsty Taggart"
+        },
+        {
+          "name": "Prasiddha Arunachalam"
+        },
+        {
+          "name": "Phillip Macias"
+        },
+        {
+          "name": "Ravjit Kaur"
+        },
+        {
+          "name": "Samaporn Tinyanont"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "22 pages, 9 figures, comments welcome",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.12572v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.12572v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.12518v1",
+      "updated": "2025-10-14T13:43:36Z",
+      "published": "2025-10-14T13:43:36Z",
+      "title": "Widespread Hot Molecular Gas Heated by Shear-induced Turbulence in the\n  Galactic Center",
+      "summary": "  We observed NH3 metastable inversion lines from (3, 3) to (18, 18) toward\nG0.66-0.13 in the Galactic center with the Shanghai Tianma 65m radio telescope\nand Yebes 40 m telescope. Highly-excited lines of NH3 (17, 17), (18, 18) were\ndetected in emission for the first time in the interstellar medium, with upper\nenergy levels up to 3100 K. Mapping observations reveal widespread hot\nmolecular gas traced by NH3 (13, 13) toward G0.66-0.13. The rotation\ntemperatures of hot gas traced by NH3 exceed 400 K, which amounts to five\npercent of the total NH3 in the Galactic Center. Hot gas (>400 K) and warm gas\n(100-140 K) are found in distinct clumps, with the hot gas located at the\ninterfacing regions between different warm clouds. The theory of intermittency\nin turbulence reproduces the complex temperature structure in the central\nmolecular zone, especially the hot gas observed here. The results presented\nhere demonstrate that turbulence heating dominates the heating of the molecular\ngas in the Central Molecular Zone, while the turbulence is induced by the\nshear-motion of molecular clouds under the gravitational potential of the\nnuclear star clusters and the supermassive black hole. Our results suggest that\nshear-induced turbulence heating could be a widespread factor influencing\ngalactic evolution.\n",
+      "author": [
+        {
+          "name": "Juan Li"
+        },
+        {
+          "name": "Junzhi Wang"
+        },
+        {
+          "name": "Zhiqiang Shen"
+        },
+        {
+          "name": "Alba Vidal-Garcia"
+        },
+        {
+          "name": "Yuqiang Li"
+        },
+        {
+          "name": "DI Li"
+        },
+        {
+          "name": "Liubin Pan"
+        },
+        {
+          "name": "Lei Huang"
+        },
+        {
+          "name": "Fengyao Zhu"
+        },
+        {
+          "name": "Siqi Zheng"
+        },
+        {
+          "name": "Yiping Ao"
+        },
+        {
+          "name": "Alvaro Sanchez-Momge"
+        },
+        {
+          "name": "Zhiyu Zhang"
+        },
+        {
+          "name": "Xing Lu"
+        },
+        {
+          "name": "Tie Liu"
+        },
+        {
+          "name": "Xingwu Zheng"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "21 pages, 7 figures. Accepted by ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.12518v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.12518v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.11966v1",
+      "updated": "2025-10-13T21:58:22Z",
+      "published": "2025-10-13T21:58:22Z",
+      "title": "GALACTICNUCLEUS: A high angular resolution JHKs imaging survey of the\n  Galactic centre",
+      "summary": "  The center of the Milky Way is a unique environment of great astrophysical\ninterest, but its extreme crowding and extinction make it difficult to study.\nThe GALACTICNUCLEUS survey, a high-angular-resolution near-infrared imaging\nprogram, was designed to overcome these challenges. We present the methodology\nand first results of its second data release, which includes major improvements\nin reduction, calibration, and analysis, providing deeper photometry, improved\nastrometry, and high-precision proper motions across the Nuclear Stellar Disk.\nObservations were obtained with VLT/HAWK-I in two epochs separated by seven\nyears, using speckle holography and a ground-layer adaptive optics system.\nProper motions were derived both relative, by aligning epochs within the\nsurvey, and absolute, by tying to the Gaia reference frame. The new release\nachieves photometry about one magnitude deeper and astrometry about ten times\nmore precise than the first release. Proper motions reach an accuracy of about\n0.5 mas/yr relative to Gaia. In the Arches field, our clustering analysis\nrecovers the cluster with mean velocities consistent with HST-based results.\nThe second data release of the GALACTICNUCLEUS survey provides the most precise\nground-based proper motion catalogs of the Galactic Center to date, enabling\nstudies of the Nuclear Stellar Disk, young star kinematics, and new stellar\ncluster detections.\n",
+      "author": [
+        {
+          "name": "Á. Martínez Arranz"
+        },
+        {
+          "name": "R. Schödel"
+        },
+        {
+          "name": "H. Bouy"
+        },
+        {
+          "name": "F. Nogueras-Lara"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.11966v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.11966v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2510.11684v1",
       "updated": "2025-10-13T17:47:59Z",
