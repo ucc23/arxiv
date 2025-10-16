@@ -1,6 +1,105 @@
 {
-  "fetched_at": "2025-10-16T01:54:10.613Z",
+  "fetched_at": "2025-10-16T06:36:13.648Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.13288v1",
+      "updated": "2025-10-15T08:34:47Z",
+      "published": "2025-10-15T08:34:47Z",
+      "title": "Old open clusters NGC 188 and M 67 in Gaia DR3",
+      "summary": "  We performed a statistical study of two old open clusters NGC 188 and M 67\nusing Gaia DR3 data. No tidal tails of the clusters were detected, which most\nlikely had been destroyed when the cluster passed through the Galactic plane.\nThe size estimates of the clusters depend on the range of astrometric\nparameters and stellar magnitudes of the stars used for star counts. The mass\nspectra of two clusters differ significantly. NGC 188 shows a deficit of\nlow-mass stars compared to M 67. In the halo region of NGC 188 (compared to the\ncore region of the cluster), there is a relative excess of the low-mass stars\n(just as in the case of M 67) and a deficit of stars in the mass range from\n0.66 to 0.9 solar masses. Comparison with the Hunt & Reffert samples showed\nthat almost all the stars from these samples are contained among the stars we\nselected for counting. Moreover, the group probability of these stars belonging\nto clusters, estimated by the uniform background method, is higher than 60%. It\nis shown that the velocity dispersion of single stars (selected according to\nthe `stellar magnitude -- color index' diagrams) is significantly smaller than\nthe velocity dispersion of unresolved binary stars.\n",
+      "author": [
+        {
+          "name": "Anton F. Seleznev"
+        },
+        {
+          "name": "Maxim V. Kulesh"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "23 pages, 12 figures, 5 tables",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.13288v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.13288v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.13241v1",
+      "updated": "2025-10-15T07:44:08Z",
+      "published": "2025-10-15T07:44:08Z",
+      "title": "The dependence of black hole formation in open clusters on the cluster\n  formation process",
+      "summary": "  We performed N-body simulations of both individual cluster evolution and\nsubcluster coalescence, demonstrating that cluster evolution and its outcomes\nstrongly depend on the cluster formation process through comparisons of\ndifferent gas expulsion modes and formation channels. The evolution of star\nclusters is significantly shaped by the gas expulsion mode, with faster\nexpulsion producing greater mass loss. A broader degeneracy exists among\ninitial cluster mass, gas expulsion timescale, and formation channel\n(monolithic vs. coalescence), which manifests in both evolutionary pathways and\nblack hole production. In individual cluster simulations, slower gas expulsion\nenables progressively lower-mass clusters to retain central black holes within\nthe tidal radius. As the gas expulsion mode transitions from fast to moderate\nto slow, the fraction of high-velocity stars decreases. Variations in gas\nexpulsion mode and formation channel ultimately influence the stellar velocity\ndistribution (within the tidal radius), and thus the expansion speed, which\ngoverns both cluster mass loss and black hole retention. Slowly expanding\nclusters are more likely to retain black holes and multiple systems, making\nthem prime candidates for black hole searches with {\\it Gaia}. Our results\nhighlight the crucial influence of early gas expulsion and cluster formation\nmechanisms on the dynamical evolution of star clusters and black hole\nproduction. These factors should be carefully incorporated into the initial\nconditions of N-body simulations, which necessarily rely on input from the star\nformation community.\n",
+      "author": {
+        "name": "Jian-Wen Zhou"
+      },
+      "arxiv:comment": {
+        "_": "Accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.13241v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.13241v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 6.5
+    },
     {
       "id": "http://arxiv.org/abs/2510.12572v1",
       "updated": "2025-10-14T14:29:10Z",
