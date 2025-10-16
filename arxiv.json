@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-10-16T06:36:13.648Z",
+  "fetched_at": "2025-10-16T12:53:33.537Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2510.13288v1",
@@ -99,6 +99,605 @@
         }
       },
       "score": 6.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.12942v1",
+      "updated": "2025-10-14T19:39:48Z",
+      "published": "2025-10-14T19:39:48Z",
+      "title": "Only the Special Survive: Evolution of Long-Lived Star Clusters in\n  Galaxy Simulations",
+      "summary": "  In this work, we aim to answer one crucial question behind the discrepancy\nbetween chemical trends of field stars and clusters in the Galactic disk: is\nthe chemical gradient mismatch driven by cluster migration and differential\nsurvivability as a function of galactic location? To answer this question, we\nexplored the evolution of long-lived (> 1 Gyr) star clusters in Milky\nWay-galaxy simulations. In particular, we investigated why some star clusters\nremain bound over billions of years. We have traced the unique trajectories for\na sample of open clusters around two FIRE galaxies throughout cosmic time.\nAdditionally, we characterized the small-scale environment surrounding these\nclusters over their orbital history. We see that clusters across both FIRE\ngalaxies spend the majority of their lives in under-dense regions of gas,\nexcept for brief passages where they interact with gas clouds, causing their\norbits to be altered.\n",
+      "author": [
+        {
+          "name": "Alessa I. Wiggins"
+        },
+        {
+          "name": "Sarah Loebman"
+        },
+        {
+          "name": "Peter Frinchaboy"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "3 pages, 2 figures, Proceedings of the IAU Symposium 395",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.12942v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.12942v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 6.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.12892v1",
+      "updated": "2025-10-14T18:05:52Z",
+      "published": "2025-10-14T18:05:52Z",
+      "title": "ALMAGAL VIII. Cataloging Hierarchical Mass Structure from Cores to\n  Clumps across the Galactic Disk",
+      "summary": "  Investigating the multi-scale fragmentation of dense clumps into compact\ncores is essential for understanding the processes that govern the initial\ndistribution of mass in stellar clusters and how high-mass stars\n($>8~M_{\\odot}$) form. We present a catalog of the hierarchical continuum\nstructure from 904 clumps observed in the ALMAGAL program, a high resolution\n($0.15-0.8$\\arcsec) 1.38 mm Atacama Large Millimeter/submillimeter Array (ALMA)\nlarge program targeting dense clumps capable of high-mass star formation\nthroughout the Galactic disk. We use \\verb|astrodendro|, a dendrogram-based\nalgorithm, on a uniform linear resolution (2000 au) version of the data to\nextract 5160 continuum structures with effective radii spanning $800-42000$ au\nand estimated masses between $~0.05-670~M_{\\odot}$. With our large sample, we\nstatistically examine the difference in clump properties for regions with\nvarying levels of hierarchical complexity. We find that clumps exhibiting the\nrichest hierarchical morphology have distributions with higher dust\ntemperatures, surface densities, luminosity-to-mass (\\textit{L/M}) ratios, and\nmost massive core (MMC) masses, indicating that these regions tend to be at\nlater evolutionary stages. We find a positive correlation between the mass of\ncores from the ALMAGAL core catalog and the surface density of their\nsurrounding structures identified in this work. However, this correlation is\nweaker for cores in more evolved clumps, where lower mass cores can be found at\nhigher local surface densities. This could indicate that some cores accrete\nmass less efficiently from the intra-clump reservoir than others, despite the\ntotal available mass increasing over time, a scenario that is congruent with a\nclump-fed core accretion model.\n",
+      "author": [
+        {
+          "name": "Jennifer Wallace",
+          "arxiv:affiliation": {
+            "_": "University of Connecticut, Department of Physics",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Taevis Kolz",
+          "arxiv:affiliation": [
+            {
+              "_": "University of Connecticut, Department of Physics",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "University of Oregon, Department of Physics",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Cara Battersby",
+          "arxiv:affiliation": {
+            "_": "University of Connecticut, Department of Physics",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Aleksandra Kuznetsova",
+          "arxiv:affiliation": {
+            "_": "University of Connecticut, Department of Physics",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Álvaro Sánchez-Monge",
+          "arxiv:affiliation": [
+            {
+              "_": "Institut de Ciències de l'Espai",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Institut d'Estudis Espacials de Catalunya",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Eugenio Schisano",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Alessandro Coletta",
+          "arxiv:affiliation": [
+            {
+              "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Dipartimento di Fisica, Sapienza Università di Roma",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Qizhou Zhang",
+          "arxiv:affiliation": {
+            "_": "Center for Astrophysics | Harvard and Smithsonian",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Sergio Molinari",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Peter Schilke",
+          "arxiv:affiliation": {
+            "_": "I. Physikalisches Institut, Universität zu Köln",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Paul T. P. Ho",
+          "arxiv:affiliation": [
+            {
+              "_": "Institute of Astronomy and Astrophysics, Academia Sinica",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "East Asian Observatory",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Rolf Kuiper",
+          "arxiv:affiliation": {
+            "_": "Faculty of Physics, University of Duisburg-Essen",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Tianwei Zhang",
+          "arxiv:affiliation": [
+            {
+              "_": "Research Center for Astronomical computing, Zhejiang Laboratory",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "I. Physikalisches Institut, Universität zu Köln",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Thomas Möller",
+          "arxiv:affiliation": {
+            "_": "I. Physikalisches Institut, Universität zu Köln",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Ralf S. Klessen",
+          "arxiv:affiliation": [
+            {
+              "_": "Universität Heidelberg, Zentrum für Astronomie, Institut für Theoretische Astrophysik",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Universität Heidelberg, Interdisziplinäres Zentrum für Wissenschaftliches Rechnen",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Maria T. Beltrán",
+          "arxiv:affiliation": {
+            "_": "INAF-Osservatorio Astrofisico di Arcetri",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Floris van der Tak",
+          "arxiv:affiliation": [
+            {
+              "_": "Space Research Organization Netherlands",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Kapteyn Astronomical Institute, University of Groningen",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Stefania Pezzuto",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Henrik Beuther",
+          "arxiv:affiliation": {
+            "_": "Max Planck Institute for Astronomy",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Alessio Traficante",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Davide Elia",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Leonardo Bronfman",
+          "arxiv:affiliation": {
+            "_": "Departamento de Astronomía, Universidad de Chile",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Pamela Klaassen",
+          "arxiv:affiliation": {
+            "_": "UK Astronomy Technology Centre, Royal Observatory Edinburgh",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Dariusz C. Lis",
+          "arxiv:affiliation": {
+            "_": "Jet Propulsion Laboratory, California Institute of Technology",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Luca Moscadelli",
+          "arxiv:affiliation": {
+            "_": "INAF-Osservatorio Astrofisico di Arcetri",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Kazi Rygl",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Radioastronomia and Italian ALMA Regional Centre",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Milena Benedettini",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Chi Yan Law",
+          "arxiv:affiliation": {
+            "_": "INAF-Osservatorio Astrofisico di Arcetri",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Jofre Allande",
+          "arxiv:affiliation": [
+            {
+              "_": "INAF-Osservatorio Astrofisico di Arcetri",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Dipartimento di Fisica e Astronomia, Università degli Studi di Firenze",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Alice Nucara",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Patrick M. Koch",
+          "arxiv:affiliation": {
+            "_": "Institute of Astronomy and Astrophysics, Academia Sinica",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Won-ju Kim",
+          "arxiv:affiliation": [
+            {
+              "_": "I. Physikalisches Institut, Universität zu Köln",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Max-Planck-Institut für Radioastronomie",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Patricio Sanhueza",
+          "arxiv:affiliation": {
+            "_": "Institute of Astronomy and Astrophysics, Academia Sinica",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Gary Fuller",
+          "arxiv:affiliation": [
+            {
+              "_": "I. Physikalisches Institut, Universität zu Köln",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Jodrell Bank Centre for Astrophysics, Oxford Road, The University of Manchester",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Georgie Stroud",
+          "arxiv:affiliation": {
+            "_": "Jodrell Bank Centre for Astrophysics, Oxford Road, The University of Manchester",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Beth Jones",
+          "arxiv:affiliation": {
+            "_": "I. Physikalisches Institut, Universität zu Köln",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Crystal Brogan",
+          "arxiv:affiliation": {
+            "_": "National Radio Astronomy Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Todd Hunter",
+          "arxiv:affiliation": {
+            "_": "National Radio Astronomy Observatory",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Aida Ahmadi",
+          "arxiv:affiliation": {
+            "_": "Leiden Observatory, Leiden University",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Adam Avison",
+          "arxiv:affiliation": [
+            {
+              "_": "SKA Observatory, Jodrell Bank",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "Jodrell Bank Centre for Astrophysics, Oxford Road, The University of Manchester",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            },
+            {
+              "_": "UK ALMA Regional Centre Node",
+              "$": {
+                "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Katharine Johnston",
+          "arxiv:affiliation": {
+            "_": "School of Engineering and Physical Sciences, Isaac Newton Building, University of Lincoln",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Sheng-Yuan Liu",
+          "arxiv:affiliation": {
+            "_": "Institute of Astronomy and Astrophysics, Academia Sinica",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Chiara Mininni",
+          "arxiv:affiliation": {
+            "_": "INAF-Istituto di Astrofisica e Planetologia Spaziale",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        },
+        {
+          "name": "Yu-Nung Su",
+          "arxiv:affiliation": {
+            "_": "Institute of Astronomy and Astrophysics, Academia Sinica",
+            "$": {
+              "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+            }
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "29 pages, 12 figures, submitted to the Astrophysical Journal",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.12892v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.12892v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2510.12572v1",
@@ -333,6 +932,58 @@
           "$": {
             "title": "pdf",
             "href": "http://arxiv.org/pdf/2510.11966v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.11966v2",
+      "updated": "2025-10-15T08:08:19Z",
+      "published": "2025-10-13T21:58:22Z",
+      "title": "GALACTICNUCLEUS: A high angular resolution JHKs imaging survey of the\n  Galactic centre",
+      "summary": "  The center of the Milky Way is a unique environment of great astrophysical\ninterest, but its extreme crowding and extinction make it difficult to study.\nThe GALACTICNUCLEUS survey, a high-angular-resolution near-infrared imaging\nprogram, was designed to overcome these challenges. We present the methodology\nand first results of its second data release, which includes major improvements\nin reduction, calibration, and analysis, providing deeper photometry, improved\nastrometry, and high-precision proper motions across the Nuclear Stellar Disk.\nObservations were obtained with VLT/HAWK-I in two epochs separated by seven\nyears, using speckle holography and a ground-layer adaptive optics system.\nProper motions were derived both relative, by aligning epochs within the\nsurvey, and absolute, by tying to the Gaia reference frame. The new release\nachieves photometry about one magnitude deeper and astrometry about ten times\nmore precise than the first release. Proper motions reach an accuracy of about\n0.5 mas/yr relative to Gaia. In the Arches field, our clustering analysis\nrecovers the cluster with mean velocities consistent with HST-based results.\nThe second data release of the GALACTICNUCLEUS survey provides the most precise\nground-based proper motion catalogs of the Galactic Center to date, enabling\nstudies of the Nuclear Stellar Disk, young star kinematics, and new stellar\ncluster detections.\n",
+      "author": [
+        {
+          "name": "Á. Martínez Arranz"
+        },
+        {
+          "name": "R. Schödel"
+        },
+        {
+          "name": "H. Bouy"
+        },
+        {
+          "name": "F. Nogueras-Lara"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.11966v2",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.11966v2",
             "rel": "related",
             "type": "application/pdf"
           }
@@ -1091,6 +1742,80 @@
         }
       },
       "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.13657v1",
+      "updated": "2025-10-13T06:23:52Z",
+      "published": "2025-10-13T06:23:52Z",
+      "title": "Condensation sequence of circumstellar cluster seeds (CSCCS)",
+      "summary": "  Traditionally, the condensation sequence of circumstellar dust is predicted\nbased on the thermodynamic stabilities of specific condensates in the\nmacroscopic bulk phase. However, at the (sub-)nanometer scale clusters with\nnon-crystalline structures and significantly different properties are\nenergetically favoured. For this reason, we study the thermodynamic stabilities\nof metal oxide clusters with generic stoichiometries of M$_2$O$_3$ and\nM$_3$O$_4$, where M represents a metal atom. With an upper size limit of 50\natoms, we consider clusters with sizes n=1$-$10 for (M$_2$O$_3$)$_n$, and\nn=1$-$7 for (M$_3$O$_4$)$_n$. The M$_2$O$_3$ clusters comprise alumina\n(Al$_2$O$_3$), Mg-rich pyroxene (MgSiO$_3$) and a size-limited sample of\ntitanates (CaTiO$_3$), whereas the M$_3$O$_4$ clusters include spinel\n(MgAl$_2$O$_4$), Mg-rich olivine (Mg$_2$SiO$_4$) and calcium aluminates\n(CaAl$_2$O$_4$). We find that, apart from the alumina monomer, the\naluminum-bearing clusters (Al$_2$O$_3$)$_n$, n=1$-$10, and (MgAl$_2$O$_4$)$_n$,\nn=1$-$7, are favoured over their silicate counterparts (MgSiO$_3$)$_n$,\nn=1$-$10 and (Mg$_2$SiO$_4$)$_n$, n=1$-$7. Also, we find that calcium aluminate\nclusters, CaAl$_2$O$_4$, are energetically more favourable than magnesium\naluminate clusters, MgAl$_2$O$_4$. Furthermore, for a limited data set of\n(CaTiO$_3$)$_n$, n=1$-$2, clusters we find significantly larger stabilities\nthan for the other considered (M$_2$O$_3$)$_n$ clusters, namely Al$_2$O$_3$ and\nMgSiO$_3$. Future investigations, in particular on titanates and on Ca-rich\nsilicates, are required to draw a more thorough and complete picture of the\ncondensation sequence at the (sub-)nanoscale.\n",
+      "author": {
+        "name": "David Gobrecht"
+      },
+      "arxiv:doi": {
+        "_": "10.3389/fspas.2025.1632593",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3389/fspas.2025.1632593",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.13657v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.13657v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "Published",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "Frontiers, Astrononmy and Space Science,Section Astrochemistry,\n  Volume 12, 2025",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2510.11006v1",
