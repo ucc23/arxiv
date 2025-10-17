@@ -1,6 +1,58 @@
 {
-  "fetched_at": "2025-10-17T01:53:13.175Z",
+  "fetched_at": "2025-10-17T06:35:31.740Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.14757v1",
+      "updated": "2025-10-16T14:57:05Z",
+      "published": "2025-10-16T14:57:05Z",
+      "title": "The Hidden Story of Chemical Evolution in Local Star-Forming Nuclear\n  Rings",
+      "summary": "  A VLT/MUSE population synthesis study of metallicities in the nuclear\nstar-forming rings of four disk galaxies (NGC 613, NGC 1097, NGC 3351, NGC\n7552) is presented. Disentangling the spectral contributions of young and old\nstellar populations, we find a large spread of ages and metallicities of the\nold stars in the nuclear rings. This indicates a persistent infall of\nmetal-poor gas and ongoing episodic star formation over many gigayears. The\nyoung stars have metallicities a factor two to three higher than solar in all\ngalaxies except NGC 3351, where the range is from half to twice solar.\nPreviously reported detections of extremely metal poor regions at young stellar\nage on the rings of these four galaxies are a methodological artifact of the\naverage over all stars, young and old. In addition, it is important to include\ncontributions of very young stars ($<6$ Myr) in this environment. For each of\nthe four galaxies, the extinction maps generated through our population\nsynthesis analysis provide support for the infall scenario. They reveal dust\nlanes along the leading edges of the stellar bars, indicating the flow of\ninterstellar material towards the circumnuclear zone. Prominent stellar\nclusters show little extinction, most likely because of the onset of stellar\nwinds. Inside and on the nuclear rings, regions that are largely free of\nextinction are detected.\n",
+      "author": [
+        {
+          "name": "Eva Sextl"
+        },
+        {
+          "name": "Rolf-Peter Kudritzki"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "submitted to ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.14757v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.14757v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2510.13288v1",
       "updated": "2025-10-15T08:34:47Z",
