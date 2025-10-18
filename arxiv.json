@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-10-17T18:32:24.607Z",
+  "fetched_at": "2025-10-18T01:47:59.505Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2510.14757v1",
@@ -2041,115 +2041,6 @@
         }
       },
       "score": 4.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2510.09168v1",
-      "updated": "2025-10-10T09:11:20Z",
-      "published": "2025-10-10T09:11:20Z",
-      "title": "The age and metallicity dependence of the near-infrared absolute\n  magnitude and colour of red clump stars",
-      "summary": "  Understanding the age and metallicity dependence of the absolute magnitude\nand colour of red clump (RC) stars is crucial for validating the accuracy of\nstellar evolution models and enhancing their reliability as a standard candle.\nHowever, this dependence has previously been investigated in the near-infrared\nacross multiple bands only for -1.05 $\\leq$ [Fe/H] $\\leq$ 0.40, a range\naccessible through the star clusters in the Large Magellanic Cloud. Therefore,\nwe used star clusters in the Small Magellanic Cloud and the Milky Way Galaxy to\ninvestigate the age and metallicity dependence of the absolute magnitude and\ncolour of RC stars in the near-infrared for a broader parameter space (0.45\n$\\leq$ Age (Gyr) $\\leq$ 10.5, -1.65 $\\leq$ [Fe/H] $\\leq$ 0.32). Comparison of\nour results with three isochronous models BaSTI, PARSEC, and MIST reveals that\nthe age dependence of the absolute magnitude for young RC stars aligns well\nwith theoretical predictions, within the fitting errors of the multiple\nregression analysis. Additionally, the observed colour shows good agreement\nwith the theoretical models. Notably, the $J - K_{S}$ colour, which spans a\nwide parameter space, reproduces the distribution expected from the theoretical\nmodel.\n",
-      "author": [
-        {
-          "name": "Hiroki Onozato"
-        },
-        {
-          "name": "Yoshifusa Ita"
-        },
-        {
-          "name": "Yoshikazu Nakada"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "22 pages, 20 figures, accepted for publication in MNRAS",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2510.09168v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2510.09168v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.SR",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2510.08913v1",
-      "updated": "2025-10-10T01:52:09Z",
-      "published": "2025-10-10T01:52:09Z",
-      "title": "Tides from the cloud can induce the fast disruption of star clusters and\n  offer an explanation for Gaia strings",
-      "summary": "  Young stars form in clusters within molecular clouds, but older stars are\nevenly distributed across the galactic disk, necessitating an explanation for\ncluster dissolution. We analytically study tidal forces from cold molecular\nclouds as a key mechanism for accelerated cluster disruption. Cloud tides,\ncaused by the gravitational pull of the parent cloud along the radial\ndirection, arise from the spatial gradient of gravitational acceleration and\ndrive cluster disruption. This mechanism activates after gas expulsion and\nremains effective until the cloud is disrupted by stellar feedback or the\ncluster moves away. Cloud tides act on gas-deprived clusters, causing\nexponential expansion on a tidal timescale of $t_{\\rm tidal,ext} =\n\\sqrt{3/(8\\pi G\\rho_{\\rm mean})}$, where $\\rho_{\\rm mean}$ is the cloud's\ndensity at the cluster's location. With a duration of a few Myr, cloud tides\ncan lead to a 10 times increase of the cluster size, producing bar-like\nelongated stellar aggregations resembling Gaia strings. These results establish\ncloud tides as a potentially important mechanism for star cluster disruption.\n",
-      "author": [
-        {
-          "name": "Xiao-Tong Chen"
-        },
-        {
-          "name": "Guang-Xing Li"
-        }
-      ],
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2510.08913v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2510.08913v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 4
     }
   ]
 }
