@@ -1,6 +1,156 @@
 {
-  "fetched_at": "2025-10-21T01:56:16.956Z",
+  "fetched_at": "2025-10-21T06:36:55.113Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.17579v1",
+      "updated": "2025-10-20T14:28:24Z",
+      "published": "2025-10-20T14:28:24Z",
+      "title": "Extending the [C/N]-Age Calibration: Using Globular Clusters to Explore\n  Older and Metal-Poor Populations",
+      "summary": "  In the coming years, detailed chemical abundances from large-scale\nhigh-resolution spectroscopic surveys will become available for vast numbers of\nstars across the Milky Way. Previous work has suggested that abundance ratios\nfrom these spectra can allow us to estimate ages from a large number of stars.\nThese data will be leveraged to calibrate chemical clocks to age-date field\nstars, as reliable stellar ages remain elusive. In this work, we extended our\nempirical relationship between stellar age and their carbon-to-nitrogen ([C/N])\nabundance ratio for evolved stars to older and more metal-poor stars by\ncombining the original open cluster calibration sample and four globular\nclusters: 47 Tuc, M 71, M 4, and M 5. With this extension, [C/N] can be used as\na chemical clock for evolved field stars to investigate not only regions within\nthe metal rich disk, but also more metal-poor regions of our Galaxy. We have\nestablished the [C/N]-age relationship for APOGEE DR17 red giant stars, that\nhave experienced the first dredge up but have not yet undergone any\nextra-mixing, in clusters usable for ages between $8.62 \\leq \\log(Age[{\\rm\nyr}]) \\leq 10.13$ and for metallicites of $-1.2\\leq[Fe/H]\\leq+0.3$. This\nrelationship can be uniformly applied to these stars within the APOGEE DR17\nsample. This measured [C/N]-age APOGEE DR17 relationship is also shown to be\nconsistent with stellar ages derived from asterosiesmic results of APOKASC and\nAPO-K2.\n",
+      "author": [
+        {
+          "name": "Taylor Spoo"
+        },
+        {
+          "name": "Katelyn Thomas"
+        },
+        {
+          "name": "Ellie \"Kaleo\" Toguchi-Tani"
+        },
+        {
+          "name": "Jonah Otto"
+        },
+        {
+          "name": "Natalie Myers"
+        },
+        {
+          "name": "Jamie Tayar"
+        },
+        {
+          "name": "Jessica S. Schonhut-Stasik"
+        },
+        {
+          "name": "Matthew Shetrone"
+        },
+        {
+          "name": "Alessa Ibrahim Wiggins"
+        },
+        {
+          "name": "John Donor"
+        },
+        {
+          "name": "Peter M. Frinchaboy"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "18 pagers, 11 figures, Astronomical Journal in press",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.17579v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.17579v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.17079v1",
+      "updated": "2025-10-20T01:23:05Z",
+      "published": "2025-10-20T01:23:05Z",
+      "title": "Heating and scattering of stellar distributions by ultralight dark\n  matter",
+      "summary": "  Due to wave interference, an ultralight light dark matter halo has\nstochastic, granular substructures which can scatter stars, leading to the\nheating of stellar distributions. Studies of this phenomenon have placed lower\nbounds on the ultralight dark matter mass. In this paper we investigate a\nnumber of relevant systematic effects, including: (1) the heating by the\ncentral soliton, (2) the self-gravity of the stars, (3) the suppression of\nheating in a tidally stripped halo, and (4) the tidal field suppression of\nheating when the stellar cluster is much smaller than the de Broglie\nwavelength. The first three effects are quantified by studying the dynamics of\nstellar particles in Schrodinger-Poisson simulations of ultralight dark matter\nhalos, while the last effect is studied using analytic approximations.\n",
+      "author": [
+        {
+          "name": "Andrew Eberhardt"
+        },
+        {
+          "name": "Mateja Gosenca"
+        },
+        {
+          "name": "Lam Hui"
+        }
+      ],
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.17079v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.17079v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.CO",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.CO",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "hep-th",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2510.15823v1",
       "updated": "2025-10-17T17:06:39Z",
