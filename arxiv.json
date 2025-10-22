@@ -1,6 +1,73 @@
 {
-  "fetched_at": "2025-10-22T01:59:28.700Z",
+  "fetched_at": "2025-10-22T06:38:12.826Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.18343v1",
+      "updated": "2025-10-21T06:55:02Z",
+      "published": "2025-10-21T06:55:02Z",
+      "title": "The selection function of the Gaia DR3 open cluster census",
+      "summary": "  Open clusters are among the most useful and widespread tracers of Galactic\nstructure. The completeness of the Galactic open cluster census, however,\nremains poorly understood. For the first time ever, we establish the selection\nfunction of an entire open cluster census, publishing our results as an\nopen-source Python package for use by the community. Our work is valid for the\nHunt & Reffert catalogue of clusters in Gaia DR3. We developed and open-sourced\nour cluster simulator from our first work. Then, we performed 80,590 injection\nand retrievals of simulated open clusters to test the Hunt & Reffert\ncatalogue's sensitivity. We fit a logistic model of cluster detectability that\ndepends only on a cluster's number of stars, median parallax error, Gaia data\ndensity, and a user-specified significance threshold. We find that our simple\nmodel accurately predicts cluster detectability, with a 94.53\\% accuracy on our\ntraining data that is comparable to a machine-learning based model with orders\nof magnitude more parameters. Our model itself offers numerous insights on why\ncertain clusters are detected. We briefly use our model to show that cluster\ndetectability depends on non-intuitive parameters, such as a cluster's proper\nmotion, and we show that even a modest 25 km/s boost to a cluster's orbital\nspeed can result in an almost 3$\\times$ higher detection probability, depending\non its position. In addition, we publish our raw cluster injection and\nretrievals and cluster memberships, which could be used for a number of other\nscience cases -- such as estimating cluster membership incompleteness. Using\nour results, selection effect-corrected studies are now possible with the open\ncluster census. Our work will enable a number of brand new types of study, such\nas detailed comparisons between the Milky Way's cluster census and recent\nextragalactic cluster samples.\n",
+      "author": [
+        {
+          "name": "Emily L. Hunt"
+        },
+        {
+          "name": "Tristan Cantat-Gaudin"
+        },
+        {
+          "name": "Friedrich Anders"
+        },
+        {
+          "name": "Sagar Malhotra"
+        },
+        {
+          "name": "Lorenzo Spina"
+        },
+        {
+          "name": "Alfred Castro-Ginard"
+        },
+        {
+          "name": "Lorenzo Cavallo"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "17 pages, 15 figures. Submitted to A&A, comments welcome.\n  Accompanying Python module available at\n  https://github.com/emilyhunt/hr_selection_function. Raw data available at\n  https://drive.google.com/drive/folders/1Smbt49WZG3IaPBBPPjTkQVlc3a0-xNOR?usp=sharing",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.18343v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.18343v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 12
+    },
     {
       "id": "http://arxiv.org/abs/2510.17579v1",
       "updated": "2025-10-20T14:28:24Z",
