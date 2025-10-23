@@ -1,6 +1,89 @@
 {
-  "fetched_at": "2025-10-23T01:54:56.792Z",
+  "fetched_at": "2025-10-23T06:36:33.198Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.18985v1",
+      "updated": "2025-10-21T18:07:38Z",
+      "published": "2025-10-21T18:07:38Z",
+      "title": "Resolving the Nuclear Environments of Tidal Disruption Event Host\n  Galaxies within 45 pc",
+      "summary": "  Using HST/STIS observations, we present the highest-spatial-resolution\nspectroscopic study to date of four tidal disruption event (TDE) host galaxies,\nwith the best observed being the post-starburst (PSB) host of ASASSN-14li. The\nstellar population of ASASSN-14li's host, within 44 pc of the nucleus, reveals\na younger recent starburst ($\\sim$340 Myr) compared to the population at an\noffset radius of 88 pc that excludes the nucleus ($\\sim$550 Myr), a radial age\ngradient suggesting gas inflows from a minor merger. We estimate a stellar\ndensity of $\\sim5900 \\pm 800 \\, M_\\odot / \\mathrm{pc}^3$ within 30 pc of the\nnucleus of ASASSN-14li's host, exceeding densities expected for nuclear star\nclusters. High-ionization ``coronal\" emission lines, [Fe VI] $\\lambda 5677$,\n[Fe VII] $\\lambda 6087$, and [Fe X] $\\lambda 6375$, are also detected within\nthe nuclear spectra of the hosts of ASASSN-14li and PTF09ge, importantly\nalongside the non-detection of [O III] at the same scale. We similarly do not\ndetect [O III] in the nuclear region of ASASSN-14ae's host despite its presence\nin the SDSS spectrum. The different ionization radiation levels detected at\nvarious radii from TDE host nuclei may indicate echoes of earlier accretion\nepisodes, including, potentially, a prior TDE. We posit that a minor merger\ndriving gas inflow to the nucleus could drive the enhanced TDE rates in\npost-starburst galaxies, inducing variation in nuclear gas properties and star\nformation history on $<$150 pc scales in TDE hosts.\n",
+      "author": [
+        {
+          "name": "Megan Newsome"
+        },
+        {
+          "name": "Iair Arcavi"
+        },
+        {
+          "name": "K. Decker French"
+        },
+        {
+          "name": "Curtis McCully"
+        },
+        {
+          "name": "Ann Zabludoff"
+        },
+        {
+          "name": "Nicholas Stone"
+        },
+        {
+          "name": "Sjoert van Velzen"
+        },
+        {
+          "name": "Tinggui Wang"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/1538-4357/ae1502",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/1538-4357/ae1502",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.18985v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.18985v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "15 pages, 6 figures. Accepted to ApJ",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2510.18343v1",
       "updated": "2025-10-21T06:55:02Z",
