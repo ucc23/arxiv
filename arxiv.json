@@ -1,6 +1,82 @@
 {
-  "fetched_at": "2025-10-24T01:50:51.212Z",
+  "fetched_at": "2025-10-24T06:36:03.217Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.19910v1",
+      "updated": "2025-10-22T18:00:01Z",
+      "published": "2025-10-22T18:00:01Z",
+      "title": "Limits on Stellar Flybys in the Solar Birth Cluster",
+      "summary": "  The orbits of small bodies in the outer solar system are particularly\nsensitive to gravitational perturbations, including stellar flybys. Stellar\nclusters, with low velocity dispersions and high number densities, can be the\nsource of strong and frequent flybys. As a result, we can infer what properties\nof the solar birth environment would be incompatible with the structure of the\nouter solar system observed today. Here, we explore with $n-$body simulations\nthe implications of the low inclinations ($i < 20^{\\circ}$) of the distant\nsednoids (objects with perihelia $q > 40 \\mathrm{\\; AU}$ and semimajor axes $a\n> 400 \\mathrm{\\; AU}$) for the properties of the solar birth cluster. We find\nthat the existence of these orbits, if they were in place in the Sun's birth\ncluster phase, would limit the product of the stellar number density and the\nSun's residence time in the birth cluster to $\\lesssim 5 \\times 10^3 \\mathrm{\\;\nMyr \\; pc^{-3}}$, as compared to the weaker limit $\\lesssim 5 \\times 10^4\n\\mathrm{\\; Myr \\; pc^{-3}}$ implied by the low inclinations of the cold\nclassical Kuiper belt.\n",
+      "author": [
+        {
+          "name": "Amir Siraj"
+        },
+        {
+          "name": "Christopher F. Chyba"
+        },
+        {
+          "name": "Scott Tremaine"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/2041-8213/ae1025",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/2041-8213/ae1025",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.19910v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.19910v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "6 pages, 3 figures; accepted for publication in ApJL",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2510.18985v1",
       "updated": "2025-10-21T18:07:38Z",
