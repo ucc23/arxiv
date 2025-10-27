@@ -1,6 +1,78 @@
 {
-  "fetched_at": "2025-10-27T06:40:22.049Z",
+  "fetched_at": "2025-10-27T12:54:16.104Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.21709v1",
+      "updated": "2025-10-24T17:59:58Z",
+      "published": "2025-10-24T17:59:58Z",
+      "title": "From nuclear star clusters to Little Red Dots: black hole growth,\n  mergers, and tidal disruptions",
+      "summary": "  Little Red Dots, discovered by the James Webb Space Telescope, are\nhypothesized to be active galactic nuclei containing a supermassive black hole,\npossibly surrounded by a dense stellar cluster, large amounts of gas, and\nlikely by a population of stellar-mass black holes. We develop a simple nuclear\nstar cluster model to evolve the rapid mass growth of black hole seeds into the\nsupermassive regime. The combined processes of tidal disruption events, black\nhole captures, and gas accretion are accounted for self-consistently in our\nmodel. Given the observed number density of Little Red Dots, and under\nreasonable assumptions, we predict at least a few tens of tidal disruption\nevents and at least a few black hole captures at $z=4$-$6$, with a tidal\ndisruption event rate an order of magnitude larger than the black hole capture\nrate. We also estimate the uncertainties in these estimates. Finally, we\ncomment on the low x-ray luminosity of Little Red Dots.\n",
+      "author": [
+        {
+          "name": "Konstantinos Kritos"
+        },
+        {
+          "name": "Joseph Silk"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 5 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.21709v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.21709v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.CO",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 4.5
+    },
     {
       "id": "http://arxiv.org/abs/2510.19910v1",
       "updated": "2025-10-22T18:00:01Z",
