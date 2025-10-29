@@ -1,6 +1,53 @@
 {
-  "fetched_at": "2025-10-29T06:38:42.189Z",
+  "fetched_at": "2025-10-29T12:54:55.134Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.24355v1",
+      "updated": "2025-10-28T12:19:43Z",
+      "published": "2025-10-28T12:19:43Z",
+      "title": "A possible trigger of the multiple population phenomenon in star\n  clusters",
+      "summary": "  Multiple populations (MPs) is a intra-star cluster phenomenon consisting in\nstar-to-star variation of the abundance of some light chemical elements. They\nhave been observed in many star clusters, most of them old globular clusters,\npopulating the Milky Way and other satellite galaxies. Since the study of MPs\nbecame more systematic, different astrophysical parameters have been claimed to\nbe the main responsible for its occurrence. However, at the present time, no\nattempt would seem to have solved this conundrum. This work deals with a\npotential trigger of the MPs phenomenon, based on the gathered observational\nevidence of the existence of MPs in some star clusters and the absence of its\nin others. We found that star clusters with MPs mostly formed during time\nintervals of intense star formation activity in a galaxy, for instance during\nthe galaxy formation epoch, a close galaxy encounter, etc. At those time\nintervals where relative peaks in the galaxy star formation rate occur, star\nclusters with masses above a lower mass limit harbour MPs. This lower star\ncluster mass limit would marginally depend on the star cluster age.\n",
+      "author": {
+        "name": "Andrés E. Piatti"
+      },
+      "arxiv:comment": {
+        "_": "7 pages, 2 figures. Accepted for publication in MNRAS Letters",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.24355v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.24355v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 7
+    },
     {
       "id": "http://arxiv.org/abs/2510.23548v1",
       "updated": "2025-10-27T17:24:58Z",
@@ -248,6 +295,67 @@
         }
       },
       "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2510.23653v1",
+      "updated": "2025-10-25T16:49:32Z",
+      "published": "2025-10-25T16:49:32Z",
+      "title": "Implications for the formation of Oort cloud-like structures and\n  interstellar comets in dense environments",
+      "summary": "  Most stars form in dense stellar environments, where frequent close\nencounters can strongly perturb and reshape the early architecture of planetary\nsystems. The solar system, with its rich population of distant comets, provides\na natural laboratory to study these processes. We perform detailed numerical\nsimulations using the LonelyPlanets framework that combines NBODY6++GPU and\nREBOUND, to explore the evolution of debris disks around solar system analogues\nembedded in stellar clusters. Two initial configurations are considered, an\n$Extended$ and a $Compact$ model, each containing four giant planets and either\nan extended or compact debris disk. We find that compact disks primarily form\nKuiper belt and scattered disk-like populations through planet-disk\ninteractions, while extended disks are more strongly shaped by stellar\nencounters, producing Oort cloud-like structures and interstellar comets with\nejection velocities of 1-3 km/s. Stellar perturbations are most effective for\nencounter inclinations between $0^{\\circ}$ and $30^{\\circ}$, giving rise to\ndistinct dynamical populations, like Sednoids, and inner Oort cloud analogues,\nand a characteristic tail in semi-major axis-eccentricity space. In coplanar\nencounters, the disk remains largely flattened, whereas polar flybys\nredistribute angular momentum vertically, producing nearly isotropic outer\npopulations that resemble an emerging Oort cloud. Our results suggest that\ncometary reservoirs and interstellar objects are natural byproducts of\nplanet-disk interactions and stellar flybys in dense clusters, linking the\narchitecture of outer planetary systems to their birth environments.\n",
+      "author": {
+        "name": "Santiago Torres"
+      },
+      "arxiv:comment": {
+        "_": "19 pages, 15 figures. Under review at A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.23653v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.23653v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.EP",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 0.5
     },
     {
       "id": "http://arxiv.org/abs/2510.21921v1",
