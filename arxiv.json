@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-01T18:31:08.642Z",
+  "fetched_at": "2025-11-02T02:04:35.855Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2510.26341v1",
@@ -582,67 +582,6 @@
         }
       },
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2510.23653v1",
-      "updated": "2025-10-25T16:49:32Z",
-      "published": "2025-10-25T16:49:32Z",
-      "title": "Implications for the formation of Oort cloud-like structures and\n  interstellar comets in dense environments",
-      "summary": "  Most stars form in dense stellar environments, where frequent close\nencounters can strongly perturb and reshape the early architecture of planetary\nsystems. The solar system, with its rich population of distant comets, provides\na natural laboratory to study these processes. We perform detailed numerical\nsimulations using the LonelyPlanets framework that combines NBODY6++GPU and\nREBOUND, to explore the evolution of debris disks around solar system analogues\nembedded in stellar clusters. Two initial configurations are considered, an\n$Extended$ and a $Compact$ model, each containing four giant planets and either\nan extended or compact debris disk. We find that compact disks primarily form\nKuiper belt and scattered disk-like populations through planet-disk\ninteractions, while extended disks are more strongly shaped by stellar\nencounters, producing Oort cloud-like structures and interstellar comets with\nejection velocities of 1-3 km/s. Stellar perturbations are most effective for\nencounter inclinations between $0^{\\circ}$ and $30^{\\circ}$, giving rise to\ndistinct dynamical populations, like Sednoids, and inner Oort cloud analogues,\nand a characteristic tail in semi-major axis-eccentricity space. In coplanar\nencounters, the disk remains largely flattened, whereas polar flybys\nredistribute angular momentum vertically, producing nearly isotropic outer\npopulations that resemble an emerging Oort cloud. Our results suggest that\ncometary reservoirs and interstellar objects are natural byproducts of\nplanet-disk interactions and stellar flybys in dense clusters, linking the\narchitecture of outer planetary systems to their birth environments.\n",
-      "author": {
-        "name": "Santiago Torres"
-      },
-      "arxiv:comment": {
-        "_": "19 pages, 15 figures. Under review at A&A",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2510.23653v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2510.23653v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.EP",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.EP",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 0.5
     }
   ]
 }
