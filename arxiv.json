@@ -1,6 +1,58 @@
 {
-  "fetched_at": "2025-11-03T02:04:01.895Z",
+  "fetched_at": "2025-11-03T06:39:16.129Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2510.26952v1",
+      "updated": "2025-10-30T19:24:21Z",
+      "published": "2025-10-30T19:24:21Z",
+      "title": "Identifying substructure associations in the Milky Way halo using\n  chemo-kinematic tagging",
+      "summary": "  The Milky Way halo has been built-up over cosmic time through the accretion\nand dissolution of star clusters and dwarf galaxies as well as through their\ncomplex interactions with the Galactic disc. Traces of these accreted\nstructures persist to the present day in the chemical and kinematic properties\nof stars and their orbits and allow for the disentangling of the accretion\nhistory of the Galaxy through observations of Milky Way stars.\n  We utilised 6D phase-space information in combination with [Fe/H]\nmeasurements to facilitate a clustering analysis of stars using their\nkinematics and chemistry simultaneously, a technique known as chemo-kinematic\ntagging. Using t-distributed stochastic neighbour embedding (t-SNE), we\nperformed dimensionality reduction and identify stars from clusters and streams\nthat are co-localised in the kinematic and chemical parameter space. We\nincluded E, Jr, Jz, Lz, r_apo, r_peri, and eccentricity as well as [Fe/H] as\ninput into the algorithm, and used a sample of 5347 stars from 229 individual\nMilky Way substructures compiled from various sources in the literature.\n  Most notably, we recovered several large-scale structures that have been\nreported in the literature, including GSE, Thamnos, Sequoia, I'itoi,\nLMS-1/Wukong, Sagittarius, Kraken/Koala, the splashed disc, and a candidate\nstructure recently found in another work. We find that 44\\% of Milky Way\nglobular clusters are consistent with having an accreted origin. We also find\nthat the chemo-dynamic properties of omega cen are consistent with a common\naccretion with the Thamnos structure. In addition, we identified many\nstream-progenitor associations, most notably a connection between the\nOrphan-Chenab stream and the Grus II ultra-faint dwarf galaxy, which supports\nprevious findings that these two objects were brought into the Galaxy in the\nsame accretion event.\n",
+      "author": [
+        {
+          "name": "Kris Youakim"
+        },
+        {
+          "name": "Karin Lind"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "24 pages, 7 figures, 4 tables, accepted for publication in A&A",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2510.26952v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2510.26952v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2510.26341v1",
       "updated": "2025-10-30T10:48:24Z",
