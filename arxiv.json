@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-04T18:36:33.822Z",
+  "fetched_at": "2025-11-05T02:00:20.016Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2510.26952v1",
@@ -339,53 +339,6 @@
         }
       },
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2510.24355v1",
-      "updated": "2025-10-28T12:19:43Z",
-      "published": "2025-10-28T12:19:43Z",
-      "title": "A possible trigger of the multiple population phenomenon in star\n  clusters",
-      "summary": "  Multiple populations (MPs) is a intra-star cluster phenomenon consisting in\nstar-to-star variation of the abundance of some light chemical elements. They\nhave been observed in many star clusters, most of them old globular clusters,\npopulating the Milky Way and other satellite galaxies. Since the study of MPs\nbecame more systematic, different astrophysical parameters have been claimed to\nbe the main responsible for its occurrence. However, at the present time, no\nattempt would seem to have solved this conundrum. This work deals with a\npotential trigger of the MPs phenomenon, based on the gathered observational\nevidence of the existence of MPs in some star clusters and the absence of its\nin others. We found that star clusters with MPs mostly formed during time\nintervals of intense star formation activity in a galaxy, for instance during\nthe galaxy formation epoch, a close galaxy encounter, etc. At those time\nintervals where relative peaks in the galaxy star formation rate occur, star\nclusters with masses above a lower mass limit harbour MPs. This lower star\ncluster mass limit would marginally depend on the star cluster age.\n",
-      "author": {
-        "name": "Andrés E. Piatti"
-      },
-      "arxiv:comment": {
-        "_": "7 pages, 2 figures. Accepted for publication in MNRAS Letters",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2510.24355v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2510.24355v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 7
     }
   ]
 }
