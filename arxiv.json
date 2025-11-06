@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-05T18:36:28.911Z",
+  "fetched_at": "2025-11-06T02:00:36.954Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2511.01811v1",
@@ -382,80 +382,6 @@
       ],
       "arxiv:comment": {
         "_": "18 pages, 13 figures",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2510.25570v1",
-      "updated": "2025-10-29T14:39:43Z",
-      "published": "2025-10-29T14:39:43Z",
-      "title": "Place of the Radcliffe Wave in the Local System",
-      "summary": "  A review of publications devoted to the study of the characteristics of the\nRadcliffe wave has been given. The advent of mass measurements of radial\nvelocities of stars has recently led to a number of interesting results\nobtained from the analysis of spatial velocities of stars and open star\nclusters. An important place in the study has been given to issues related to\nthe clarification of the direct or indirect influence of magnetic fields on the\nprocess of formation of the Radcliffe wave. The hypothesis of Parker\ninstability of the galactic magnetic field as one of the reasons for the\nformation of wave-type inhomogeneities in the galactic disk has been discussed.\n",
-      "author": [
-        {
-          "name": "Vadim V. Bobylev"
-        },
-        {
-          "name": "Nazar R. Ikhsanov"
-        },
-        {
-          "name": "Anisa T. Bajkova"
-        }
-      ],
-      "arxiv:doi": {
-        "_": "110.1134/S1063772925702063",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "title": "doi",
-            "href": "http://dx.doi.org/110.1134/S1063772925702063",
-            "rel": "related"
-          }
-        },
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2510.25570v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2510.25570v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:comment": {
-        "_": "18 page, 6 figures",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "arxiv:journal_ref": {
-        "_": "Astronomy Reports, 2025, Vol. 69, No. 9, pp. 786-797",
         "$": {
           "xmlns:arxiv": "http://arxiv.org/schemas/atom"
         }
