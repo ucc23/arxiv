@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-07T18:35:10.999Z",
+  "fetched_at": "2025-11-08T01:52:50.203Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2511.01811v1",
@@ -69,72 +69,6 @@
         }
       ],
       "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.00200v1",
-      "updated": "2025-10-31T19:00:07Z",
-      "published": "2025-10-31T19:00:07Z",
-      "title": "Seeds to success: growing heavy black holes in dense star clusters",
-      "summary": "  The observational dearth of black holes (BHs) with masses between $\\sim$100\nand 100,000 $M_\\odot$ raises questions about the nature of intermediate-mass\nblack holes (IMBHs). Proposed formation channels for IMBHs include runaway\nstellar collisions and repeated binary BH (BBH) mergers driven by dynamical\ninteractions in stellar clusters, but the formation efficiency of these\nprocesses and the associated IMBH occupation fraction are largely\nunconstrained. In this work, we study IMBH formation via both mechanisms in\nyoung, globular, and nuclear star clusters. We carry out a comprehensive\ninvestigation of IMBH formation efficiency by exploring the impact of different\nseeding models and star cluster formation histories. We employ a new version of\nthe B-POP population synthesis code, able to model several seeding mechanisms\nas well as hierarchical BBH mergers. We quantify the efficiency of IMBH\nproduction across different cluster families, and estimate the fraction of BBH\nmergers involving an IMBH primary. Comparison with low-redshift IMBH candidates\nsuggests that, depending on the seeding mechanism, stellar collisions can play\na pivotal role in explaining potential IMBHs in local globular clusters. Our\nsimulations highlight stellar collisions as the primary IMBH formation channel\nacross a wide range of cluster types. They further suggest that wandering IMBHs\nmay populate Milky Way-like galaxies and that correlations between cluster and\nIMBH masses can help distinguish the origins of Galactic globular clusters.\n",
-      "author": [
-        {
-          "name": "Lavinia Paiella"
-        },
-        {
-          "name": "Manuel Arca Sedda"
-        },
-        {
-          "name": "Benedetta Mestichelli"
-        },
-        {
-          "name": "Cristiano Ugolini"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "16 pages, 5 figures, 6 tables",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2511.00200v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2511.00200v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 5.5
     }
   ]
 }
