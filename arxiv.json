@@ -1,6 +1,87 @@
 {
-  "fetched_at": "2025-11-10T02:04:53.506Z",
+  "fetched_at": "2025-11-10T06:39:29.056Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2511.05115v1",
+      "updated": "2025-11-07T09:58:41Z",
+      "published": "2025-11-07T09:58:41Z",
+      "title": "Stellar Population Astrophysics (SPA) with the TNG 23 IR elemental\n  abundances of 114 giant stars in 41 Open Clusters",
+      "summary": "  Open clusters have been extensively used as tracers of Galactic chemical\nevolution, as their constituent stars possess shared characteristics, including\nage, Galactocentric radius, metallicity, and chemical composition. By examining\nthe trends of elemental abundances with metallicity, age, and Galactocentric\nradius, valuable insights can be gained into the distribution and\nnucleosynthetic origins of chemical elements across the Galactic disc. The\ninfrared domain in particular facilitates the observation of some elemental\nabundances that can be challenging or impossible to discern in the optical, for\nexample K and F. The objective of this study is to derive the stellar\nparameters and elemental abundances of up to 23 elements in 114 stars spanning\n41 open clusters using high-resolution infrared spectroscopy. In addition, the\npresent study aims to examine the chemical evolution of the Galactic disc. This\nis achieved by investigating radial abundance gradients, variations in\nabundance between clusters, and the dependence of chemical abundances on\ncluster age.\n",
+      "author": [
+        {
+          "name": "Shilpa Bijavara Seshashayana"
+        },
+        {
+          "name": "Henrik Jönsson"
+        },
+        {
+          "name": "Valentina D'Orazi"
+        },
+        {
+          "name": "Angela Bragaglia"
+        },
+        {
+          "name": "Mingjie Jian"
+        },
+        {
+          "name": "Gloria Andreuzzi"
+        },
+        {
+          "name": "Marina Dal Ponte"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "30 pages, 7 figures",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "A&A 2025",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2511.05115v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2511.05115v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 7.5
+    },
     {
       "id": "http://arxiv.org/abs/2511.01811v1",
       "updated": "2025-11-03T18:18:30Z",
