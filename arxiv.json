@@ -1,6 +1,475 @@
 {
-  "fetched_at": "2025-11-11T02:01:11.249Z",
+  "fetched_at": "2025-11-11T06:38:27.644Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2511.06927v1",
+      "updated": "2025-11-10T10:19:35Z",
+      "published": "2025-11-10T10:19:35Z",
+      "title": "Mock Observations for the CSST Mission: Integral Field\n  Spectrograph--GEHONG: A Package for Generating Ideal Datacubes",
+      "summary": "  We developed a Python package GEHONG to mock the three-dimensional spectral\ndata cube under the observation of an ideal telescope for the Integral Field\nSpectrograph of the Chinese Space Station Telescope (CSST-IFS). This package\ncan generate one-dimensional spectra corresponding to local physical properties\nat specific positions according to a series of two-dimensional distributions of\nphysical parameters of target sources. In this way, it can produce a spatially\nresolved spectral cube of the target source. Two-dimensional distributions of\nphysical parameters, including surface brightness, stellar population, and\nline-of-sight velocity, can be modeled using the parametric model or based on\nreal observational data and numerical simulation data. For the generation of\none-dimensional spectra, we have considered four types of spectra, including\nthe stellar continuum spectra, ionized gas emission lines, AGN spectra, and\nstellar spectra. That makes GEHONG able to mock various types of targets,\nincluding galaxies, AGNs, star clusters, and HII regions.\n",
+      "author": [
+        {
+          "name": "Shuai Feng"
+        },
+        {
+          "name": "Shiyin Shen"
+        },
+        {
+          "name": "Wei Chen"
+        },
+        {
+          "name": "Zhaojun Yan"
+        },
+        {
+          "name": "Renhao Ye"
+        },
+        {
+          "name": "Jianjun Chen"
+        },
+        {
+          "name": "Xuejie Dai"
+        },
+        {
+          "name": "Junqiang Ge"
+        },
+        {
+          "name": "Lei Hao"
+        },
+        {
+          "name": "Ran Li"
+        },
+        {
+          "name": "Yu Liang"
+        },
+        {
+          "name": "Lin Lin"
+        },
+        {
+          "name": "Fengshan Liu"
+        },
+        {
+          "name": "Jiafeng Lu"
+        },
+        {
+          "name": "Zhengyi Shao"
+        },
+        {
+          "name": "Maochun Wu"
+        },
+        {
+          "name": "Yifei Xiong"
+        },
+        {
+          "name": "Chun Xu"
+        },
+        {
+          "name": "Jun Yin"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "19 pages, 5 figures, 3 tables, accepted by RAA",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2511.06927v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2511.06927v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.IM",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.06850v1",
+      "updated": "2025-11-10T08:47:48Z",
+      "published": "2025-11-10T08:47:48Z",
+      "title": "A Census of Pulsars in Possible Association with Galactic Open Clusters",
+      "summary": "  Among the $\\sim 4000$ known pulsars in our Galaxy, $\\lesssim 10\\%$ are found\nin globular clusters, but none has been confirmed in any open clusters yet,\nalthough they outnumber globular clusters by about 20 times. In this work, we\nmake use of the Gaia DR3 catalog of Galactic open clusters and conduct a pulsar\ncensus, in order to identify pulsars that are either 1) current members of open\nclusters, or 2) escaped from open clusters to the field. Among 164 pulsars with\nindependent distance measurements and 3530 open clusters, we find that 4\npulsars are likely residing in open clusters. In particular, we find compelling\nevidence that the binary pulsar J1302$-$6350 (B1259$-$63) is a member of the\nopen cluster UBC~525; based on Gaia data, we update its distance to be $2.26\\pm\n0.07$~kpc and measure the mass of its companion Be star LS 2883 to be $16.8\nM_\\odot$. For 145 pulsars with both distance and proper motion measurements and\n2967 open clusters with full kinematic parameters, we trace the past\ntrajectories of both pulsars and open clusters in the Galactic gravitational\npotential, and find pulsars that were within 3 times the radius of a cluster.\nThis results in 19 pulsars that were likely born in open clusters. We discuss\nimplications for the formation history of PSR J1302$-$6350 and highlight the\nscientific potential of searching for pulsars in open clusters.\n",
+      "author": [
+        {
+          "name": "Lu Zhou"
+        },
+        {
+          "name": "Zhi-Qiang You"
+        },
+        {
+          "name": "Lu Li"
+        },
+        {
+          "name": "Xiao-Jin Liu"
+        },
+        {
+          "name": "Xing-Jiang Zhu"
+        },
+        {
+          "name": "Zong-Hong Zhu"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/2041-8213/ae10b0",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/2041-8213/ae10b0",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2511.06850v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2511.06850v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "17 pages, 8 figures, published in The Astrophysical Journal Letters",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:journal_ref": {
+        "_": "2025 ApJL 993 L16",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.HE",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 21
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.06820v1",
+      "updated": "2025-11-10T08:05:05Z",
+      "published": "2025-11-10T08:05:05Z",
+      "title": "APOGEE Chemical Abundances of Stars in the MW Satellites Fornax,\n  Sextans, Draco and Carina",
+      "summary": "  During its evolution, the Milky Way (MW) incorporated numerous dwarf\ngalaxies, particularly low-mass systems. The surviving dwarf galaxies orbiting\nthe MW serve as exceptional laboratories for studying the unique properties of\nthese systems. Their metal-poor environments and shallow gravitational\npotentials likely drive significant differences in star formation and star\ncluster properties compared to those in the MW. Using high-quality\nnear-infrared spectra from the APOGEE survey, we determined abundances of Fe,\nC, N, O, Mg, Al, Si, Ca, Ti, Cr, Mn, Ni, and Ce for 74 stars in four MW\nsatellite dwarf galaxies: Fornax, Sextans, Draco, and Carina. Our analysis\nreveals that the distribution of $\\alpha$ elements (e.g., [Si/Fe]) strongly\ncorrelates with galaxy luminosity (and hence mass), underscoring the critical\nrole of galaxy mass in shaping chemical evolution. These dwarf galaxies exhibit\n[Al/Fe$]\\sim -0.5$, which is comparable to those of the metal-poor stars in the\nMW. Additionally, we identified nitrogen-rich field stars in the Fornax dwarf\ngalaxy, which display distinct metallicities compared to its known globular\nclusters (GCs). If these stars originated in GCs and subsequently escaped,\ntheir presence suggests we are observing relics of destroyed GCs, offering\npossible evidence of cluster disruption.\n",
+      "author": [
+        {
+          "name": "Cheng Xu"
+        },
+        {
+          "name": "Yi Qiao"
+        },
+        {
+          "name": "Baitian Tang"
+        },
+        {
+          "name": "José G. Fernández-Trincado"
+        },
+        {
+          "name": "Zhiqiang Yan"
+        },
+        {
+          "name": "Doug Geisler"
+        }
+      ],
+      "arxiv:comment": {
+        "_": "A&A submitted around June 2025. First referee report received",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2511.06820v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2511.06820v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.06481v1",
+      "updated": "2025-11-09T18:05:00Z",
+      "published": "2025-11-09T18:05:00Z",
+      "title": "The Calibration of Short Wavelength Polycyclic Aromatic Hydrocarbon\n  Emission as Star Formation Rate Indicators with JWST",
+      "summary": "  We use JWST/NIRCam and MIRI imaging acquired by the Feedback in Emerging\nextrAgalactic Star clusTers (FEAST) program along with archival HST imaging to\nmap ionized gas (Pa$\\alpha$, Br$\\alpha$, and H$\\alpha$) and Polycyclic Aromatic\nHydrocarbon (PAH) emission (3.3 and 7.7 $\\mu$m) across a sample of four nearby\ngalaxies (NGC 5194, 5236, 628, and 4449). These maps are utilized to calibrate\nthe PAH features as star formation rate (SFR) indicators in 40 pc size regions\naround massive emerging young star clusters (eYSCs). We find a tight,\nsub-linear (power-law exponent, $\\alpha{\\,}{\\sim}{\\,}0.8$) relation between the\nPAH luminosities (3.3 and 7.7 $\\mu$m) and SFR (extinction corrected Pa$\\alpha$)\nin near solar metallicity environments. PAH destruction in more intense\nionizing environments and/or variations in the age of our sources may drive the\ndeviation from a linear relation. In the metal-poor environment of NGC 4449\n(${\\sim}$1/3 Z$_{\\odot}$), we see substantial deficits in the PAH feature\nstrengths at fixed SFR and significantly higher scatter in the PAH-SFR\nrelations. We determine that the 3.3/7.7 $\\mu$m PAH luminosity ratio increases\ntowards lower metallicity environments. This is interpreted as a result of a\nshift in the size distribution towards smaller PAHs at lower metallicities,\npossibly due to inhibited grain growth. Focusing on the regions in NGC 4449, we\nobserve a decreasing 3.3/7.7 $\\mu$m ratio towards higher SFR, which could\nindicate that small PAHs are preferentially destroyed relative to larger PAHs\nin significantly sub-solar metallicity conditions. We estimate that ${\\sim}$2/3\nof the PAH emission in typical local star-forming galaxies is excited by older\nstars and unrelated to recent ($<$10 Myr) star formation.\n",
+      "author": [
+        {
+          "name": "Benjamin Gregg"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Alex Pedrini"
+        },
+        {
+          "name": "Sean T. Linden"
+        },
+        {
+          "name": "Varun Bajaj"
+        },
+        {
+          "name": "Jenna E. Ryon"
+        },
+        {
+          "name": "Arjan Bik"
+        },
+        {
+          "name": "Giacomo Bortolini"
+        },
+        {
+          "name": "Matteo Correnti"
+        },
+        {
+          "name": "Bruce T. Draine"
+        },
+        {
+          "name": "Bruce G. Elmegreen"
+        },
+        {
+          "name": "Helena Faustino Vieira"
+        },
+        {
+          "name": "John S. Gallagher"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Kelsey E. Johnson"
+        },
+        {
+          "name": "Thomas S. -Y. Lai"
+        },
+        {
+          "name": "Matteo Messa"
+        },
+        {
+          "name": "Göran Östlin"
+        },
+        {
+          "name": "Linda J. Smith"
+        },
+        {
+          "name": "Monica Tosi"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.3847/1538-4357/ae1ca8",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.3847/1538-4357/ae1ca8",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2511.06481v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2511.06481v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "33 pages, 12 figures, 2 tables",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.06181v1",
+      "updated": "2025-11-09T01:50:04Z",
+      "published": "2025-11-09T01:50:04Z",
+      "title": "NbodyCP:A direct N-body simulation code for composite stellar\n  populations of single and binary star clusters",
+      "summary": "  It is well-known that some star clusters contain composite stellar\npopulations (CSPs), in which the metallicities or (and) ages of stars are\ndifferent. The formation and evolution of such clusters and their stellar\npopulations remain unclear. Both single and binary cluster channels may lead to\nsuch CSPs. In order to simulate the formation and evolution of such CSPs in\nstar clusters, this work develops a code of direct N-body simulation of CSPs,\nNbodyCP. It is applied to different clusters, in particular, to binary\nclusters. It shows that CSPs and different kinds of cluster pairs can be formed\nvia dynamical processes. This will help to partially explain the formation of\nCSPs and various clusters. Some special cluster structures, e.g., two cores or\nbar-like shape, are shown to be the results of evolution of some binary\nclusters. The simulation also shows that the separation between the members of\na binary cluster affects the time of two member clusters to combine or move\naway significantly.\n",
+      "author": [
+        {
+          "name": "Zhongmu Li"
+        },
+        {
+          "name": "Rainer Spurzem"
+        }
+      ],
+      "arxiv:doi": {
+        "_": "10.1088/1674-4527/ae1ae8",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "link": [
+        {
+          "$": {
+            "title": "doi",
+            "href": "http://dx.doi.org/10.1088/1674-4527/ae1ae8",
+            "rel": "related"
+          }
+        },
+        {
+          "$": {
+            "href": "http://arxiv.org/abs/2511.06181v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "title": "pdf",
+            "href": "http://arxiv.org/pdf/2511.06181v1",
+            "rel": "related",
+            "type": "application/pdf"
+          }
+        }
+      ],
+      "arxiv:comment": {
+        "_": "13 pages, will be shown in RAA",
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "arxiv:primary_category": {
+        "$": {
+          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "score": 5
+    },
     {
       "id": "http://arxiv.org/abs/2511.05115v1",
       "updated": "2025-11-07T09:58:41Z",
