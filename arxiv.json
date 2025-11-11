@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-10T18:36:14.114Z",
+  "fetched_at": "2025-11-11T02:01:11.249Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2511.05115v1",
@@ -81,75 +81,6 @@
         }
       ],
       "score": 7.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.01811v1",
-      "updated": "2025-11-03T18:18:30Z",
-      "published": "2025-11-03T18:18:30Z",
-      "title": "Modeling Stellar Collisions in Galactic Nuclei Using Hydrodynamic\n  Simulations and Machine Learning",
-      "summary": "  Nuclear star clusters represent some of the most extreme collisional\nenvironments in the Universe. A typical nuclear star cluster harbors a\nsupermassive black hole at its center, which accelerates stars to high speeds\n($\\gtrsim 100$-$1000$ km/s) in a region where millions of other stars reside.\nDirect collisions occur frequently in such high-density environments, where\nthey can shape the stellar populations and drive the evolution of the cluster.\nWe present a suite of a couple hundred high-resolution smoothed-particle\nhydrodynamics (SPH) simulations of collisions between $1$ M$_\\odot$ stars, at\nimpact speeds representative of galactic nuclei. We use our SPH dataset to\ndevelop physically-motivated fitting formulae for predicting collision\noutcomes. While collision-driven mass loss has been examined in detail in the\nliterature, we present a new framework for understanding the effects of\n\"hit-and-run\" collisions on a star's trajectory. We demonstrate that the change\nin stellar velocity follows the tidal-dissipation limit for grazing encounters,\nwhile the deflection angle is well-approximated by point-particle dynamics for\nperiapses $\\gtrsim0.3$ times the stellar radii. We use our SPH dataset to test\ntwo machine learning (ML) algorithms, k-Nearest Neighbors and neural networks,\nfor predicting collision outcomes and properties. We find that the neural\nnetwork out-performs k-Nearest Neighbors and delivers results on par with and\nin some cases exceeding the accuracy of our fitting formulae. We conclude that\nboth fitting formulae and ML have merits for modeling collisions in dense\nstellar environments, however ML may prove more effective as the parameter\nspace of initial conditions expands.\n",
-      "author": [
-        {
-          "name": "Sanaea C. Rose"
-        },
-        {
-          "name": "James C. Lombardi, Jr."
-        },
-        {
-          "name": "Elena González Prieto"
-        },
-        {
-          "name": "Fulya Kıroğlu"
-        },
-        {
-          "name": "Frederic A. Rasio"
-        }
-      ],
-      "arxiv:comment": {
-        "_": "Submitted to ApJ",
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "link": [
-        {
-          "$": {
-            "href": "http://arxiv.org/abs/2511.01811v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "title": "pdf",
-            "href": "http://arxiv.org/pdf/2511.01811v1",
-            "rel": "related",
-            "type": "application/pdf"
-          }
-        }
-      ],
-      "arxiv:primary_category": {
-        "$": {
-          "xmlns:arxiv": "http://arxiv.org/schemas/atom",
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "score": 2
     }
   ]
 }
