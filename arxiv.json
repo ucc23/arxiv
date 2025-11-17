@@ -1,6 +1,240 @@
 {
-  "fetched_at": "2025-11-16T18:33:00.460Z",
+  "fetched_at": "2025-11-17T02:02:00.156Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2511.11432v1",
+      "title": "Star clusters in the gamma-ray sky",
+      "updated": "2025-11-14T16:01:13Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.11432v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.11432v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Massive Star Clusters (SCs) have been proposed as additional contributors to Galactic Cosmic rays (CRs), to overcome the limitations of supernova remnants (SNRs) to reach the highest energy end of the CR spectrum. Thanks to fast mass losses due to the collective stellar winds, the environment around SCs is potentially suitable for particle acceleration up to PeV energies, and their energetics is enough to account for a non-negligible fraction of the Galactic CRs. Anyhow, the theoretical expectations need to be corroborated by clear observations. Despite the increasing number of detections at different energies, the contamination of other sources often makes it difficult to constrain the contribution arising from stellar winds only, unless one selects objects younger than a few million years, namely before stars start to explode inside clusters. I will review the results obtained with gamma-ray data towards a few massive young star clusters and discuss what implications these result have, especially concerning their contribution to the bulk of Galactic CRs.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-11-14T16:01:13Z",
+      "arxiv:comment": "Plenary highlight talk presented at the 39th International Cosmic Ray Conference 2025",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.HE"
+        }
+      },
+      "arxiv:journal_ref": "PoS(ICRC2025)1390",
+      "author": {
+        "name": "Giada Peron"
+      },
+      "score": 5
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.11314v1",
+      "title": "Radiation magnetohydrodynamics simulations of Population III star formation during the Epoch of Reionization",
+      "updated": "2025-11-14T13:57:11Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.11314v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.11314v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Cosmological simulations find that pockets of star-forming gas could remain pristine up until the Epoch of Reionization (EoR) due to the inhomogeneous nature of metal mixing and enrichment in the early Universe. Such pristine clouds could have formed Population III stars, which could have distinct properties compared to their very high redshift ($z \\geq 20$) counterparts. We investigate how Population III stars form and grow during the EoR, and whether the resulting mass distribution varies with environment or across cosmic time. We perform high-resolution ($7.5\\,\\rm{au}$) radiation-magnetohydrodynamics simulations of identical primordial clouds exposed to the CMB appropriate for $z=30$ and $z=6$, respectively, as part of the POPSICLE project. We also run a simulation at $z=6$ with a strong external Lyman-Werner (LW) background, to span across radiative environments which could host metal-free clumps during the EoR. In the limit of no external LW radiation, we find that while the evolution of the most massive star ($M_{\\star} \\approx 70\\,\\rm{M_{\\odot}}$) is almost identical between $z=30$ and $z=6$, the latter exhibits less fragmentation, leading to a smaller cluster of stars with a higher median stellar mass. In the limit of high external LW radiation, we see vigorous accretion and high star formation efficiencies, leading to the formation of very massive ($M_{\\star} > 100\\,\\rm{M_{\\odot}}$) stars. Our results suggest that Population III IMF could vary with redshift simply due to the CMB, independent of the environment. We find that less massive and more compact Pop III star clusters could form during the EoR as compared to $z \\geq 20$, with the formation of very massive and supermassive stars likely in strongly irradiated environments.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.CO",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-11-14T13:57:11Z",
+      "arxiv:comment": "8 pages, 11 figures, submitted to A&A",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Lisanne van Veenen"
+        },
+        {
+          "name": "Piyush Sharda"
+        },
+        {
+          "name": "Serena Viti"
+        },
+        {
+          "name": "Shyam H. Menon"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.11115v1",
+      "title": "The Spatial Evolution of Star Clusters in NGC 628 with JWST",
+      "updated": "2025-11-14T09:44:14Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.11115v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.11115v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "We examine the spatial distribution of star clusters in NGC 628 using the statistical tool INDICATE to quantify clustering tendencies. Our sample, based on HST and JWST observations, is the most complete to date, spanning ages from 1 Myr to >100 Myr. We find cluster spatial behaviour varies with galactic position, age, and mass. Most emerging young clusters are tightly spatially associated with each other, while fully emerged clusters are in \\sim1.5 times looser spatial associations, irrespective of age. Young Massive Clusters (YMCs \\ge 10^4 M_{\\odot}) tend to associate with lower-mass clusters but not strongly with other YMCs, implying that intense star formation regions produce a few YMCs alongside many lower-mass clusters rather than multiple YMCs together. Young concentrated clusters show a wide radial distribution in the galactic disk, which narrows with age; with concentrated clusters >100 Myr mostly residing between 2-6 kpc. This pattern may reflect either faster dispersal of isolated tight cluster spatial \"structure\" in a lower gas density outer disk or gradual inside-out growth, with the formation of this structure shifting outward over time. We also detect distinct spatial behaviours for clusters within 2 kpc, linked to the inner Lindblad resonance (\\le1 kpc), nuclear ring (\\sim0.5-1 kpc), and the start of spiral arms (\\sim1.25-2 kpc), suggesting these regions exhibit strong radial motions that could hinder clusters from forming and remaining in tight concentrations. Our results highlight how spatially-resolved studies of clusters can reveal the influence of galactic dynamics on star formation and cluster evolution.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-14T09:44:14Z",
+      "arxiv:comment": "17 pages, 13 figures, 4 tables, accepted for publication in MNRAS",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Anne S. M. Buckner"
+        },
+        {
+          "name": "Ana Duarte-Cabral"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Sean Linden"
+        },
+        {
+          "name": "Michele Cignoni"
+        },
+        {
+          "name": "Varun Bajaj"
+        },
+        {
+          "name": "Arjan Bik"
+        },
+        {
+          "name": "Giacomo Bortolini"
+        },
+        {
+          "name": "Daniela Calzetti"
+        },
+        {
+          "name": "Matteo Correnti"
+        },
+        {
+          "name": "Bruce G. Elmegreen"
+        },
+        {
+          "name": "Debra M. Elmegreen"
+        },
+        {
+          "name": "Helena Faustino Vieira"
+        },
+        {
+          "name": "John S. Gallagher"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Benjamin Gregg"
+        },
+        {
+          "name": "Rob A. Gutermuth"
+        },
+        {
+          "name": "Kelsey Johnson"
+        },
+        {
+          "name": "Mark Krumholz Drew Lapeer"
+        },
+        {
+          "name": "Matteo M. Messa"
+        },
+        {
+          "name": "Göran Östlin"
+        },
+        {
+          "name": "Alex Pedrini"
+        },
+        {
+          "name": "Jenna E. Ryon"
+        },
+        {
+          "name": "Linda J. Smith"
+        },
+        {
+          "name": "Monica Tosi"
+        }
+      ],
+      "score": 4
+    },
     {
       "id": "http://arxiv.org/abs/2511.10486v1",
       "title": "Revealing the Connection Between the Filamentary Hierarchy and Star Cluster Formation in a Simulated NGC 628 Galaxy",
@@ -916,177 +1150,6 @@
         }
       ],
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.06481v1",
-      "title": "The Calibration of Short Wavelength Polycyclic Aromatic Hydrocarbon Emission as Star Formation Rate Indicators with JWST",
-      "updated": "2025-11-09T18:05:00Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2511.06481v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2511.06481v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        },
-        {
-          "$": {
-            "rel": "related",
-            "href": "https://doi.org/10.3847/1538-4357/ae1ca8",
-            "title": "doi"
-          }
-        }
-      ],
-      "summary": "We use JWST/NIRCam and MIRI imaging acquired by the Feedback in Emerging extrAgalactic Star clusTers (FEAST) program along with archival HST imaging to map ionized gas (Pa$α$, Br$α$, and H$α$) and Polycyclic Aromatic Hydrocarbon (PAH) emission (3.3 and 7.7 $μ$m) across a sample of four nearby galaxies (NGC 5194, 5236, 628, and 4449). These maps are utilized to calibrate the PAH features as star formation rate (SFR) indicators in 40 pc size regions around massive emerging young star clusters (eYSCs). We find a tight, sub-linear (power-law exponent, $α{\\,}{\\sim}{\\,}0.8$) relation between the PAH luminosities (3.3 and 7.7 $μ$m) and SFR (extinction corrected Pa$α$) in near solar metallicity environments. PAH destruction in more intense ionizing environments and/or variations in the age of our sources may drive the deviation from a linear relation. In the metal-poor environment of NGC 4449 (${\\sim}$1/3 Z$_{\\odot}$), we see substantial deficits in the PAH feature strengths at fixed SFR and significantly higher scatter in the PAH-SFR relations. We determine that the 3.3/7.7 $μ$m PAH luminosity ratio increases towards lower metallicity environments. This is interpreted as a result of a shift in the size distribution towards smaller PAHs at lower metallicities, possibly due to inhibited grain growth. Focusing on the regions in NGC 4449, we observe a decreasing 3.3/7.7 $μ$m ratio towards higher SFR, which could indicate that small PAHs are preferentially destroyed relative to larger PAHs in significantly sub-solar metallicity conditions. We estimate that ${\\sim}$2/3 of the PAH emission in typical local star-forming galaxies is excited by older stars and unrelated to recent ($<$10 Myr) star formation.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-11-09T18:05:00Z",
-      "arxiv:comment": "33 pages, 12 figures, 2 tables",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Benjamin Gregg"
-        },
-        {
-          "name": "Daniela Calzetti"
-        },
-        {
-          "name": "Angela Adamo"
-        },
-        {
-          "name": "Alex Pedrini"
-        },
-        {
-          "name": "Sean T. Linden"
-        },
-        {
-          "name": "Varun Bajaj"
-        },
-        {
-          "name": "Jenna E. Ryon"
-        },
-        {
-          "name": "Arjan Bik"
-        },
-        {
-          "name": "Giacomo Bortolini"
-        },
-        {
-          "name": "Matteo Correnti"
-        },
-        {
-          "name": "Bruce T. Draine"
-        },
-        {
-          "name": "Bruce G. Elmegreen"
-        },
-        {
-          "name": "Helena Faustino Vieira"
-        },
-        {
-          "name": "John S. Gallagher"
-        },
-        {
-          "name": "Kathryn Grasha"
-        },
-        {
-          "name": "Kelsey E. Johnson"
-        },
-        {
-          "name": "Thomas S. -Y. Lai"
-        },
-        {
-          "name": "Matteo Messa"
-        },
-        {
-          "name": "Göran Östlin"
-        },
-        {
-          "name": "Linda J. Smith"
-        },
-        {
-          "name": "Monica Tosi"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae1ca8",
-      "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.06181v1",
-      "title": "NbodyCP:A direct N-body simulation code for composite stellar populations of single and binary star clusters",
-      "updated": "2025-11-09T01:50:04Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2511.06181v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2511.06181v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        },
-        {
-          "$": {
-            "rel": "related",
-            "href": "https://doi.org/10.1088/1674-4527/ae1ae8",
-            "title": "doi"
-          }
-        }
-      ],
-      "summary": "It is well-known that some star clusters contain composite stellar populations (CSPs), in which the metallicities or (and) ages of stars are different. The formation and evolution of such clusters and their stellar populations remain unclear. Both single and binary cluster channels may lead to such CSPs. In order to simulate the formation and evolution of such CSPs in star clusters, this work develops a code of direct N-body simulation of CSPs, NbodyCP. It is applied to different clusters, in particular, to binary clusters. It shows that CSPs and different kinds of cluster pairs can be formed via dynamical processes. This will help to partially explain the formation of CSPs and various clusters. Some special cluster structures, e.g., two cores or bar-like shape, are shown to be the results of evolution of some binary clusters. The simulation also shows that the separation between the members of a binary cluster affects the time of two member clusters to combine or move away significantly.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.IM",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-11-09T01:50:04Z",
-      "arxiv:comment": "13 pages, will be shown in RAA",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Zhongmu Li"
-        },
-        {
-          "name": "Rainer Spurzem"
-        }
-      ],
-      "arxiv:doi": "10.1088/1674-4527/ae1ae8",
-      "score": 5
     }
   ]
 }
