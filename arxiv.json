@@ -1,6 +1,54 @@
 {
-  "fetched_at": "2025-11-18T02:00:24.308Z",
+  "fetched_at": "2025-11-18T06:37:31.673Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2511.13585v1",
+      "title": "High Resolution Observations of CO(3-2) in Haro 2: Cool Molecular Outflows of a Ly$α$ Emitter",
+      "updated": "2025-11-17T16:47:14Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.13585v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.13585v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Haro 2 is a blue compact dwarf galaxy and the closest (at 21Mpc) known $Lyα$ emitter. UV and optical observations have found Haro 2 to be immersed in shells of partly ionized gas expanding at $\\sim200$km/s. Observations of CO(2-1) (Becket et al 2020; Paper 1) with moderate ($2^{\\prime\\prime}$) resolution discovered a large-scale one-sided outflow associated with a soft X-ray bubble and apparently driven by the young star clusters created in the recent starburst. We present here SMA observations of CO(3-2) with $1.1^{\\prime\\prime}$ resolution in Haro 2. The opposite-side component of the large molecular outflow is detected lying in the direction of the fast ionized outflow; it is very confined in area. An additional outflow is apparent in the CO(3-2); it is south-east of the galaxy in a region holding weak star formation and a moderate-luminosity hard X-ray source. All the molecular outflow and filament velocities are within $\\lesssim\\pm50$km/s of the systemic velocity of the galaxy.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-17T16:47:14Z",
+      "arxiv:comment": "Revised version submitted to AJ",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Sara Beck"
+        },
+        {
+          "name": "Pei-Ying Hsieh"
+        },
+        {
+          "name": "Jean Turner"
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2511.12496v1",
       "title": "Unraveling eMSTO in NGC 2355: Stellar Rotation and Binaries",
@@ -56,6 +104,239 @@
         }
       ],
       "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.11920v1",
+      "title": "PAH Marks the Spot: Digging for Buried Clusters in Nearby Star-forming Galaxies",
+      "updated": "2025-11-14T23:03:29Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.11920v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.11920v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        },
+        {
+          "$": {
+            "rel": "related",
+            "href": "https://doi.org/10.3847/1538-3881/ae10ad",
+            "title": "doi"
+          }
+        }
+      ],
+      "summary": "The joint capabilities of the Hubble Space Telescope (HST) and JWST allow for an unparalleled look at the early lives of star clusters at near- and mid-infrared wavelengths. We present here a multiband analysis of embedded young stellar clusters in 11 nearby, star-forming galaxies, using the PHANGS-JWST and PHANGS-HST datasets. We use the Zooniverse citizen science platform to conduct an initial by-eye search for embedded clusters in near-UV/optical/near-infrared images that trace stellar continuum emission, the Paschen$α$ and H$α$ recombination lines, and the 3.3 $μ$m polycyclic aromatic hydrocarbon feature and its underlying continuum. With this approach, we identify 292 embedded cluster candidates for which we characterize their ages, masses, and levels of line-of-sight extinction by comparing the photometric data to predictions from stellar population models. The embedded cluster candidates have a median age of 4.5 Myr and an average line-of-sight extinction $\\left< A_V \\right> = 6.0$ mag. We determine lower limits on source stellar masses, resulting in a median stellar mass of $10^3$ $M_{\\odot}$. We use this sample of embedded cluster candidates to train multiple convolutional neural network models to carry out deep transfer learning-based searches for embedded clusters. With the aim of optimizing models for future catalog production, we compare results for four variations of training data using two neural networks. Confusion matrices for all eight model configurations, as well as inter-model identification trends, are presented. With refinement of the training sample, we determine that optimized models could serve as a pathway for future embedded cluster identification beyond our 11 galaxy sample.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-14T23:03:29Z",
+      "arxiv:comment": "27 pages, 14 figures. To be published in The Astronomical Journal",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Gabrielle B. Graham"
+        },
+        {
+          "name": "Daniel A. Dale"
+        },
+        {
+          "name": "Chase L. Smith"
+        },
+        {
+          "name": "Elisabeth Brann"
+        },
+        {
+          "name": "Kaycee D. Conder"
+        },
+        {
+          "name": "Samuel Crowe"
+        },
+        {
+          "name": "Sumitra Dhileepkumar"
+        },
+        {
+          "name": "Nicole A. Imming"
+        },
+        {
+          "name": "Emilio Mendez"
+        },
+        {
+          "name": "Zachary Pleska"
+        },
+        {
+          "name": "Kelsey Sako"
+        },
+        {
+          "name": "Amirnezam Amiri"
+        },
+        {
+          "name": "Ashley T. Barnes"
+        },
+        {
+          "name": "Médéric Boquien"
+        },
+        {
+          "name": "Rupali Chandar"
+        },
+        {
+          "name": "Ryan Chown"
+        },
+        {
+          "name": "Oleg Y. Gnedin"
+        },
+        {
+          "name": "Kathryn Grasha"
+        },
+        {
+          "name": "Stephen Hannon"
+        },
+        {
+          "name": "Hamid Hassani"
+        },
+        {
+          "name": "Rémy Indebetouw"
+        },
+        {
+          "name": "Hwihyun Kim"
+        },
+        {
+          "name": "Jaeyeon Kim"
+        },
+        {
+          "name": "Hannah Koziol"
+        },
+        {
+          "name": "Kirsten L. Larson"
+        },
+        {
+          "name": "Janice C. Lee"
+        },
+        {
+          "name": "Adam K. Leroy"
+        },
+        {
+          "name": "Elias K. Oakes"
+        },
+        {
+          "name": "M. Jimena Rodríguez"
+        },
+        {
+          "name": "Erik Rosolowsky"
+        },
+        {
+          "name": "Karin Sandstrom"
+        },
+        {
+          "name": "Eva Schinnerer"
+        },
+        {
+          "name": "Jessica Sutter"
+        },
+        {
+          "name": "David A. Thilker"
+        },
+        {
+          "name": "Leonardo Ubeda"
+        },
+        {
+          "name": "Bradley C. Whitmore"
+        },
+        {
+          "name": "Tony D. Weinbeck"
+        },
+        {
+          "name": "Thomas G. Williams"
+        },
+        {
+          "name": "Aida Wofford"
+        },
+        {
+          "name": "J. Eduardo Méndez-Delgado"
+        },
+        {
+          "name": "Qiushi Chris Tian"
+        },
+        {
+          "name": "the PHANGS Collaboration"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-3881/ae10ad",
+      "score": 1.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.11804v1",
+      "title": "Not all cores are equal: Phase-space origins of dynamical friction, stalling and buoyancy",
+      "updated": "2025-11-14T19:00:03Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.11804v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.11804v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Dynamical friction governs the orbital decay of massive perturbers within galaxies and dark matter halos, yet its standard Chandrasekhar formulation fails in systems with cores of (roughly) constant density, where inspiral can halt or even reverse, phenomena known respectively as core stalling and dynamical buoyancy. Although these effects have been observed in simulations, the conditions under which they arise remain unclear. Using high-resolution N-body simulations and analytic insights from kinetic theory, we systematically explore the physical origin of these effects. We demonstrate that the overall distribution function (DF) of the host, not just its central density gradient, determines the efficiency and direction of dynamical friction. Core stalling arises when the perturber encounters a plateau in the DF, either pre-existing or dynamically created through its own inspiral, while buoyancy emerges in systems whose DFs possess an inflection that drives an unstable dipole mode. We show that double power-law density profiles with rapid outer-to-inner slope transitions naturally produce such DF features, which is why structurally similar cores can yield radically different dynamical outcomes. Our results provide a unified framework linking the phase-space structure of galaxies to the fate of embedded massive objects, with direct implications for off-center AGN, the dynamics of nuclear star clusters, and the stalled coalescence of black holes in dwarf galaxies and massive ellipticals.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-14T19:00:03Z",
+      "arxiv:comment": "19 pages, 8 figures. Comments welcome!",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Shashank Dattathri"
+        },
+        {
+          "name": "Frank C. van den Bosch"
+        },
+        {
+          "name": "Uddipan Banik"
+        },
+        {
+          "name": "Martin Weinberg"
+        },
+        {
+          "name": "Priyamvada Natarajan"
+        },
+        {
+          "name": "Zhaozhou Li"
+        },
+        {
+          "name": "Avishai Dekel"
+        }
+      ],
+      "score": 1
     },
     {
       "id": "http://arxiv.org/abs/2511.11432v1",
@@ -354,6 +635,75 @@
         {
           "$": {
             "href": "https://arxiv.org/pdf/2511.09911v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The nearby dwarf starburst NGC 5253 is dominated by a compact radio-infrared supernebula powered by a very young and bright embedded Super Star Cluster (SSC) of $\\sim 10^9 L_\\odot$. We observed this source and its surroundings over the 5-25$μ$m range with MIRI/MRS on JWST and in Paper I presented the JWST view of the region and its continuum features. We now present the more than 70 emission lines of HI, $H_2$ and metal ions detected by MIRI/MRS. We derive the extinction by comparing HI recombination to the free-free radio continuum and find that it is very flat, i.e., almost independent of wavelength, over this spectral range. Nebular conditions are consistent with young ($\\lesssim5\\times10^6$ years) and very massive stars. All regions show high excitation, but the spatial distribution of the high excitation lines suggests that photons with energies close to 50eV are escaping the supernebula core in spite of 35 magnitudes of visual extinction.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-13T03:15:03Z",
+      "arxiv:comment": "Submitted to ApJ",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Sara C. Beck"
+        },
+        {
+          "name": "Jean L. Turner"
+        },
+        {
+          "name": "Elm Zweig"
+        },
+        {
+          "name": "John H. Black"
+        },
+        {
+          "name": "Paul T. P. Ho"
+        },
+        {
+          "name": "David S. Meier"
+        },
+        {
+          "name": "Sergiy Silich"
+        },
+        {
+          "name": "Daniel P. Cohen"
+        },
+        {
+          "name": "S. Michelle Consiglio"
+        },
+        {
+          "name": "Nicholas G. Ferraro"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.09911v2",
+      "title": "JWST View of the Supernebula in NGC 5253. II. Nebular Lines",
+      "updated": "2025-11-16T17:39:13Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.09911v2",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.09911v2",
             "rel": "related",
             "type": "application/pdf",
             "title": "pdf"
