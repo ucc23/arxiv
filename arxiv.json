@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-18T18:37:47.869Z",
+  "fetched_at": "2025-11-19T01:59:49.866Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2511.13585v1",
@@ -892,110 +892,6 @@
         }
       ],
       "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.08447v1",
-      "title": "Isolated massive star candidates in NGC 4242 with GULP",
-      "updated": "2025-11-11T16:48:15Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2511.08447v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2511.08447v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "$\\textit{Context.}$ There is considerable debate on how massive stars form, including whether a high-mass star must always form with a population of low-mass stars or whether it can also form in isolation. Massive stars found in the field are often considered to be runaways from star clusters or OB associations. However, there is evidence in the Milky Way and the Small Magellanic Cloud of high-mass stars that appear isolated in the field and cannot be related to any known star cluster or OB association. Studies of more distant galaxies have been lacking so far. $\\textit{Aims.}$ In this work, we identified massive star candidates that appear isolated in the field of the nearby spiral galaxy NGC 4242 (distance: 5.3 Mpc), to explore how many candidates for isolated star formation we find in a galaxy outside the Local Group. $\\textit{Methods.}$ We identified 234 massive ($M_{ini}\\geq15M_{\\odot}$) and young ($\\leq 10$ Myr) field stars in NGC 4242 using the Hubble Space Telescope's Solar Blind Channel of the Advanced Camera for Surveys, the UVIS channel of the Wide Field Camera 3 from the Galaxy UV Legacy Project (GULP) and optical data from the Legacy ExtraGalactic UV Survey (LEGUS). We investigated the surroundings of our targets within the range of projected distances expected for runaway stars, $74$ pc and $204$ pc. $\\textit{Results.}$ We find that between $9.8\\%$ and $34.6\\%$ of our targets have no young stellar groups or massive stars within the threshold radii, making them appear isolated. This fraction reduces to $3.2\\%-11.5\\%$ when we consider the total number of massive stars expected from the observed UV star formation rate. $\\textit{Conclusions.}$ Our results show that there is a small population of young and massive, potentially isolated field stars in NGC 4242.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-11-11T16:48:15Z",
-      "arxiv:comment": "17 pages, 10 figures, 9 tables. Accepted for publication in Astronomy and Astrophysics",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Pietro Facchini"
-        },
-        {
-          "name": "Eva K. Grebel"
-        },
-        {
-          "name": "Anna Pasquali"
-        },
-        {
-          "name": "Elena Sabbi"
-        },
-        {
-          "name": "Beena Meena"
-        },
-        {
-          "name": "Varun Bajaj"
-        },
-        {
-          "name": "John S. Gallagher"
-        },
-        {
-          "name": "Bruce G. Elmegreen"
-        },
-        {
-          "name": "Luciana Bianchi"
-        },
-        {
-          "name": "Angela Adamo"
-        },
-        {
-          "name": "Daniela Calzetti"
-        },
-        {
-          "name": "Michele Cignoni"
-        },
-        {
-          "name": "Paul A. Crowther"
-        },
-        {
-          "name": "Jan J. Eldridge"
-        },
-        {
-          "name": "Mario Gennaro"
-        },
-        {
-          "name": "Ralf S. Klessen"
-        },
-        {
-          "name": "Linda J. Smith"
-        },
-        {
-          "name": "Aida Wofford"
-        },
-        {
-          "name": "Peter Zeidler"
-        }
-      ],
-      "score": 2
     }
   ]
 }
