@@ -1,6 +1,176 @@
 {
-  "fetched_at": "2025-11-19T01:59:49.866Z",
+  "fetched_at": "2025-11-19T06:37:42.198Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2511.14697v1",
+      "title": "Transferring Data from a Voronoi Mesh to an Adaptive Cartesian Grid in Pursuit of Self-consistent Top-down Star Formation",
+      "updated": "2025-11-18T17:33:36Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.14697v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.14697v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        },
+        {
+          "$": {
+            "rel": "related",
+            "href": "https://doi.org/10.3847/1538-4357/ae0e10",
+            "title": "doi"
+          }
+        }
+      ],
+      "summary": "Unstructured Voronoi mesh simulations offer many advantages for simulating self-gravitating gas dynamics on galactic scales. Adaptive mesh refinement (AMR) can be a powerful tool for simulating the details of star cluster formation and gas dispersal by stellar feedback. Zooming in from galactic to local scales using the star cluster formation simulation package Torch requires transferring simulation data from one scale to the other. Therefore, we introduce VorAMR, a novel computational tool that interpolates data from an unstructured Voronoi mesh to an AMR Cartesian grid. VorAMR is integrated into the Torch package, which integrates the FLASH AMR magnetohydrodynamics code into the Astrophysical Multipurpose Software Environment. VorAMR interpolates data from an AREPO simulation to a FLASH AMR grid using a nearest-neighbor particle scheme, which can then be evolved within the Torch package, representing the first ever transfer of data from a Voronoi mesh to an AMR Cartesian grid. Interpolation from one numerical representation to another results in an error of a few percent in global mass and energy conservation, which could be reduced with higher-order interpolation of the Voronoi cells. We show that the postinterpolation Torch simulation evolves without numerical abnormalities. A preliminary Torch simulation is evolved for 3.22 Myr and compared to the original AREPO simulation over the same time period. We observe similarly distributed star cluster formation between the two simulations. More compact clusters are produced in the Torch simulation as well as 2.3 times as much stellar material as in AREPO, likely due to the differences in resolution.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-11-18T17:33:36Z",
+      "arxiv:comment": "Published in ApJ. 9 pages, 6 figures",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "arxiv:journal_ref": "ApJ 994 69 (2025)",
+      "author": [
+        {
+          "name": "Sean C. Lewis"
+        },
+        {
+          "name": "Brooke Polak"
+        },
+        {
+          "name": "Mordecai-Mark Mac Low"
+        },
+        {
+          "name": "Stephen L. W. McMillan"
+        },
+        {
+          "name": "Claude Cournoyer-Cloutier"
+        },
+        {
+          "name": "Hui Li"
+        },
+        {
+          "name": "Maite J. C. Wilhelm"
+        },
+        {
+          "name": "Simon Portegies Zwart"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-4357/ae0e10",
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.14351v1",
+      "title": "Hubble Space Telescope proper motions of Large Magellanic Cloud star clusters -- II. Kinematic structure of young and intermediate-age clusters",
+      "updated": "2025-11-18T10:55:00Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.14351v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.14351v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "In this paper, we explore the kinematic properties of a sample of 19 young (<1 Gyr) and intermediate-age (1-2.5 Gyr) massive star clusters within the Large Magellanic Cloud (LMC). We analyse the proper motions of the clusters, which have been measured based on multi-epoch Hubble Space Telescope (HST) observations. Additionally, we infer from the HST data homogeneous and robust estimates for the distances, ages and metallicities of the clusters. This collection of information, in combination with literature line-of-sight velocities, allows us to investigate the full 3D dynamics of our sample of clusters within the frame of the LMC in a self-consistent way. While most young clusters orbit the LMC close to the stellar disc plane, NGC 1850 (~100 Myr old) depicts a peculiar case. Depending on the exact distance from the disc, it follows either a highly inclined, retrograde orbit or an eccentric orbit along the bar structure. The orbits of young clusters that formed North of the LMC centre show signs that might be connected to the resettling motion of the LMC bar structure. Based on the dynamic properties in combination with the positions of the clusters in the age-metallicity space, we find no clear-cut evidence for clusters in our sample that could have been stripped from the Small Magellanic Cloud (SMC) onto the LMC. We finally compare the kinematics of the intermediate-age clusters with a suite of simple numerical simulations of the Magellanic system to interpret the cluster motions. A possible interaction history of the LMC with the SMC, where the SMC had two past crossings of the LMC disc plane (about 300 and 900 Myr ago), in combination with the recent SMC pericentre passage, can qualitatively explain the observed kinematic structure of the clusters analysed in this work.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-18T10:55:00Z",
+      "arxiv:comment": "Accepted for publication in A&A, 21 pages, 9 figures, 7 tables",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "F. Niederhofer"
+        },
+        {
+          "name": "L. Cullinane"
+        },
+        {
+          "name": "D. Massari"
+        },
+        {
+          "name": "N. Bastian"
+        },
+        {
+          "name": "A. Bellini"
+        },
+        {
+          "name": "F. Aguado-Agelet"
+        },
+        {
+          "name": "S. Cassisi"
+        },
+        {
+          "name": "D. Erkal"
+        },
+        {
+          "name": "M. Libralato"
+        },
+        {
+          "name": "N. Kacharov"
+        },
+        {
+          "name": "I. Cabrera-Ziri"
+        },
+        {
+          "name": "E. Ceccarelli"
+        },
+        {
+          "name": "M. -R. L. Cioni"
+        },
+        {
+          "name": "F. Dresbach"
+        },
+        {
+          "name": "M. Häberle"
+        },
+        {
+          "name": "S. Martocchia"
+        },
+        {
+          "name": "S. Saracino"
+        }
+      ],
+      "score": 4
+    },
     {
       "id": "http://arxiv.org/abs/2511.13585v1",
       "title": "High Resolution Observations of CO(3-2) in Haro 2: Cool Molecular Outflows of a Ly$α$ Emitter",
