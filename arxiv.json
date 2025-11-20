@@ -1,6 +1,315 @@
 {
-  "fetched_at": "2025-11-20T01:58:17.576Z",
+  "fetched_at": "2025-11-20T06:37:17.394Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2511.15215v1",
+      "title": "Evolution of action-space coherence in a Milky Way-like simulation",
+      "updated": "2025-11-19T08:07:18Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.15215v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.15215v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Efforts to dynamically trace stars back to the now-dissolved clusters in which they formed rely implicitly on the assumption that stellar orbital actions are conserved. While this holds in a static, axisymmetric potential, it is unknown how strongly the time-varying, non-axisymmetric structure of a real galactic disk drives action drift that inhibits cluster reconstruction. We answer this question using a high-resolution magnetohydrodynamic simulation of a Milky Way-like spiral disc galaxy. We show that, while stars experience significant action evolution over $\\lesssim 100$ Myr, they do so in a correlated fashion whereby stars born in close proximity maintain very similar actions for up to 0.5 Gyr. The degree of coherence shows no significant dependence on galactocentric radius, but varies between action components: vertical actions decohere for stars born more than a few hundred parsecs apart (likely due to giant molecular clouds), while radial and azimuthal actions remain correlated on kiloparsec scales (likely influenced by spiral arms). We use our measurements of the rate of action decoherence to develop a probabilistic framework that lets us infer the initial sizes of the star cluster progenitors of present-day stellar streams from their measured action distributions, which we apply to 438 known moving groups. Our results suggest that most of these streams likely originated from compact clusters, but that a significant minority are instead likely to be resonant or dynamically induced structures. This method of classifying streams complements existing methods, optimises the use of expensive spectroscopic abundance measurements, and will be enhanced by the more precise kinematic data that will soon become available from \\textit{Gaia} DR4.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-19T08:07:18Z",
+      "arxiv:comment": "Submitted to MNRAS, comments welcome! Check https://github.com/aruuniima/stellar-actions-II for codes and some of the data used. 14 pages, 14 figures",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Arunima Arunima"
+        },
+        {
+          "name": "Mark R. Krumholz"
+        },
+        {
+          "name": "Michael J. Ireland"
+        },
+        {
+          "name": "Chuhan Zhang"
+        },
+        {
+          "name": "Sven Buder"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.15115v1",
+      "title": "PHR~J1724-3859: A Bipolar Planetary Nebula in Open Cluster Trumpler 25",
+      "updated": "2025-11-19T04:37:53Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.15115v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.15115v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        },
+        {
+          "$": {
+            "rel": "related",
+            "href": "https://doi.org/10.3847/1538-4357/ae1f0c",
+            "title": "doi"
+          }
+        }
+      ],
+      "summary": "Planetary nebulae (PNe) studies are essential for understanding late stellar evolution of low-to-intermediate mass stars. PNe in open clusters (OC) are rare but valuable since their study directly links their properties to those of their progenitors, something that cannot be achieved for field PNe. Here, we report the identification of one more OC-PN association to add to the small sample of, now, five pairs. The physical properties of the host cluster, PN and its central star (CSPN) have been explored using high and intermediate-resolution spectral and deep photometric data. The close agreement of the radial velocities of the PN and host cluster, together with concordance of reddening and distance, show that the PN PHR~J1724-3859 is highly likely to be physically associated with the OC Trumpler~25. Deep photometric data allowed clear identification of the CSPN. We find a CSPN effective temperature of around 250 kK and a nebular kinematic age of 23 kyrs, both at the extreme end, like the other members of this small class. The progenitor and final CSPN masses have been estimated to be 5.12$_{-0.15}^{+0.16}$ $M_\\odot$ and 0.95$\\pm$0.12 $M_\\odot$ respectively. These latest results agree with the emerging trend for our other OC-PNe, falling below, but approximately parallel to, the latest initial-to-final-mass relation estimates derived from cluster white dwarfs and has important implications for stellar evolution models. All OC-PNe also possess some other common properties (e.g. all are Type-I PNe and bipolars) to be explored in future studies.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-11-19T04:37:53Z",
+      "arxiv:comment": "19 pages, 9 figures, 4 tables",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": [
+        {
+          "name": "Vasiliki Fragkou"
+        },
+        {
+          "name": "Quentin A. Parker"
+        },
+        {
+          "name": "Denise R. Gonçalves"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-4357/ae1f0c",
+      "score": 6
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.14958v1",
+      "title": "Understanding the Origin and Dynamical Evolution of the Unique Open Star Cluster Berkeley 20 using FIRE Simulations",
+      "updated": "2025-11-18T22:57:47Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.14958v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.14958v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Open clusters (OCs) act as key probes that can be leveraged to constrain the formation and evolution of the Milky Way (MW)'s disk, as each has a unique chemical fingerprint and well-constrained age. Significant Galactic dynamic interactions can leave imprints on the orbital properties of OCs, allowing us to use the present day properties of long-lived OCs to reconstruct the MW's dynamic history. To explore these changes, we identify OC analogs in FIRE-2 simulations of MW-mass galaxies. For this work, we focus on one particular FIRE-2 OC, which we identify as an analog to the old, subsolar, distant, and high Galactic latitude MW OC, Berkeley 20. Our simulated OC resides ~6 kpc from the galactic center and ultimately reaches a height $|Z_{\\mathrm{max}}|>2$ kpc from the galactic disk, similar to Berkeley 20. We trace the simulated cluster's orbital and environmental history, identifying key perturbative episodes, including: (1) an interaction with a gas overdensity in a spiral arm that prompts an outward migration event and (2) a substantial interaction with a Sagittarius Dwarf Spheroidal Galaxy-mass satellite that causes significant orbital modification. Our simulated OC shows significant resilience to disruption during both its outward migration and the satellite-driven heating event that causes subsequent inward migration. Ultimately, we find these two key processes -- migration and satellite heating -- are essential to include when assessing OC orbital dynamics in the era of Gaia.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-18T22:57:47Z",
+      "arxiv:comment": "10 Pages, 4 figures, accepted to ApJL",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Alessa I. Wiggins"
+        },
+        {
+          "name": "Jamie R. Quinn"
+        },
+        {
+          "name": "Micah Oeur"
+        },
+        {
+          "name": "Sarah R. Loebman"
+        },
+        {
+          "name": "Peter M. Frinchaboy"
+        },
+        {
+          "name": "Kathryne J. Daniel"
+        },
+        {
+          "name": "Fiona McCluskey"
+        },
+        {
+          "name": "Jonah M. Otto"
+        },
+        {
+          "name": "Hannah R. Woodward"
+        },
+        {
+          "name": "Elena D'Onghia"
+        },
+        {
+          "name": "Andrew Wetzel"
+        },
+        {
+          "name": "Hanna Parul"
+        },
+        {
+          "name": "Binod Bhattarai"
+        },
+        {
+          "name": "Maximilian Cozzi"
+        }
+      ],
+      "score": 4.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.14912v1",
+      "title": "Dynamics in the Cores of Self-Interacting Dark Matter Halos: Reduced Stalling and Accelerated Core Collapse",
+      "updated": "2025-11-18T21:05:07Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.14912v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.14912v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Self-interacting dark matter (SIDM) is an intriguing alternative to the standard cold dark matter (CDM) paradigm, which predicts that dark matter halos typically have large, isothermal cores. Numerical simulations have shown that dynamical friction ceases to operate in cores of (roughly) constant density, a phenomenon known as core stalling. In addition, such cores often are unstable to a dipole instability that gives rise to dynamical buoyancy, causing massive central objects to move outward. Thus far, these manifestations of core dynamics have only been demonstrated in collisionless systems. In this paper, we use idealized N-body simulations to study whether core stalling and dynamical buoyancy operate in SIDM halos. We find that if the self-interactions are sufficiently strong, neither core stalling nor buoyancy are present, and a massive perturber will quickly sink all the way to the center of its host. In doing so, it gravitationally contracts the core, catalyzing a strongly accelerated core collapse. The reason why core dynamics are so different in SIDM halos is that self-interactions drive the halo's distribution function to a featureless exponential, removing any inflections or plateaus that are responsible for the dipole instability and core stalling in the case of CDM. We discuss implications of our finding for constraining the nature of dark matter by using observations of massive objects such as supermassive black holes (SMBHs), globular clusters, and nuclear star clusters in the central regions of galaxies.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-18T21:05:07Z",
+      "arxiv:comment": "23 pages, 15 figures, submitted for publication in The Open Journal of Astrophysics",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Frank C. van den Bosch"
+        },
+        {
+          "name": "Shashank Dattathri"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.14830v1",
+      "title": "V570 Per: Characterization of a Benchmark Eclipsing Binary",
+      "updated": "2025-11-18T19:00:00Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.14830v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.14830v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "This study presents a comprehensive analysis of the detached binary system V570\\,Per through combined photometric, spectroscopic, and astrometric observations. By disentangling the composite spectra, precise fundamental parameters and detailed chemical abundances were determined for both stars. The primary component has a mass of $1.4569_{-0.0100}^{+0.0094}$ $M_{\\odot}$, a radius of $1.543_{-0.009}^{+0.012}$ $R_{\\odot}$, an effective temperature of $6556_{-26}^{+64}$ K, and a metallicity of $+0.18_{-0.01}^{+0.03}$ dex, while the secondary has a mass of $1.3579_{-0.0089}^{+0.0094}$ $M_{\\odot}$, a radius of $1.377_{-0.015}^{+0.013}$ $R_{\\odot}$, an effective temperature of $6468_{-21}^{+32}$ K, and a metallicity of $+0.15_{-0.01}^{+0.02}$ dex. The system is estimated to be $577_{-60}^{+60}$ Myr old with a synchronized orbit. The available O-C data imply a minimum mass of 0.57 $M_{\\odot}$ or 0.11 $M_{\\odot}$ for the third body, corresponding to eccentric and circular orbits, respectively. \\texttt{MESA} evolutionary models indicate that the primary will fill its Roche lobe and begin mass transfer to the secondary in about 2.8 Gyr, whereas the secondary will reach the terminal-age main sequence in approximately 3.2 Gyr. The chemical composition of both stars shows remarkable consistency, confirming their common origin, except for calcium, which is significantly enhanced in the primary. Line measurements support this difference and are therefore interpreted as an intrinsic abundance variation rather than an artifact of the analysis. The overall solar-rich metallicity, combined with a relatively low $α$-element content, links V570\\,Per to the Galactic thin-disk population. In addition, Galactic orbit analyses of open clusters in the solar neighborhood have revealed that the V570\\,Per system may have originated from the Melotte 25 open cluster.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-11-18T19:00:00Z",
+      "arxiv:comment": "23 pages, 17 figures, and 8 tables. Accepted for publication in The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": [
+        {
+          "name": "Gökhan Yücel"
+        },
+        {
+          "name": "Neslihan Alan"
+        },
+        {
+          "name": "Timothy Banks"
+        },
+        {
+          "name": "Remziye Canbay"
+        },
+        {
+          "name": "Volkan Bakış"
+        },
+        {
+          "name": "Selçuk Bilir"
+        }
+      ],
+      "score": 3
+    },
     {
       "id": "http://arxiv.org/abs/2511.14697v1",
       "title": "Transferring Data from a Voronoi Mesh to an Adaptive Cartesian Grid in Pursuit of Self-consistent Top-down Star Formation",
