@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-19T18:37:45.669Z",
+  "fetched_at": "2025-11-20T01:58:17.576Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2511.14697v1",
@@ -996,72 +996,6 @@
         }
       ],
       "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.09641v1",
-      "title": "Chandra and HST Observations of Radio-Selected (Wandering) Massive Black Hole Candidates in Dwarf Galaxies",
-      "updated": "2025-11-12T19:00:06Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2511.09641v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2511.09641v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "We present Chandra X-ray Observatory and Hubble Space Telescope (HST) follow-up observations of 12 dwarf galaxies from Reines et al. (2020) that are potential hosts of radio-selected active galactic nuclei (AGNs), eight of which are non-nuclear and possible ``wandering\" black holes (BHs). Our multi-wavelength analysis indicates a heterogeneous sample with five radio sources detected at both X-ray and optical wavelengths within positional uncertainties and non-detections for the remaining objects. Of the radio objects detected in the X-ray/optical, three have multi-wavelength evidence for hosting nuclear massive BHs and one object is consistent with an extreme compact starburst. Only one of the off-nuclear radio sources has a significant optical counterpart and we present Palomar spectroscopy that identifies this object as a background AGN. We cannot definitively determine if the seven remaining off-nuclear radio sources are wandering massive BHs in the target dwarf galaxies or background AGNs, although the three sources with the largest offsets have compact radio cores detected with the Very Large Baseline Array and are consistent with expectations for background AGNs (Sargent et al 2022). Our HST sensitivity limits also allow for wandering massive BHs in the target dwarf galaxies that are hosted by stellar clusters with masses $\\lesssim 10^6 M_\\odot$.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-11-12T19:00:06Z",
-      "arxiv:comment": "21 pages, 4 Figures, 7 Tables, accepted for publication in The Astrophysical Journal",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Megan R. Sturm"
-        },
-        {
-          "name": "Amy E. Reines"
-        },
-        {
-          "name": "Anne M. Lohfink"
-        },
-        {
-          "name": "Akos Bogdan"
-        },
-        {
-          "name": "Ralph Kraft"
-        },
-        {
-          "name": "Daniel Stern"
-        },
-        {
-          "name": "Thomas Connor"
-        },
-        {
-          "name": "Jeremy Darling"
-        },
-        {
-          "name": "Mallory Molina"
-        }
-      ],
-      "score": 0.5
     }
   ]
 }
