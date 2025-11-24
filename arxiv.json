@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-23T18:34:12.311Z",
+  "fetched_at": "2025-11-24T02:08:07.645Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2511.15808v1",
@@ -608,62 +608,6 @@
         }
       ],
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.12496v1",
-      "title": "Unraveling eMSTO in NGC 2355: Stellar Rotation and Binaries",
-      "updated": "2025-11-16T08:15:07Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2511.12496v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2511.12496v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "The extended Main Sequence Turn-off (eMSTO) in the open cluster NGC 2355 is investigated using precise astrometry and photometry from Gaia DR3 and spectroscopic data from the Gaia-ESO Survey. We find a clear positive correlation between the rotational velocity (v sin i) and color of eMSTO stars, supporting the role of stellar rotation and gravity darkening in causing the observed color spread. Contrary to predictions from binary tidal-locking scenarios, spatial distribution analysis reveals that fast-rotating stars are preferentially concentrated in the cluster's central regions. This finding provides the observational evidence favoring star-disk interactions during the pre-main-sequence phase, rather than tidal locking in binaries, as the primary mechanism responsible for the origin of rotational spread in eMSTO stars.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-11-16T08:15:07Z",
-      "arxiv:comment": "4 pages, 3 figures. Accepted for publication in the Proceedings of the International Astronomical Union",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.SR"
-        }
-      },
-      "author": [
-        {
-          "name": "Jayanand Maurya"
-        },
-        {
-          "name": "Yu Zhang"
-        },
-        {
-          "name": "Hubiao Niu"
-        }
-      ],
-      "score": 1.5
     }
   ]
 }
