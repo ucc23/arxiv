@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-11-24T18:38:22.682Z",
+  "fetched_at": "2025-11-25T02:01:24.408Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2511.15808v1",
@@ -560,54 +560,6 @@
         }
       ],
       "score": 4
-    },
-    {
-      "id": "http://arxiv.org/abs/2511.13585v1",
-      "title": "High Resolution Observations of CO(3-2) in Haro 2: Cool Molecular Outflows of a Ly$α$ Emitter",
-      "updated": "2025-11-17T16:47:14Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2511.13585v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2511.13585v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Haro 2 is a blue compact dwarf galaxy and the closest (at 21Mpc) known $Lyα$ emitter. UV and optical observations have found Haro 2 to be immersed in shells of partly ionized gas expanding at $\\sim200$km/s. Observations of CO(2-1) (Becket et al 2020; Paper 1) with moderate ($2^{\\prime\\prime}$) resolution discovered a large-scale one-sided outflow associated with a soft X-ray bubble and apparently driven by the young star clusters created in the recent starburst. We present here SMA observations of CO(3-2) with $1.1^{\\prime\\prime}$ resolution in Haro 2. The opposite-side component of the large molecular outflow is detected lying in the direction of the fast ionized outflow; it is very confined in area. An additional outflow is apparent in the CO(3-2); it is south-east of the galaxy in a region holding weak star formation and a moderate-luminosity hard X-ray source. All the molecular outflow and filament velocities are within $\\lesssim\\pm50$km/s of the systemic velocity of the galaxy.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-11-17T16:47:14Z",
-      "arxiv:comment": "Revised version submitted to AJ",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Sara Beck"
-        },
-        {
-          "name": "Pei-Ying Hsieh"
-        },
-        {
-          "name": "Jean Turner"
-        }
-      ],
-      "score": 1
     }
   ]
 }
