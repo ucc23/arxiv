@@ -1,6 +1,147 @@
 {
-  "fetched_at": "2025-12-01T02:27:25.128Z",
+  "fetched_at": "2025-12-01T06:42:09.699Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2511.23414v1",
+      "title": "Consensus based Algorithm for Nonparametric Detection of Star Clusters (CANDiSC)",
+      "updated": "2025-11-28T18:10:19Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.23414v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.23414v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Context: The VISTA Variables in the Via Lactea (VVV) and its extension (VVVX) are near-infrared surveys mapping the Galactic bulge and adjacent disk. These data have enabled the discovery of numerous star clusters obscured by high and spatially variable extinction. Most previous searches relied on visual inspection of individual tiles, which is inefficient and biased against faint or low-density systems.\n  Aims: We aim to develop an automated, homogeneous algorithm for systematic cluster detection across different surveys. Here, we apply our method to VVVX data covering low-latitude regions of the Galactic bulge and disk, affected by extinction and crowding.\n  Methods: We introduce the Consensus-based Algorithm for Nonparametric Detection of Star Clusters (CANDiSC), which integrates kernel density estimation, the Density-Based Spatial Clustering of Applications with Noise (DBSCAN), and nearest-neighbour density estimation within a consensus framework. A stellar overdensity is classified as a candidate if identified by at least two of these methods. We apply CANDiSC to 680 tiles in the VVVX PSF photometric catalogue, covering approximately 1100 square degrees.\n  Results: We detect 163 stellar overdensities, of which 118 are known clusters. Cross-matching with recent catalogues yields five additional matches, leaving 40 likely new candidates absent from existing compilations. The estimated false-positive rate is below 5 percent.\n  Conclusions: CANDiSC offers a robust and scalable approach for detecting stellar clusters in deep near-infrared surveys, successfully recovering known systems and revealing new candidates in the obscured and crowded regions of the Galactic plane.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-28T18:10:19Z",
+      "arxiv:comment": "17 pages, 18 figures",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "C O Obasi"
+        },
+        {
+          "name": "J G Fernandez Trincado"
+        },
+        {
+          "name": "M Gomez"
+        },
+        {
+          "name": "D Minniti"
+        },
+        {
+          "name": "J Alonso Garcia"
+        },
+        {
+          "name": "B P L Ferreira"
+        },
+        {
+          "name": "E R Garro"
+        },
+        {
+          "name": "B Dias"
+        },
+        {
+          "name": "R K Saito"
+        },
+        {
+          "name": "B Barbuy"
+        },
+        {
+          "name": "M C Parisi"
+        },
+        {
+          "name": "T Palma"
+        },
+        {
+          "name": "B Tang"
+        },
+        {
+          "name": "M Ortigoza Urdaneta"
+        },
+        {
+          "name": "L D Baravalle"
+        },
+        {
+          "name": "M V Alonso"
+        },
+        {
+          "name": "F Mauro"
+        }
+      ],
+      "score": 5.5
+    },
+    {
+      "id": "http://arxiv.org/abs/2511.23164v1",
+      "title": "Bursty star formation, chemical enrichment, and star cluster formation in numerical analogues of GN-z11",
+      "updated": "2025-11-28T13:20:16Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2511.23164v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2511.23164v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The James Webb Space Telescope reveals anomalous nitrogen enrichment (high N/O ratios) in compact, star-forming galaxies, such as GN-z11 at $z\\sim10$. The origin of this chemical signature provides an insight into the early star and galaxy formation processes, yet remains unclear. We performed high-resolution cosmological zoom-in simulations of massive galaxies at high redshift ($z\\sim10$) in rare density peaks, incorporating various chemical evolution channels including stellar winds, core-collapse, Type Ia supernovae, and asymptotic giant branch stars. Our simulations reproduce several key features of high-redshift galaxies: (1) stars form with high efficiencies ($>0.1$) at the center of rare peak halos, creating very compact galaxies similar to GN-z11; (2) high N/O ratios emerge during the first 10-20 Myr of intense starburst, before being diluted by CCSNe; (3) multiple star clusters form in and around the galaxy with high efficiency ($\\sim20\\%$), some of which exhibit high N/O ratios and sodium-oxygen anti-correlations similar to those observed in local globular clusters. Although our simulations can reproduce the high log(N/O) values (up to -0.61, exceeding the solar value by 0.25 dex), they remain below the observational lower limits of GN-z11, indicating room for improvement through additional chemical evolution channels, such as supermassive stars.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-11-28T13:20:16Z",
+      "arxiv:comment": "25 pages, 22 figures, submitted to PASJ",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Takayuki R. Saitoh"
+        },
+        {
+          "name": "Yutaka Hirai"
+        },
+        {
+          "name": "Michiko S. Fujii"
+        },
+        {
+          "name": "Yuki Isobe"
+        }
+      ],
+      "score": 4
+    },
     {
       "id": "http://arxiv.org/abs/2511.20775v1",
       "title": "Ashes of Creation: JWST Uncovers Silicate Dust in Massive Star Clusters",
