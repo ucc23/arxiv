@@ -1,6 +1,79 @@
 {
-  "fetched_at": "2025-12-02T02:03:46.857Z",
+  "fetched_at": "2025-12-02T06:40:52.687Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.01606v1",
+      "title": "Substellar Initial Mass Function of Trumpler 14",
+      "updated": "2025-12-01T12:26:43Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.01606v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.01606v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Young, massive stellar clusters offer a prime setting to explore brown dwarf (BD) formation under high densities and intense UV radiation. Trumpler 14 (Tr 14), a 1 Myr-old cluster located at a distance of 2.4 kpc, and particularly rich in O-type stars, is an ideal target for such a study. Our goal is to measure the initial mass function (IMF) in the young massive, high UV flux cluster. We present the deepest study to date of the IMF in Tr 14 based on GeMS/GSAOI imaging. We construct the IMF using both the Besancon Galactic model and an observational control field from VISTA for background correction. Completeness was assessed using artificial-star tests and applied to the IMF derivation. We estimate the IMF down to the 20% completeness limit found at 0.01 MSun. Using the control field-based IMF as our primary result, we find a slope of alpha=0.14+-0.19 for masses between 0.01-0.2 MSun, and alpha=1.72+-0.04 for 0.2-4.5 MSun. The low-mass slope is largely influenced by the incompleteness-affected lowest bin; excluding it brings our results into agreement with those from other young clusters. The resulting median for the star-to-BD ratio in the 0.03-1 MSun mass range is 4.0, with a 95% confidence interval of 2.8-5.8. Our analysis reveals that Tr 14 hosts a relatively flat substellar IMF, but this is strongly influenced by the lowest-mass bin, which may be affected by incompleteness. When that bin is excluded, the IMF becomes consistent with those of other regions. The star-to-BD ratio falls within the usually observed 3-6 range, indicating that brown dwarfs with masses above 0.03 MSun form with similar efficiency across environments. However, the relative lack of objects below this threshold suggests that the presence of an environment with both high stellar density and FUV flux may play a role in shaping the IMF by suppressing the formation of BDs at masses < 0.03 MSun.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-01T12:26:43Z",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": [
+        {
+          "name": "Tamara Rom",
+          "arxiv:affiliation": [
+            "University of Split, Faculty of Science, Split, Croatia",
+            "Univ. Grenoble Alpes, CNRS, IPAG, Grenoble, France"
+          ]
+        },
+        {
+          "name": "Estelle Moraux",
+          "arxiv:affiliation": "Univ. Grenoble Alpes, CNRS, IPAG, Grenoble, France"
+        },
+        {
+          "name": "Koraljka Mužić",
+          "arxiv:affiliation": "Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciências, Universidade de Lisboa"
+        },
+        {
+          "name": "Morten Andersen",
+          "arxiv:affiliation": "European Southern Observatory, Garching bei München, Germany"
+        },
+        {
+          "name": "Mischa Schirmer",
+          "arxiv:affiliation": "Max-Planck-Institut für Astronomie, Heidelberg, Germany"
+        },
+        {
+          "name": "Víctor Almendros-Abad",
+          "arxiv:affiliation": "Istituto Nazionale di Astrofisica"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2511.23414v1",
       "title": "Consensus based Algorithm for Nonparametric Detection of Star Clusters (CANDiSC)",
