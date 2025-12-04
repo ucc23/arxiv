@@ -1,6 +1,250 @@
 {
-  "fetched_at": "2025-12-03T18:40:41.992Z",
+  "fetched_at": "2025-12-04T02:04:25.628Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.04043v1",
+      "title": "The Nature of Nitrogen Enhanced High Redshift Galaxies",
+      "updated": "2025-12-03T18:32:17Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.04043v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.04043v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Recent JWST observations have revealed a population of high-redshift galaxies ($z\\gtrsim5$) exhibiting unexpectedly bright ultraviolet (UV) nitrogen emission lines. The strong N III] and N IV] features imply nitrogen-to-oxygen abundance ratios (N/O) as high as $-0.8 \\lesssim \\log(\\mathrm{N/O}) \\lesssim 0.4$ in these low-metallicity galaxies ($12+\\log(\\mathrm{O/H}) \\lesssim 8.2$), compared to the local value of $\\log(\\mathrm{N/O})\\approx-1.5$. If confirmed, this level of nitrogen enrichment challenges existing models of nucleosynthesis and galaxy evolution. However, the presence of active galactic nuclei (AGNs) can affect spectral diagnostics, and previous studies often excluded AGN contamination using photoionization models based on local N/O ratios. In this work, we compare nitrogen-enhanced AGN and H II region models to observed spectra of eight high-redshift galaxies to constrain their nitrogen abundance, excitation source, gas-phase metallicity, ionization parameter, and gas pressure, simultaneously. We find seven galaxies (GHZ9, GS 3073, GN-z9p4, CEERS-1019, GHZ2, GN-z11, and GS-z9-0) are best described by nitrogen-enhanced AGN models, while RXCJ2248-ID is best reproduced by the nitrogen-enhanced H II model. The presence of AGN does not significantly impact ($\\lesssim0.1\\,$dex) the derived N/O ratio. We also find that equivalent width (EW)-based diagrams are the most robust UV diagnostic diagrams to distinguish AGNs and star-forming galaxies for situations where the nitrogen abundance is varying. All nitrogen-enhanced galaxies have moderate to high gas pressure ($7.0\\leq\\log (P/k)\\leq9.8$) and high ionization parameter ($\\log(U)\\gtrsim-2.0$), indicating a dense and compact environment. We suggest that super star clusters containing Wolf-Rayet stars and massive stars are the most likely contributors to the elevated nitrogen abundance in these galaxies.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-03T18:32:17Z",
+      "arxiv:comment": "20 pages, 8 figures, accepted for publication in the ApJ",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Peixin Zhu"
+        },
+        {
+          "name": "James Trussler"
+        },
+        {
+          "name": "Lisa J. Kewley"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.03999v1",
+      "title": "The Nuclear Star Cluster of M 74: a fossil record of the very early stages of a star-forming galaxy",
+      "updated": "2025-12-03T17:33:30Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.03999v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.03999v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Nuclear star clusters (NSC) are dense and compact stellar systems, of sizes of few parsecs, located at galactic centers. Their properties and formation mechanisms seem to be tightly linked to the evolution of the host galaxy, with potentially different formation channels for late- and early-type galaxies (respectively, LTGs and ETGs). While most observations target ETGs, here we focus on the NSC in M 74 (NGC 628), a relatively massive, gas-rich and star-forming spiral galaxy, part of the PHANGS survey. We analyzed the central arcmin of the PHANGS-MUSE mosaic, in which the NSC is not spatially resolved. We performed a two-dimensional spectro-photometric decomposition of the MUSE cube, employing a modified version of the C2D code, to disentangle the NSC from the host galaxy. Here we used three components: a bulge, a disk and a NSC approximated to the point spread function (PSF), obtaining three data cubes, one for each component. This allowed us to extract separately the age, metallicity and [Mg/Fe] abundance for the NSC and the host galaxy. Our results show a very old and metal-poor NSC, in contrast to the surrounding regions. While similar properties were found in NSCs hosted by galaxies of different masses and/or morphological types from M 74, they are somewhat unexpected for a relatively massive star-forming spiral galaxy. The spatially resolved stellar populations of the host galaxy display much younger (light-weighted) ages and higher metallicities, especially in the central region (${\\sim}500$ pc) surrounding the NSC. This suggests that this NSC formed a long time ago, and evolved passively until today, without any further growth. Our results show that the NSC was not involved in the active recent star-formation history of its host galaxy.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-03T17:33:30Z",
+      "arxiv:comment": "13 pages, 8 figures. Currently under the revision process in A&A after positive referee report",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Francesca Pinna",
+          "arxiv:affiliation": [
+            "Instituto de Astrofísica de Canarias",
+            "Departamento de Astrofísica, Universidad de La Laguna",
+            "Max-Planck-Institut für Astronomie"
+          ]
+        },
+        {
+          "name": "Nils Hoyer",
+          "arxiv:affiliation": "Max-Planck-Institut für Astronomie"
+        },
+        {
+          "name": "Jairo Méndez Abreu",
+          "arxiv:affiliation": [
+            "Departamento de Astrofísica, Universidad de La Laguna",
+            "Instituto de Astrofísica de Canarias"
+          ]
+        },
+        {
+          "name": "Adriana de Lorenzo Cáceres Rodriguez",
+          "arxiv:affiliation": [
+            "Departamento de Astrofísica, Universidad de La Laguna",
+            "Instituto de Astrofísica de Canarias"
+          ]
+        },
+        {
+          "name": "Nadine Neumayer",
+          "arxiv:affiliation": "Max-Planck-Institut für Astronomie"
+        },
+        {
+          "name": "Médéric Boquien",
+          "arxiv:affiliation": "Université Côte d Azur, Observatoire de la Côte d Azur, CNRS"
+        },
+        {
+          "name": "Salvador Cardona Barrero",
+          "arxiv:affiliation": [
+            "Departamento de Astrofísica, Universidad de La Laguna",
+            "Instituto de Astrofísica de Canarias"
+          ]
+        },
+        {
+          "name": "Daniel A. Dale",
+          "arxiv:affiliation": "Department of Physics and Astronomy, University of Wyoming"
+        },
+        {
+          "name": "Ivan S. Gerasimov",
+          "arxiv:affiliation": "Université Côte d Azur, Observatoire de la Côte d Azur, CNRS"
+        },
+        {
+          "name": "Kathryn Grasha",
+          "arxiv:affiliation": "Research School of Astronomy and Astrophysics, Australian National University"
+        },
+        {
+          "name": "Ralf S. Klessen",
+          "arxiv:affiliation": [
+            "Universität Heidelberg, Zentrum für Astronomie, Institut für Theoretische Astrophysik",
+            "Universität Heidelberg, Interdisziplinäres Zentrum für Wissenschaftliches Rechnen"
+          ]
+        },
+        {
+          "name": "Carlos Marrero de la Rosa",
+          "arxiv:affiliation": [
+            "Departamento de Astrofísica, Universidad de La Laguna",
+            "Instituto de Astrofísica de Canarias"
+          ]
+        },
+        {
+          "name": "Miguel Querejeta",
+          "arxiv:affiliation": "Observatorio Astronómico Nacional"
+        },
+        {
+          "name": "Thomas G. Williams",
+          "arxiv:affiliation": "UK ALMA Regional Centre Node, Jodrell Bank Centre for Astrophysics, Department of Physics and Astronomy, The University of Manchester"
+        },
+        {
+          "name": "Smita Mathur",
+          "arxiv:affiliation": [
+            "Astronomy Department, The Ohio State University",
+            "Center for Cosmology and Astro-Particle Physics, The Ohio State University"
+          ]
+        },
+        {
+          "name": "Eva Schinnerer",
+          "arxiv:affiliation": "Max-Planck-Institut für Astronomie"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.03129v1",
+      "title": "Taming the Tarantula: How Stellar Wind Feedback Shapes Gas and Dust in 30 Doradus",
+      "updated": "2025-12-02T19:00:00Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.03129v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.03129v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Observations of massive star-forming regions show that classical stellar wind models over-predict the luminosity of the X-ray emitting gas, indicating a significant fraction of wind energy is lost. In this paper, we present a multi-wavelength analysis of the giant HII region 30 Doradus and its central star cluster R136 using 2 Ms of Chandra X-ray Observatory data, combined with James Webb Space Telescope and Hubble Space Telescope imaging and Spitzer spectral-energy distributions, to investigate how the hot gas energy is lost through turbulent mixing, radiative cooling, and physical leakage. We compare the spatial and spectral properties of the hot gas with those of the warm ionized gas and dust. We find no significant correlation between the dust and hot gas temperatures, suggesting they are not directly coupled and that the dust resides in the swept-up shells where it is heated radiatively. H$α$ and X-ray surface brightness profiles show that the X-rays peak interior to the H$α$ shells, demonstrating partial confinement of the hot gas. The fragmented shell structure and bright X-ray interior that declines near the H$α$ shell reflect efficient cooling from turbulent mixing at the hot-cold interface. We compare against recent simulations of stellar-feedback driven bubbles which have broad agreement with the morphology of the X-ray and H$α$ emission, but the simulations produce a dip in the interior X-ray surface brightness and a lack of hard X-rays compared to the observations. These differences may suggest thermal conduction is important as mass-loading of the hot bubble could reproduce the X-ray observables.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-02T19:00:00Z",
+      "arxiv:comment": "17 pages, 12 figures",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.HE"
+        }
+      },
+      "author": [
+        {
+          "name": "Jennifer A. Rodriguez"
+        },
+        {
+          "name": "Laura A. Lopez"
+        },
+        {
+          "name": "Lachlan Lancaster"
+        },
+        {
+          "name": "Anna L. Rosen"
+        },
+        {
+          "name": "Omnarayani Nayak"
+        },
+        {
+          "name": "Sebastian Lopez"
+        },
+        {
+          "name": "Tyler Holland-Ashford"
+        },
+        {
+          "name": "Trinity L. Webb"
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2512.01606v1",
       "title": "Substellar Initial Mass Function of Trumpler 14",
