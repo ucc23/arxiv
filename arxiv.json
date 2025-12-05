@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-12-04T18:41:14.573Z",
+  "fetched_at": "2025-12-05T02:04:26.601Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2512.04043v1",
@@ -48,6 +48,54 @@
         }
       ],
       "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.04143v1",
+      "title": "Pleiades Binary Fraction Revisited",
+      "updated": "2025-12-03T17:41:06Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.04143v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.04143v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "One of the nearest and best studied open clusters, Pleiades is an important cornerstone of stellar astrophysics. Despite its role as reference coeval stellar population, its multiplicity properties remain vaguely determined. The combined use of Gaia DR3 multiband photometry, astrometric parameter RUWE, non-single star solutions along with available ground-based spectroscopic, high angular resolution, and polarimetric observations enable more robust constraints on the binary star population in the cluster. Several conclusions may have broader implications for other stellar populations. Twin binaries, with mass ratio close to $q\\sim 1$, tend to have lower RUWE, increasing their membership selection probability, relative to $q\\sim 0.5$ systems that are disfavored. The frequently observed peak in mass ratio distribution for $q\\sim 1$ binaries may be partially attributed to this bias. Photometrically fitted mass ratio is underestimated for double-lined spectroscopic binaries in agreement with other authors. Differential extinction photometrically mimics stellar binarity. An area of enlarged absorption is traced by increased polarization south of the Merope star and excluded from the analysis to avoid this bias. The fraction of systems with $q>0.6$ companions is measured to be $f=16.4\\%^{+2.6}_{-0.6}$ for $m>0.5~M_\\odot$ stars, which is larger than recent Gaia-based estimates, but compatible with the pre-Gaia values for Pleiades and the field population. Binary fraction shows no steady increase with stellar mass in the 0.5 $-$ 1.2 $M_\\odot$ range, while mass ratio has a bimodal distribution with a minimum near $q\\sim 0.7$.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-03T17:41:06Z",
+      "arxiv:comment": "Accepted for publication in the Astronomical Journal",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": {
+        "name": "Dmitry Chulkov"
+      },
+      "score": 1.5
     },
     {
       "id": "http://arxiv.org/abs/2512.03999v1",
