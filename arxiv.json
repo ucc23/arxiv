@@ -1,6 +1,328 @@
 {
-  "fetched_at": "2025-12-07T18:34:27.585Z",
+  "fetched_at": "2025-12-08T02:05:32.840Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.05914v1",
+      "title": "ALMAGAL VI. The spatial distribution of dense cores during the evolution of cluster-forming massive clump",
+      "updated": "2025-12-05T17:51:06Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.05914v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.05914v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "High-mass stars and star clusters form from the fragmentation of massive dense clumps driven by gravity, turbulence, and magnetic fields. The ALMAGAL project observed $\\sim1000$ clumps at $\\sim$1000\\,au resolution, enabling a statistically significant characterization of this process across a large range of clump physical parameters and evolutionary stages. In this work, we investigated the spatial distribution of dense cores in the 514 massive, potentially cluster-forming, clumps hosting at least 4 cores, to trace fragmentation's initial conditions and early evolution. We used quantitative descriptors, evaluated against the clump bolometric luminosity-to-mass ratio as an indicator of evolution. Core separations were measured with the minimum spanning tree method (MST) and compared with the Jeans gravitational fragmentation theory. We used the $Q$ parameter and the mass segregation ratio, $Λ_{MSR}$, to evaluate whether cores have specific arrangements or differences depending on their masses. ALMAGAL cores are usually arranged in elliptical groups with an axis ratio $e\\sim2.2$, but $e\\geq$5 is also observed. A single characteristic core separation per clump is found in $\\sim76$% of cases, but signatures of multiple fragmentation lengths not rare. Typical core separations are compatible with the clump-averaged thermal Jeans length, $λ^{th}_{J}$, though a population, typical of low-fragmented/young clumps, has wider separations with $l\\approx3\\timesλ^{th}_{J}$. The core separation decreases on average from $l\\sim22000$ au in younger systems to $l\\sim7000$ au in more evolved ones. Cores are typically distributed in fractal-type subclusters, with centrally concentrated patterns appearing only at later stages, but without a progressive evolutionary transition. Finally, mass segregation is found in 110 systems, with its occurrence increasing with evolution.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-05T17:51:06Z",
+      "arxiv:comment": "32 pages, 22 figures, accepted for publication in the Astronomy & Astrophysics journal, abstract adapted from current version",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "E. Schisano"
+        },
+        {
+          "name": "S. Molinari"
+        },
+        {
+          "name": "A. Coletta"
+        },
+        {
+          "name": "D. Elia"
+        },
+        {
+          "name": "P. Schilke"
+        },
+        {
+          "name": "A. Traficante"
+        },
+        {
+          "name": "Á. Sanchez-Monge"
+        },
+        {
+          "name": "H. Beuther"
+        },
+        {
+          "name": "M. Benedettini"
+        },
+        {
+          "name": "C. Mininni"
+        },
+        {
+          "name": "R. S. Klessen"
+        },
+        {
+          "name": "J. D. Soler"
+        },
+        {
+          "name": "A. Nucara"
+        },
+        {
+          "name": "S. Pezzuto"
+        },
+        {
+          "name": "F. van der Tak"
+        },
+        {
+          "name": "P. Hennebelle"
+        },
+        {
+          "name": "M. T. Beltrán"
+        },
+        {
+          "name": "L. Moscadelli"
+        },
+        {
+          "name": "K. L. J. Rygl"
+        },
+        {
+          "name": "P. Sanhueza"
+        },
+        {
+          "name": "P. M. Koch"
+        },
+        {
+          "name": "D. C. Lis"
+        },
+        {
+          "name": "R. Kuiper"
+        },
+        {
+          "name": "G. A. Fuller"
+        },
+        {
+          "name": "A. Avison"
+        },
+        {
+          "name": "L. Bronfman"
+        },
+        {
+          "name": "U. Lebreuilly"
+        },
+        {
+          "name": "T. Möller"
+        },
+        {
+          "name": "T. Liu"
+        },
+        {
+          "name": "V. -M. Pelkonen"
+        },
+        {
+          "name": "L. Testi"
+        },
+        {
+          "name": "Q. Zhang"
+        },
+        {
+          "name": "T. Zhang"
+        },
+        {
+          "name": "A. Ahmadi"
+        },
+        {
+          "name": "J. Allande"
+        },
+        {
+          "name": "C. Battersby"
+        },
+        {
+          "name": "J. Wallace"
+        },
+        {
+          "name": "C. L. Brogan"
+        },
+        {
+          "name": "S. Clarke"
+        },
+        {
+          "name": "F. De Angelis"
+        },
+        {
+          "name": "F. Fontani"
+        },
+        {
+          "name": "P. T. P. Ho"
+        },
+        {
+          "name": "T. R. Hunter"
+        },
+        {
+          "name": "B. Jones"
+        },
+        {
+          "name": "K. G. Johnston"
+        },
+        {
+          "name": "P. D. Klaassen"
+        },
+        {
+          "name": "S. J. Liu"
+        },
+        {
+          "name": "S. -Y. Liu"
+        },
+        {
+          "name": "Y. Maruccia"
+        },
+        {
+          "name": "A. J. Rigby"
+        },
+        {
+          "name": "Y. -N. Su"
+        },
+        {
+          "name": "Y. Tang"
+        },
+        {
+          "name": "S. Walch"
+        },
+        {
+          "name": "H. Zinnecker"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.05854v1",
+      "title": "A new Gaia census of OB associations within 1 kpc",
+      "updated": "2025-12-05T16:29:55Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.05854v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.05854v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "OB associations are primordial tracers of star formation and Galactic structure. Originally defined about 80 years ago, their historical membership lists have been superseded thanks to the precise astrometry from ESA's \\textit{Gaia}'s satellite. Recent studies have however been mostly focused on individual OB associations or limited by the coverage of spectroscopic surveys. In this paper, we exploit a complete census of $\\sim$25,000 O- and B-type stars within 1 kpc of the Sun to produce a highly-reliable catalogue of 57 OB associations using the HDBSCAN clustering algorithm, increasing the number of known OB associations by a factor of two within this volume. We assess the validity of this catalogue by crossmatching our OB association members with other catalogues of OB associations, star clusters and young stellar groups, confirming the high-confidence of our census of OB associations. We characterize these OB associations physically (total initial stellar mass, number of OB stars, ...) and kinematically (velocity dispersion, linear expansion ages, ...). Nearly three quarters of the OB associations (41 out of 57) exhibit a significant expansion pattern in at least one direction, including 13 in both plane-of-the-sky directions, though differences in expansion velocity suggest anisotropical expansion patterns. We compare the locations of these OB associations with superclouds and features in the local Milky Way such as the Radcliffe Wave and discuss the implications for star formation in the solar neighbourhood.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-05T16:29:55Z",
+      "arxiv:comment": "19 pages, 6 figures, submitted to MNRAS. Comments welcome!",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Alexis L. Quintana"
+        },
+        {
+          "name": "Nicholas J. Wright"
+        },
+        {
+          "name": "Lilly A. Kormann"
+        },
+        {
+          "name": "João Alves"
+        },
+        {
+          "name": "David Katz"
+        },
+        {
+          "name": "Laia Casamiquela"
+        },
+        {
+          "name": "Paola Di Matteo"
+        },
+        {
+          "name": "Misha Haywood"
+        },
+        {
+          "name": "Chervin Laporte"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.05458v1",
+      "title": "Investigating Unusually Extended Main Sequence Turnoff of the Galactic Open Cluster NGC 3532",
+      "updated": "2025-12-05T06:26:10Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.05458v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.05458v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Extended main-sequence turnoffs are observed in the color-magnitude diagrams of some young and intermediate-age star clusters. Here we report the case study of NGC 3532. Among the cluster member candidates identified using the ML-MOC algorithm on Gaia DR3 sources, we found that fast rotators are significantly redder. Stars near the main-sequence turnoff exhibit a multi-modal distribution in the Gaia broadening velocity ($v_{\\rm broad}$). A comparison with relevant literature suggests binaries being typically interspersed with fast rotators, often manifesting as slow to moderate rotators. Additionally, chemically peculiar stars are predominantly located in the bluer regions of the turnoff, with those in the fast-rotator region having large values of Gaia re-normalised unit weight error, indicating plausible companions. Our analysis suggests multiple channels responsible for angular momentum loss to account for the extended turnoff.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-05T06:26:10Z",
+      "arxiv:comment": "Accepted for publication",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Khushboo K Rao",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, Taiwan"
+        },
+        {
+          "name": "Wen-Ping Chen",
+          "arxiv:affiliation": "Institute of Astronomy, National Central University, Taiwan"
+        }
+      ],
+      "score": 5.5
+    },
     {
       "id": "http://arxiv.org/abs/2512.04043v1",
       "title": "The Nature of Nitrogen Enhanced High Redshift Galaxies",
