@@ -1,6 +1,71 @@
 {
-  "fetched_at": "2025-12-08T18:40:04.592Z",
+  "fetched_at": "2025-12-09T02:04:27.131Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.06873v1",
+      "title": "Precise determination of circumstellar disk lifetimes: Disk evolution in a single star-forming region",
+      "updated": "2025-12-07T15:01:39Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.06873v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.06873v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Determining how long circumstellar disks last is key to understanding the timescale of planet formation. Typically, this is done by measuring the fraction of young stars with infrared-excess, a sign of circumstellar material, in stellar clusters of different ages. However, comparing data from different star-forming regions at different distances introduces uncertainties and biases because of the different sample completeness and environment. This study addresses these challenges by analyzing 33 clusters, aged 3 to 21 million years (PARSEC isochrones), within the Scorpius-Centaurus OB association, sampling the stellar IMF from the hydrogen burning limit to about 8 M$_\\odot$. By using $\\mathit{Gaia}$, 2MASS, and WISE data, we identified stars with infrared-excess through color-color diagrams and spectral energy distributions, ensuring a consistent selection of disk-bearing sources. Our results indicate a disk lifetime of $5.8 \\pm 0.3$ Myr, about a factor of two longer than most previous estimates, suggesting that planet formation may have more time than previously thought. We also find that an exponential decay model best describes disk dispersal. These findings emphasize the importance of studying disk evolution in a single star-forming region to reduce uncertainties and refine our understanding of planet formation timelines.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-07T15:01:39Z",
+      "arxiv:comment": "Accepted for publication in A&A, 9 (12) Pages, 3 (9) Figures, 1 (5) Tables, main text (appendix)",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": [
+        {
+          "name": "Fabian A. Polnitzky"
+        },
+        {
+          "name": "Sebastian Ratzenböck"
+        },
+        {
+          "name": "Josefa E. Großschedl"
+        },
+        {
+          "name": "João Alves"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2512.05914v1",
       "title": "ALMAGAL VI. The spatial distribution of dense cores during the evolution of cluster-forming massive clump",
@@ -614,79 +679,6 @@
         }
       ],
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.01606v1",
-      "title": "Substellar Initial Mass Function of Trumpler 14",
-      "updated": "2025-12-01T12:26:43Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.01606v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.01606v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Young, massive stellar clusters offer a prime setting to explore brown dwarf (BD) formation under high densities and intense UV radiation. Trumpler 14 (Tr 14), a 1 Myr-old cluster located at a distance of 2.4 kpc, and particularly rich in O-type stars, is an ideal target for such a study. Our goal is to measure the initial mass function (IMF) in the young massive, high UV flux cluster. We present the deepest study to date of the IMF in Tr 14 based on GeMS/GSAOI imaging. We construct the IMF using both the Besancon Galactic model and an observational control field from VISTA for background correction. Completeness was assessed using artificial-star tests and applied to the IMF derivation. We estimate the IMF down to the 20% completeness limit found at 0.01 MSun. Using the control field-based IMF as our primary result, we find a slope of alpha=0.14+-0.19 for masses between 0.01-0.2 MSun, and alpha=1.72+-0.04 for 0.2-4.5 MSun. The low-mass slope is largely influenced by the incompleteness-affected lowest bin; excluding it brings our results into agreement with those from other young clusters. The resulting median for the star-to-BD ratio in the 0.03-1 MSun mass range is 4.0, with a 95% confidence interval of 2.8-5.8. Our analysis reveals that Tr 14 hosts a relatively flat substellar IMF, but this is strongly influenced by the lowest-mass bin, which may be affected by incompleteness. When that bin is excluded, the IMF becomes consistent with those of other regions. The star-to-BD ratio falls within the usually observed 3-6 range, indicating that brown dwarfs with masses above 0.03 MSun form with similar efficiency across environments. However, the relative lack of objects below this threshold suggests that the presence of an environment with both high stellar density and FUV flux may play a role in shaping the IMF by suppressing the formation of BDs at masses < 0.03 MSun.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-01T12:26:43Z",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.SR"
-        }
-      },
-      "author": [
-        {
-          "name": "Tamara Rom",
-          "arxiv:affiliation": [
-            "University of Split, Faculty of Science, Split, Croatia",
-            "Univ. Grenoble Alpes, CNRS, IPAG, Grenoble, France"
-          ]
-        },
-        {
-          "name": "Estelle Moraux",
-          "arxiv:affiliation": "Univ. Grenoble Alpes, CNRS, IPAG, Grenoble, France"
-        },
-        {
-          "name": "Koraljka Mužić",
-          "arxiv:affiliation": "Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciências, Universidade de Lisboa"
-        },
-        {
-          "name": "Morten Andersen",
-          "arxiv:affiliation": "European Southern Observatory, Garching bei München, Germany"
-        },
-        {
-          "name": "Mischa Schirmer",
-          "arxiv:affiliation": "Max-Planck-Institut für Astronomie, Heidelberg, Germany"
-        },
-        {
-          "name": "Víctor Almendros-Abad",
-          "arxiv:affiliation": "Istituto Nazionale di Astrofisica"
-        }
-      ],
-      "score": 0.5
     }
   ]
 }
