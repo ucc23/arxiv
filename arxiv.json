@@ -1,6 +1,80 @@
 {
-  "fetched_at": "2025-12-09T02:04:27.131Z",
+  "fetched_at": "2025-12-09T06:41:03.075Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.07029v1",
+      "title": "Understanding the Planetary Formation and Evolution in Star Clusters(UPiC)-II: Catalog of planets/candidates in Open Clusters and Moving Groups",
+      "updated": "2025-12-07T22:42:00Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.07029v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.07029v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Detecting planets in open clusters offers a unique opportunity to test planet formation theories in clustered environments. The precisely determined ages of young open clusters make their planets particularly valuable for tracing the early evolution of planetary systems. As the second paper of the UPiC project, this study focuses on stars in stellar groups that host transiting planets or planetary candidates. We categorize these stellar groups into Open Clusters (OCs) and Moving Groups (MGs) based on the Jacobi radius to investigate potential differences in their planetary systems. By cross-matching the latest star cluster catalogs with catalogs of transiting planets and candidates, we have compiled the most extensive catalog to date, containing 106 confirmed planets and 168 candidates within OCs and MGs. We refitted the structural parameters of these stellar groups and identified substructures using the \\texttt{HDBSCAN} and Gaussian Mixture Model (GMM) algorithms. Our analysis reveals the density evolution of both MGs and OCs during their first Gyr. We find that MGs consistently exhibit a significantly higher planet fraction than OCs, regardless of sample selection, particularly for Hot Jupiters. Furthermore, exoplanet radii show a clear dichotomy at early stages: most sub-Jupiters evolve into Neptune-sized planets within 100 Myr, while super-Jupiters undergo only minimal contraction. These results suggest that young sub-Jupiters (\\textless 100 Myr) represent puffy, Neptune-mass planets undergoing vigorous photoevaporation, whereas Jupiter-mass planets can maintain their atmospheres. We also report evidence for the early emergence of the hot-Neptune desert at 100 Myr in both OCs and MGs.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-07T22:42:00Z",
+      "arxiv:comment": "33 pages, 16 figures, 2 tables (4 in Appendix), submitted to APJS. Machine-readable tables will be released upon acceptance for publication",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.EP"
+        }
+      },
+      "author": [
+        {
+          "name": "Yuan-Zhe Dai"
+        },
+        {
+          "name": "Hui-Gen Liu"
+        },
+        {
+          "name": "Xiaoying Pang"
+        },
+        {
+          "name": "Yueyue Jiang"
+        },
+        {
+          "name": "Jerome P. de Leon"
+        },
+        {
+          "name": "Jing Zhong"
+        },
+        {
+          "name": "Ji-Lin Zhou"
+        }
+      ],
+      "score": 13
+    },
     {
       "id": "http://arxiv.org/abs/2512.06873v1",
       "title": "Precise determination of circumstellar disk lifetimes: Disk evolution in a single star-forming region",
