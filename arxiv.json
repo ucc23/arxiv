@@ -1,6 +1,320 @@
 {
-  "fetched_at": "2025-12-09T18:36:01.415Z",
+  "fetched_at": "2025-12-10T02:06:26.135Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.08387v1",
+      "title": "Chemical analysis of the Milky Way's Nuclear Star Cluster: Evidence for a metallicity gradient",
+      "updated": "2025-12-09T09:18:08Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.08387v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.08387v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The Milky Way nuclear star cluster (MWNSC) is located together with its surrounding nuclear stellar disc (MWNSD) in the Galactic centre and they dominate the gravitational potential within the inner 300\\,pc. However, the formation and evolution of both systems and their possible connections are still under debate. We reanalyse the low-resolution KMOS spectra in the MWNSC with the aim to improve the stellar parameters ($\\rm T_{eff}$, $\\rm \\log\\,g$, and $\\rm [M/H])$ for the MWNSC. We use an improved line-list, especially dedicated for cool M giants allowing to improve the stellar parameters and to obtain in addition global $\\rm α$-elements. A comparison with high-resolution IR spectra (IGRINS) gives very satisfactory results pinning down the uncertainties to $\\rm T_{eff} \\simeq 150\\,K$, $\\rm log\\,g \\simeq 0.4\\,dex$, and $\\rm [M/H] \\simeq 0.2\\,dex$. Our $\\rm α$-elements agree within 0.1\\,dex compared to the IGRINS spectra. We obtain a high-quality sample of 1140 M giant stars where we see an important contribution of a metal-poor population ($\\rm \\sim 20\\,\\%$) centered at $\\rm [M/H] \\simeq -0.7\\,dex$ while the most dominant part comes from the metal-rich population with $\\rm [M/H] \\simeq 0.26\\,dex$. We construct a metallicity map and find a metallicity gradient of $\\rm \\sim -0.1 \\pm 0.02 \\,dex/pc$ favouring the inside-out formation scenario for the MWNSC.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-09T09:18:08Z",
+      "arxiv:comment": "Accepted for publication in Astronomy&Astrophysics",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "M. Schultheis"
+        },
+        {
+          "name": "L. Serrano"
+        },
+        {
+          "name": "B. Thorsbro"
+        },
+        {
+          "name": "F. Nogueras-Lara"
+        },
+        {
+          "name": "A. Feldmeier-Krause"
+        },
+        {
+          "name": "G. Nandakumar"
+        },
+        {
+          "name": "K. Fiteni"
+        },
+        {
+          "name": "M. C. Sormani"
+        }
+      ],
+      "score": 4
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.08054v1",
+      "title": "Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z>6 Galaxy, the Strongly Lensed Cosmic Spear at z=6.2",
+      "updated": "2025-12-08T21:27:01Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.08054v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.08054v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "We present spatially resolved analysis of stellar populations in the brightest $z>6$ galaxy known to date (AB mag 23), the strongly lensed MACS0308$-$zD1 (dubbed the ``Cosmic Spear'') at $z_{\\rm spec}=6.2$. New JWST NIRCam imaging and high-resolution NIRSpec IFU spectroscopy span the rest-frame ultraviolet to optical. The NIRCam imaging reveals bright star-forming clumps and a tail consisting of three distinct, extremely compact star clusters that are multiply-imaged by gravitational lensing. The star clusters have effective radii of $R_{\\rm{eff}} \\sim 5$ pc, stellar masses of $M_{*} \\sim 10^{6}-10^{7}\\,M_{\\odot}$, and high stellar mass surface densities of $Σ_{*} > 10^{4}\\,M_{\\odot}~\\rm{pc}^{-2}$. While their stellar populations are very young ($\\sim 5-9$ Myr), their dynamical ages exceed unity, consistent with the clusters being gravitationally bound systems. Placing the star clusters in the size vs.~stellar mass density plane, we find they occupy a region similar to other high-redshift star clusters within galaxies observed recently with JWST, being significantly more massive and denser than local star clusters. Spatially resolved analysis of the brightest clump reveals a compact, intensely star-forming core. The ionizing photon production efficiency ($ξ_{\\rm{ion}}$) is slightly suppressed in this central region, potentially indicating a locally elevated Lyman continuum escape fraction facilitated by feedback-driven channels.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-08T21:27:01Z",
+      "arxiv:comment": "27 pages, 13 figures, submitted to ApJ",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": " Abdurro'uf"
+        },
+        {
+          "name": "Dan Coe"
+        },
+        {
+          "name": "Tom Resseguier"
+        },
+        {
+          "name": "Calla Murphy"
+        },
+        {
+          "name": "Xinfeng Xu"
+        },
+        {
+          "name": "Angela Adamo"
+        },
+        {
+          "name": "Namrata Roy"
+        },
+        {
+          "name": "Alaina Henry"
+        },
+        {
+          "name": "Vasily Kokorev"
+        },
+        {
+          "name": "Gabriel Brammer"
+        },
+        {
+          "name": "Seiji Fujimoto"
+        },
+        {
+          "name": "Henry C. Ferguson"
+        },
+        {
+          "name": "Amanda Pagul"
+        },
+        {
+          "name": "Rogier A. Windhorst"
+        },
+        {
+          "name": "Timothy Heckman"
+        },
+        {
+          "name": "Jose M. Diego"
+        },
+        {
+          "name": "Hollis B. Akins"
+        },
+        {
+          "name": "Joseph Allingham"
+        },
+        {
+          "name": "Ricardo O. Amorín"
+        },
+        {
+          "name": "Danielle A. Berg"
+        },
+        {
+          "name": "Maruša Bradač"
+        },
+        {
+          "name": "Larry D. Bradley"
+        },
+        {
+          "name": "Wenlei Chen"
+        },
+        {
+          "name": "John Chisholm"
+        },
+        {
+          "name": "Christopher J. Conselice"
+        },
+        {
+          "name": "Pratika Dayal"
+        },
+        {
+          "name": "Miroslava Dessauges-Zavadsky"
+        },
+        {
+          "name": "Andreas L. Faisst"
+        },
+        {
+          "name": "Steven L. Finkelstein"
+        },
+        {
+          "name": "Yoshinobu Fudamoto"
+        },
+        {
+          "name": "Lukas J. Furtak"
+        },
+        {
+          "name": "Yuichi Harikane"
+        },
+        {
+          "name": "Tiger Yu-Yang Hsiao"
+        },
+        {
+          "name": "Yolanda Jimenez-Teja"
+        },
+        {
+          "name": "Anton M. Koekemoer"
+        },
+        {
+          "name": "Rebecca L. Larson"
+        },
+        {
+          "name": "Ray A. Lucas"
+        },
+        {
+          "name": "Matteo Messa"
+        },
+        {
+          "name": "Lamiya Mowla"
+        },
+        {
+          "name": "Minami Nakane"
+        },
+        {
+          "name": "Gaël Noirot"
+        },
+        {
+          "name": "Richard Pan"
+        },
+        {
+          "name": "Massimo Pascale"
+        },
+        {
+          "name": "Johan Richard"
+        },
+        {
+          "name": "Massimo Ricotti"
+        },
+        {
+          "name": "Luke Robbins"
+        },
+        {
+          "name": "Daniel Schaerer"
+        },
+        {
+          "name": "Fengwu Sun"
+        },
+        {
+          "name": "Eros Vanzella"
+        },
+        {
+          "name": "Brian Welch"
+        },
+        {
+          "name": "Chris Willott"
+        },
+        {
+          "name": "Adi Zitrin"
+        }
+      ],
+      "score": 8
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.07945v1",
+      "title": "On the missing dust of super-early galaxies: Supernova blowout and gas-dust venting in Blue Monsters",
+      "updated": "2025-12-08T19:00:02Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.07945v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.07945v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "A subset of very young, super-early galaxies at $z\\gtrsim10$, often termed Blue Monsters, shows extremely blue UV continua and faint far-IR emission, which could imply much less dust than expected from standard enrichment scenarios. We seek to understand the possible reason behind the apparent absence of dust in the Blue Monsters. We show how clustered supernovae drive mechanical blowout in stratified, self-gravitating clouds by combining full 3-D hydrodynamical dust-survival yields with 3-D thin-shell scalings, and we predict the retained dust-to-stellar mass ratio at the cluster scale and the corresponding galaxy-integrated value. We take the net dust yield per unit stellar mass from existing 3-D hydrodynamical studies of young stellar clusters with sequential supernovae, and we set the blowout radius as a function of gas concentration using established 3-D thin-shell scalings. Assuming gas-dust coupling across the blowout boundary, the retained dust-to-stellar ratio accounts for the fraction of supernovae that remain confined versus those that vent mechanically. Across typical cluster masses, sizes, and cloud-scale star formation efficiencies, mechanical venting removes a large share of gas and dust. The retained dust-to-stellar mass ratio is lowered by about half to two orders of magnitude relative to the supernova net dust yield. The outcome depends mainly on gas concentration and only weakly on metallicity, so it remains effective at low $Z$. After weighting by a Schechter cluster mass function and a Weibull core-radius distribution, the galaxy-integrated value falls in the same range inferred for spectroscopically confirmed Blue Monsters. Thus, mechanical venting at the cluster scale can account for the very low dust fractions inferred for Blue Monsters without requiring extreme in situ destruction and without fine-tuning.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-08T19:00:02Z",
+      "arxiv:comment": "4 pages, 2 figures. Accepted as a Letter in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Sergio Martínez-González"
+        },
+        {
+          "name": "Santiago Jiménez"
+        },
+        {
+          "name": "Casiana Muñoz-Tunón"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2512.07029v1",
       "title": "Understanding the Planetary Formation and Evolution in Star Clusters(UPiC)-II: Catalog of planets/candidates in Open Clusters and Moving Groups",
@@ -682,77 +996,6 @@
         }
       ],
       "score": 4
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.03129v1",
-      "title": "Taming the Tarantula: How Stellar Wind Feedback Shapes Gas and Dust in 30 Doradus",
-      "updated": "2025-12-02T19:00:00Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.03129v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.03129v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Observations of massive star-forming regions show that classical stellar wind models over-predict the luminosity of the X-ray emitting gas, indicating a significant fraction of wind energy is lost. In this paper, we present a multi-wavelength analysis of the giant HII region 30 Doradus and its central star cluster R136 using 2 Ms of Chandra X-ray Observatory data, combined with James Webb Space Telescope and Hubble Space Telescope imaging and Spitzer spectral-energy distributions, to investigate how the hot gas energy is lost through turbulent mixing, radiative cooling, and physical leakage. We compare the spatial and spectral properties of the hot gas with those of the warm ionized gas and dust. We find no significant correlation between the dust and hot gas temperatures, suggesting they are not directly coupled and that the dust resides in the swept-up shells where it is heated radiatively. H$α$ and X-ray surface brightness profiles show that the X-rays peak interior to the H$α$ shells, demonstrating partial confinement of the hot gas. The fragmented shell structure and bright X-ray interior that declines near the H$α$ shell reflect efficient cooling from turbulent mixing at the hot-cold interface. We compare against recent simulations of stellar-feedback driven bubbles which have broad agreement with the morphology of the X-ray and H$α$ emission, but the simulations produce a dip in the interior X-ray surface brightness and a lack of hard X-rays compared to the observations. These differences may suggest thermal conduction is important as mass-loading of the hot bubble could reproduce the X-ray observables.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-02T19:00:00Z",
-      "arxiv:comment": "17 pages, 12 figures",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.HE"
-        }
-      },
-      "author": [
-        {
-          "name": "Jennifer A. Rodriguez"
-        },
-        {
-          "name": "Laura A. Lopez"
-        },
-        {
-          "name": "Lachlan Lancaster"
-        },
-        {
-          "name": "Anna L. Rosen"
-        },
-        {
-          "name": "Omnarayani Nayak"
-        },
-        {
-          "name": "Sebastian Lopez"
-        },
-        {
-          "name": "Tyler Holland-Ashford"
-        },
-        {
-          "name": "Trinity L. Webb"
-        }
-      ],
-      "score": 1
     }
   ]
 }
