@@ -1,6 +1,222 @@
 {
-  "fetched_at": "2025-12-10T18:38:17.578Z",
+  "fetched_at": "2025-12-11T02:07:58.289Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.09660v1",
+      "title": "Cosmic-Ray Bath in a Past Supernova Gives Birth to Earth-Like Planets",
+      "updated": "2025-12-10T13:56:44Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.09660v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.09660v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        },
+        {
+          "$": {
+            "rel": "related",
+            "href": "https://doi.org/10.1126/sciadv.adx7892",
+            "title": "doi"
+          }
+        }
+      ],
+      "summary": "A key question in astronomy is how ubiquitous Earth-like rocky planets are. The formation of terrestrial planets in our solar system was strongly influenced by the radioactive decay heat of short-lived radionuclides (SLRs), particularly $^{26}$Al, likely delivered from nearby supernovae. However, current models struggle to reproduce the abundance of SLRs inferred from meteorite analysis without destroying the protosolar disk. We propose the `immersion' mechanism, where cosmic-ray nucleosynthesis in a supernova shockwave reproduces estimated SLR abundances at a supernova distance ($\\sim$1 pc), preserving the disk. We estimate that solar-mass stars in star clusters typically experience at least one such supernova within 1 pc, supporting the feasibility of this scenario. This suggests solar-system-like SLR abundances and terrestrial planet formation are more common than previously thought.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-10T13:56:44Z",
+      "arxiv:comment": "23 pages, 5 figures, 1 table, and Supplementary Materials. Author accepted manuscript of an article published in Science Advances",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.EP"
+        }
+      },
+      "arxiv:journal_ref": "Science Advances (2025)",
+      "author": [
+        {
+          "name": "Ryo Sawada"
+        },
+        {
+          "name": "Hiroyuki Kurokawa"
+        },
+        {
+          "name": "Yudai Suwa"
+        },
+        {
+          "name": "Tetsuo Taki"
+        },
+        {
+          "name": "Shiu-Hang Lee"
+        },
+        {
+          "name": "Ataru Tanikawa"
+        }
+      ],
+      "arxiv:doi": "10.1126/sciadv.adx7892",
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.09395v1",
+      "title": "Probing stellar rotation in the Pleiades with gravity-mode pulsators",
+      "updated": "2025-12-10T07:39:28Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.09395v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.09395v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Due to their proximity, the Pleiades are an important benchmark open cluster. Despite its status, asteroseismic analyses of its members are rare. In particular, the gravity-mode (g-mode) pulsators, which allow inference of stellar near-core properties have not been analysed yet. We aim to identify and analyse the population of g-mode pulsators in the Pleiades. Our focus lies on the internal rotation as measured from asteroseismology to obtain a well defined sample of stellar rotation on the early main sequence. Based on full-frame images from the Transiting Exoplanet Survey Satellite (TESS), we constructed light curves for intermediate-mass Pleiades members and searched for g-mode pulsators among them. For pulsators exhibiting period spacing patterns, we determined their near-core rotation rate and buoyancy periods. For all other g-mode pulsators, we estimated the near-core rotation rate based on the dominant mode frequency to obtain a comprehensive rotation rate distribution. Among our 105 target stars, we find 28 g-mode pulsators distributed across the entire upper main sequence, 19 of which are hybrid pulsators, but only three stars exhibit period spacing patterns in the current TESS data. The near-core rotation rates in A- and early F-type members are distributed between 1 and 3 d$^{-1}$ without any clear mass-dependence. This distribution is much broader than the one in the similar open cluster NGC 2516. A comparison of the buoyancy periods shows that the Pleiades and NGC 2516 are of similar asteroseismic age. With the large population of g-mode and hybrid pulsators, the Pleiades constitute a valuable asteroseismic benchmark cluster, reaffirming its important role in stellar astrophysics.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-10T07:39:28Z",
+      "arxiv:comment": "Accepted for publication in A&A, 11+4 pages, 7+3 Figures, 2 Tables",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": [
+        {
+          "name": "D. J. Fritzewski"
+        },
+        {
+          "name": "A. Kemp"
+        },
+        {
+          "name": "G. Li"
+        },
+        {
+          "name": "C. Aerts"
+        }
+      ],
+      "score": 3
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.09387v1",
+      "title": "The Statistical Analysis Of The Galactic Open Clusters' Structure",
+      "updated": "2025-12-10T07:32:49Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.09387v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.09387v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "We present a systematic investigation of 1,481 Galactic open clusters (OCs) through the application of the Limepy dynamical model, from which we derive the fundamental structural parameters of OCs. We conduct the statistical analyses on the structural parameters with clusters' ages and locations within the Milky Way. Our results reveal the higher concentration in the cluster centeris associated with the sharper truncation at the periphery of cluster, which is consistent with previous findings for globular clusters(GCs). We further find the systematic increase of the lower limit of clusters' half-mass radius (Rh) with age. Our results also show that OCs located at larger vertical distances from the Galactic plane systematically display higher central concentrations. Our findings collectively suggest that the structural characteristics of OCs are shaped by both intrinsic evolutionary processes and interactions with the Galactic environment. During the evolution of star clusters, the combined effects of mass segregation and tidal stripping lead to the systematic pattern between central concentration and outer truncation. Clusters of different ages and locations within the Milky Way undergo different evolutionary histories, resulting in correlations between the Rh and age, as well as between central concentration and galactic location.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-10T07:32:49Z",
+      "arxiv:comment": "11 pages, 9 figures",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Jin-Sheng Qiu"
+        },
+        {
+          "name": "Zhen Wan"
+        },
+        {
+          "name": "Xu-Zhi Li"
+        },
+        {
+          "name": "Qing-Feng Zhu"
+        },
+        {
+          "name": "Lu-lu Fan"
+        },
+        {
+          "name": "Xiao-Hui Xu"
+        },
+        {
+          "name": "Jun-Han Zhao"
+        },
+        {
+          "name": "Zhi-Yong Pu"
+        }
+      ],
+      "score": 7
+    },
     {
       "id": "http://arxiv.org/abs/2512.08898v1",
       "title": "Self-lensing of moving gravitational-wave sources can break the microlensing crossing timescale degeneracy",
@@ -829,227 +1045,6 @@
         }
       ],
       "score": 5.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.04043v1",
-      "title": "The Nature of Nitrogen Enhanced High Redshift Galaxies",
-      "updated": "2025-12-03T18:32:17Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.04043v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.04043v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Recent JWST observations have revealed a population of high-redshift galaxies ($z\\gtrsim5$) exhibiting unexpectedly bright ultraviolet (UV) nitrogen emission lines. The strong N III] and N IV] features imply nitrogen-to-oxygen abundance ratios (N/O) as high as $-0.8 \\lesssim \\log(\\mathrm{N/O}) \\lesssim 0.4$ in these low-metallicity galaxies ($12+\\log(\\mathrm{O/H}) \\lesssim 8.2$), compared to the local value of $\\log(\\mathrm{N/O})\\approx-1.5$. If confirmed, this level of nitrogen enrichment challenges existing models of nucleosynthesis and galaxy evolution. However, the presence of active galactic nuclei (AGNs) can affect spectral diagnostics, and previous studies often excluded AGN contamination using photoionization models based on local N/O ratios. In this work, we compare nitrogen-enhanced AGN and H II region models to observed spectra of eight high-redshift galaxies to constrain their nitrogen abundance, excitation source, gas-phase metallicity, ionization parameter, and gas pressure, simultaneously. We find seven galaxies (GHZ9, GS 3073, GN-z9p4, CEERS-1019, GHZ2, GN-z11, and GS-z9-0) are best described by nitrogen-enhanced AGN models, while RXCJ2248-ID is best reproduced by the nitrogen-enhanced H II model. The presence of AGN does not significantly impact ($\\lesssim0.1\\,$dex) the derived N/O ratio. We also find that equivalent width (EW)-based diagrams are the most robust UV diagnostic diagrams to distinguish AGNs and star-forming galaxies for situations where the nitrogen abundance is varying. All nitrogen-enhanced galaxies have moderate to high gas pressure ($7.0\\leq\\log (P/k)\\leq9.8$) and high ionization parameter ($\\log(U)\\gtrsim-2.0$), indicating a dense and compact environment. We suggest that super star clusters containing Wolf-Rayet stars and massive stars are the most likely contributors to the elevated nitrogen abundance in these galaxies.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-03T18:32:17Z",
-      "arxiv:comment": "20 pages, 8 figures, accepted for publication in the ApJ",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Peixin Zhu"
-        },
-        {
-          "name": "James Trussler"
-        },
-        {
-          "name": "Lisa J. Kewley"
-        }
-      ],
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.04143v1",
-      "title": "Pleiades Binary Fraction Revisited",
-      "updated": "2025-12-03T17:41:06Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.04143v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.04143v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "One of the nearest and best studied open clusters, Pleiades is an important cornerstone of stellar astrophysics. Despite its role as reference coeval stellar population, its multiplicity properties remain vaguely determined. The combined use of Gaia DR3 multiband photometry, astrometric parameter RUWE, non-single star solutions along with available ground-based spectroscopic, high angular resolution, and polarimetric observations enable more robust constraints on the binary star population in the cluster. Several conclusions may have broader implications for other stellar populations. Twin binaries, with mass ratio close to $q\\sim 1$, tend to have lower RUWE, increasing their membership selection probability, relative to $q\\sim 0.5$ systems that are disfavored. The frequently observed peak in mass ratio distribution for $q\\sim 1$ binaries may be partially attributed to this bias. Photometrically fitted mass ratio is underestimated for double-lined spectroscopic binaries in agreement with other authors. Differential extinction photometrically mimics stellar binarity. An area of enlarged absorption is traced by increased polarization south of the Merope star and excluded from the analysis to avoid this bias. The fraction of systems with $q>0.6$ companions is measured to be $f=16.4\\%^{+2.6}_{-0.6}$ for $m>0.5~M_\\odot$ stars, which is larger than recent Gaia-based estimates, but compatible with the pre-Gaia values for Pleiades and the field population. Binary fraction shows no steady increase with stellar mass in the 0.5 $-$ 1.2 $M_\\odot$ range, while mass ratio has a bimodal distribution with a minimum near $q\\sim 0.7$.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-03T17:41:06Z",
-      "arxiv:comment": "Accepted for publication in the Astronomical Journal",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.SR"
-        }
-      },
-      "author": {
-        "name": "Dmitry Chulkov"
-      },
-      "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.03999v1",
-      "title": "The Nuclear Star Cluster of M 74: a fossil record of the very early stages of a star-forming galaxy",
-      "updated": "2025-12-03T17:33:30Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.03999v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.03999v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Nuclear star clusters (NSC) are dense and compact stellar systems, of sizes of few parsecs, located at galactic centers. Their properties and formation mechanisms seem to be tightly linked to the evolution of the host galaxy, with potentially different formation channels for late- and early-type galaxies (respectively, LTGs and ETGs). While most observations target ETGs, here we focus on the NSC in M 74 (NGC 628), a relatively massive, gas-rich and star-forming spiral galaxy, part of the PHANGS survey. We analyzed the central arcmin of the PHANGS-MUSE mosaic, in which the NSC is not spatially resolved. We performed a two-dimensional spectro-photometric decomposition of the MUSE cube, employing a modified version of the C2D code, to disentangle the NSC from the host galaxy. Here we used three components: a bulge, a disk and a NSC approximated to the point spread function (PSF), obtaining three data cubes, one for each component. This allowed us to extract separately the age, metallicity and [Mg/Fe] abundance for the NSC and the host galaxy. Our results show a very old and metal-poor NSC, in contrast to the surrounding regions. While similar properties were found in NSCs hosted by galaxies of different masses and/or morphological types from M 74, they are somewhat unexpected for a relatively massive star-forming spiral galaxy. The spatially resolved stellar populations of the host galaxy display much younger (light-weighted) ages and higher metallicities, especially in the central region (${\\sim}500$ pc) surrounding the NSC. This suggests that this NSC formed a long time ago, and evolved passively until today, without any further growth. Our results show that the NSC was not involved in the active recent star-formation history of its host galaxy.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-03T17:33:30Z",
-      "arxiv:comment": "13 pages, 8 figures. Currently under the revision process in A&A after positive referee report",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Francesca Pinna",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias",
-            "Departamento de Astrofísica, Universidad de La Laguna",
-            "Max-Planck-Institut für Astronomie"
-          ]
-        },
-        {
-          "name": "Nils Hoyer",
-          "arxiv:affiliation": "Max-Planck-Institut für Astronomie"
-        },
-        {
-          "name": "Jairo Méndez Abreu",
-          "arxiv:affiliation": [
-            "Departamento de Astrofísica, Universidad de La Laguna",
-            "Instituto de Astrofísica de Canarias"
-          ]
-        },
-        {
-          "name": "Adriana de Lorenzo Cáceres Rodriguez",
-          "arxiv:affiliation": [
-            "Departamento de Astrofísica, Universidad de La Laguna",
-            "Instituto de Astrofísica de Canarias"
-          ]
-        },
-        {
-          "name": "Nadine Neumayer",
-          "arxiv:affiliation": "Max-Planck-Institut für Astronomie"
-        },
-        {
-          "name": "Médéric Boquien",
-          "arxiv:affiliation": "Université Côte d Azur, Observatoire de la Côte d Azur, CNRS"
-        },
-        {
-          "name": "Salvador Cardona Barrero",
-          "arxiv:affiliation": [
-            "Departamento de Astrofísica, Universidad de La Laguna",
-            "Instituto de Astrofísica de Canarias"
-          ]
-        },
-        {
-          "name": "Daniel A. Dale",
-          "arxiv:affiliation": "Department of Physics and Astronomy, University of Wyoming"
-        },
-        {
-          "name": "Ivan S. Gerasimov",
-          "arxiv:affiliation": "Université Côte d Azur, Observatoire de la Côte d Azur, CNRS"
-        },
-        {
-          "name": "Kathryn Grasha",
-          "arxiv:affiliation": "Research School of Astronomy and Astrophysics, Australian National University"
-        },
-        {
-          "name": "Ralf S. Klessen",
-          "arxiv:affiliation": [
-            "Universität Heidelberg, Zentrum für Astronomie, Institut für Theoretische Astrophysik",
-            "Universität Heidelberg, Interdisziplinäres Zentrum für Wissenschaftliches Rechnen"
-          ]
-        },
-        {
-          "name": "Carlos Marrero de la Rosa",
-          "arxiv:affiliation": [
-            "Departamento de Astrofísica, Universidad de La Laguna",
-            "Instituto de Astrofísica de Canarias"
-          ]
-        },
-        {
-          "name": "Miguel Querejeta",
-          "arxiv:affiliation": "Observatorio Astronómico Nacional"
-        },
-        {
-          "name": "Thomas G. Williams",
-          "arxiv:affiliation": "UK ALMA Regional Centre Node, Jodrell Bank Centre for Astrophysics, Department of Physics and Astronomy, The University of Manchester"
-        },
-        {
-          "name": "Smita Mathur",
-          "arxiv:affiliation": [
-            "Astronomy Department, The Ohio State University",
-            "Center for Cosmology and Astro-Particle Physics, The Ohio State University"
-          ]
-        },
-        {
-          "name": "Eva Schinnerer",
-          "arxiv:affiliation": "Max-Planck-Institut für Astronomie"
-        }
-      ],
-      "score": 4
     }
   ]
 }
