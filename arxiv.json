@@ -1,6 +1,123 @@
 {
-  "fetched_at": "2025-12-11T18:39:47.016Z",
+  "fetched_at": "2025-12-12T02:07:51.500Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.10650v1",
+      "title": "OutLines: Modeling Spectral Lines from Winds, Bubbles, and Outflows",
+      "updated": "2025-12-11T13:57:28Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.10650v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.10650v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Common methods for studying the kinematics and geometry of outflowing gas rely on modeling emission and absorption lines in integrated spectra using methods that are not physically motivated, including empirical quantiles or fitting multiple Gaussian or Voigt profiles. Such methods are not always consistent with the interpretation of these features and, as a result, miss key underlying physics and can even lead to inaccurate interpretations of observations. To address this problem, we present the publicly available python code OutLines, which provides astrophysical models of spectral emission and absorption line profiles produced by outflows in a variety of environments. The OutLines code accounts for differences in parameterization of the velocity field and density profile while allowing for different outflow geometries, making OutLines versatile and useful for a wide variety of astrophysical phenomena. We demonstrate the wide applicability of OutLines by using the code to model line profiles in an H II region knot, super star clusters, a starburst galaxy, and an AGN. In each of these contexts, we illustrate how OutLines can illuminate key underlying physics in ways that improve our scientific understanding and address important open questions in astronomy, including the key mechanisms in the baryon cycle, the evolution of H II regions and galaxies, and even Lyman continuum escape. OutLines will be a critical resource as massively multiplexed spectroscopic surveys like WEAVE-LOFAR and 4MOST/WAVES come online, providing the means to probe feedback kinematics with deeper, higher resolution spectroscopy for unprecedented large samples of galaxies.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-11T13:57:28Z",
+      "arxiv:comment": "MNRAS under review",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": {
+        "name": "Sophia R. Flury"
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.10616v1",
+      "title": "Stellar masses and mass ratios for Gaia open cluster members",
+      "updated": "2025-12-11T13:12:35Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.10616v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.10616v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Context: Unresolved binaries in star clusters can bias stellar and cluster mass estimates, making their proper treatment essential for studying cluster dynamics and evolution. Aims: We aim to develop a fast and robust framework for jointly deriving stellar masses and multiplicity statistics of member stars, together with optimal cluster parameters. Methods: We use Gaia DR3 parallaxes together with multi-band photometry of open cluster (OC) members to infer stellar masses and binary mass-ratios through simulation-based inference (SBI), while iteratively fitting the cluster parameters. The validation of our SBI framework on simulated clusters demonstrates that the inclusion of infrared photometry significantly improves the detection of low mass-ratio binaries. The minimum mass-ratio threshold for reliably identifying unresolved binaries depends on cluster properties and the available photometry, but typically lies below $q=0.5$. Results: Applying our method to 42 well-populated OCs, we derive a catalogue of stellar masses and mass-ratios for 27201 stars, achieving typical uncertainties of 0.08 in $q$ and $0.01\\,\\mathrm{M}_\\odot$ in the primary stellar mass. We analyse the archetype OCs M67 and NGC 2360 in detail, including mass segregation and mass-ratio distribution among other characteristics, while deriving multiplicity fractions for the rest of the sample. We find evidence that the high mass-ratio ($q\\geq 0.6$) binary fraction shows a strong correlation with the age and a weak anti-correlation with the cluster metallicity. Furthermore, the variation of the binary fraction with stellar mass in OCs shows strong accordance with the observed dependence for field stars heavier than $\\gtrsim0.6\\,\\mathrm{M}_\\odot$. Conclusions: Our work paves a path for future population-level investigations of multiplicity statistics and precision stellar masses in extended samples of OCs.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-11T13:12:35Z",
+      "arxiv:comment": "13 pages main text, 8 pages appendix and 26 figures. Accepted in A&A. Before archiving at the CDS completes, tables are available at https://drive.google.com/drive/folders/1zkPjxyPd7ZV1OOp9k10l3XfCFZqs9-4N?usp=sharing",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Sagar Malhotra"
+        },
+        {
+          "name": "Alfred Castro-Ginard"
+        },
+        {
+          "name": "Friedrich Anders"
+        },
+        {
+          "name": "Carme Jordi"
+        },
+        {
+          "name": "Judit Donada"
+        },
+        {
+          "name": "Xavier Luri"
+        },
+        {
+          "name": "Lola Balaguer-Núñez"
+        },
+        {
+          "name": "Songmei Qin"
+        },
+        {
+          "name": "Yueyue Jiang"
+        },
+        {
+          "name": "Andrija Župić"
+        }
+      ],
+      "score": 7
+    },
     {
       "id": "http://arxiv.org/abs/2512.09660v1",
       "title": "Cosmic-Ray Bath in a Past Supernova Gives Birth to Earth-Like Planets",
