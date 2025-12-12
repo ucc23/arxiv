@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-12-12T02:07:51.500Z",
+  "fetched_at": "2025-12-12T06:41:47.990Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2512.10650v1",
@@ -378,6 +378,60 @@
       ],
       "published": "2025-12-09T18:38:47Z",
       "arxiv:comment": "9 pages, 6 figures. Comments welcome",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.HE"
+        }
+      },
+      "author": {
+        "name": "Helena Ubach"
+      },
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.08898v2",
+      "title": "Self-lensing of moving gravitational-wave sources can break the microlensing crossing timescale degeneracy",
+      "updated": "2025-12-11T18:13:21Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.08898v2",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.08898v2",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "When a moving gravitational-wave (GW) source travels behind a massive astrophysical object, its signal is gravitationally lensed, showing a waveform distortion similar to a Paczyński curve. We present a first study of the lensing signature of a massive black hole (MBH) on a frequency-dependent GW signal from a moving binary merger. For both light and GW sources in a Keplerian circular orbit around a MBH lens, the self-lensing geometry breaks the microlensing degeneracy in the Einstein radius crossing timescale $t_{\\rm E}$. The duration of the curve ($2 t_{\\rm E}$) becomes independent on the MBH mass $M_{\\rm MBH}$, and provides a direct measure of the distance $d_{\\rm LS}$ to the MBH. However, $M_{\\rm MBH}$ remains unknown. We show that, in GW signals, the redshifted mass $M_{{\\rm MBH},z}$ can additionally be obtained from the interference pattern, by measuring the modulation period $T$, the GW frequency $f$, and $t_{\\rm E}$: $M_{{\\rm MBH},z}\\simeq 2.5\\times 10^6\\,M_\\odot\\,(t_{\\rm E}/[100\\,{\\rm s}])\\,(f\\,T)^{-1}$. If this lensing signature is not considered, it may be confused with other waveform distortions, especially in the modeling of overlapping signals in next generation ground-based GW detectors. The observation of one of these curves and its associated parameters may help (1) constrain the orbital distance $d_{\\rm LS}$ of sources, especially around low-mass MBHs at the center of star clusters and galaxies, (2) additionally estimate the mass $M_{{\\rm MBH},z}$ of these MBHs, and (3) infer the orbital inclination of the binary. Simultaneously obtaining $d_{\\rm LS}$ and $M_{{\\rm MBH},z}$ through self-lensing can help constrain the astrophysical environments where GW signals come from.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.CO",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-09T18:38:47Z",
+      "arxiv:comment": "9 pages, 6 figures. Submitted version. Comments welcome",
       "arxiv:primary_category": {
         "$": {
           "term": "astro-ph.HE"
