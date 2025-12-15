@@ -1,6 +1,255 @@
 {
-  "fetched_at": "2025-12-14T18:35:36.164Z",
+  "fetched_at": "2025-12-15T02:11:40.422Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.11501v1",
+      "title": "Dynamical evolution of massless particles in star clusters with NBODY6++GPU-MASSLESS: II. The long-term evolution of free-floating comets",
+      "updated": "2025-12-12T11:53:10Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.11501v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.11501v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Context. Comets, asteroids, planetesimals, free-floating planets and brown dwarfs, are continuously injected into the intra-cluster environment after expulsion from their host planetary systems or binary system. The dynamics of large populations of such free-floating comets (ffcs) in a star cluster environment is not yet fully understood. Aims. We investigate the dynamical evolution of comet populations in star clusters, and characterize the kinematics and ejection rates of ffc in a star cluster. Moreover, we determine whether a different initial energy distribution affects the mass segregation of the less massive population. Methods. We carry out simulations using the N-body code NBODY6++GPU-MASSLESS (Flammini Dotti et al. 2025), which allows fast integration of star clusters that contain large numbers of massless particles, to characterize the dynamics of populations of low-mass particles with sub-virial and super-virial distributions. Results. Comets do not participate in the mass segregation process, similarly to planet-size objects, regardless of their initial energy distribution. The latter is slightly changing the whole dynamical evolution at the start of the simulation. We only observe an initial relaxation or collapse of the objects for super-virial and sub-virial ratios, respectively. The external regions of the ffcs population tend to be pulled back in the cluster core at the end of the simulation, suggesting the gravitational pull of the stars is pulling them back in the core. This phenomenon occurs at later times if the system in virial equilibrium. Compared to less massive bodies, brown dwarfs experiences more mass segregation the inner regions tend to be more mixed with the stellar population",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-12T11:53:10Z",
+      "arxiv:comment": "15 pages, 31 figures, accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.EP"
+        }
+      },
+      "author": [
+        {
+          "name": "Francesco Flammini Dotti"
+        },
+        {
+          "name": "M. B. N. Kouwenhoven"
+        },
+        {
+          "name": "Kai Wu"
+        },
+        {
+          "name": "Abbas Askar"
+        },
+        {
+          "name": "Peter Berczik"
+        },
+        {
+          "name": "Mirek Giersz"
+        },
+        {
+          "name": "Rainer Spurzem"
+        },
+        {
+          "name": "Ian Dobbs-Dixon"
+        }
+      ],
+      "score": 7
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.11175v1",
+      "title": "The Interplay of Stellar Evolution and Collisions in Galactic Nuclei",
+      "updated": "2025-12-11T23:38:06Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.11175v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.11175v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Nuclear star clusters (NSCs) surrounding supermassive black holes (SMBHs) are among the densest stellar environments in the universe. In these environments, collisions can shape the stellar mass function and produce exotic stellar populations. In this work, we investigate how stellar collisions couple with stellar evolution in the inner parsec of an NSC. We simulate the evolution of a sample of $1000$ $1$ $M_\\odot$ stars embedded in a uniform cluster of dynamically relaxed 0.5 $M_\\odot$ stars. Using COSMIC to evolve stellar properties in time , we track the mass, radius, and evolutionary state of the stars as they collide in the cluster. Our results show that most stars within $0.1$~pc of the SMBH experience a collision while on the main-sequence. However, outside of this distance, stars collide during the red giant phase, when the stellar radius increases dramatically. We find that the most common type of collision -- main-sequence or red giant -- over the lifetime of the cluster depends on the steepness of the stellar cusp, which determines the spatial distribution of the stars in the cluster. These results show that stellar evolution plays a fundamental role in shaping the collisional history of stars in nuclear star clusters. Lastly, we consider whether the closest known stars to the Milky Way's SMBH have experienced a collision. We estimate that several of the S-stars have a high probability of experiencing a collision over their main-sequence lifetime, perhaps with implications for their observed youth and properties.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-11T23:38:06Z",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Jaden S. Sidhu"
+        },
+        {
+          "name": "Sanaea C. Rose"
+        },
+        {
+          "name": "Frederic A. Rasio"
+        }
+      ],
+      "score": 2
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.11046v1",
+      "title": "Dynamical constraints on the S2 (S0-2) star possible companions",
+      "updated": "2025-12-11T19:05:07Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.11046v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.11046v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The center of the Galaxy harbors a supermassive black hole, Sgr\\,A*, which is surrounded by a massive star cluster known as the S-cluster. The most extensively studied star in this cluster is the B-type main-sequence S2 star (also known as S0-2). These types of stars are commonly found in binary systems in the Galactic field, but observations do not seem to detect a companion to S2. This absence may be attributed to observational biases or to a dynamically hostile environment caused by phenomena such as tidal disruption or mergers. Using a $N$-body code with first-order post-Newtonian corrections, we investigate whether S2 can host a stellar or planetary companion. We perform $10^{5}$ simulations adopting uniform distributions for the orbital elements of the companion. Our results show that companions may exist for orbital periods shorter than 100~days, eccentricities below 0.8, and across the full range of mutual inclinations. The number of surviving companions increases with shorter orbital periods, lower eccentricities, and nearly coplanar orbits. We also find that the disruption mechanisms include mergers driven by Lidov-Kozai cycles and breakups that occur when the companion surpasses the Hill radius of its orbit. Finally, we find that the presence of a companion would alter S2's astrometric signal by no more than $ 5\\,μ{\\rm as}$. Current radial-velocity detection limits constrain viable stellar binary configurations to approximately 4.4\\% of the simulated cases. Including astrometric limits reduces to 4.3\\%. Imposing an additional constraint that any companion must have a mass $\\lesssim 2\\,M_{\\odot}$ (otherwise it would be visible) narrows the fraction of undetectable stellar binaries to just 3.0\\%.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.EP",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-11T19:05:07Z",
+      "arxiv:comment": "10 pages; Accepted for publication in A&A",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Rodrigo P. Silva"
+        },
+        {
+          "name": "Alexandre C. M. Correia"
+        },
+        {
+          "name": "Tjarda C. N. Boekholt"
+        },
+        {
+          "name": "Paulo J. V. Garcia"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.11038v1",
+      "title": "Intermediate Mass Black Hole Binary Evolution in Nuclear Star Clusters: the effect of the stellar mass black hole population",
+      "updated": "2025-12-11T19:00:16Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.11038v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.11038v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "In this study, we investigate the dynamics of Intermediate-Mass Black Hole (IMBH) binaries within Nuclear Star Clusters (NSCs) that contain a population of stellar-mass black holes (BHs). We examine how these stellar and BH populations influence the dynamics of the IMBH binary and, in turn, how the evolving IMBH binary affects the surrounding stellar and BH populations. We conduct high-resolution $N$-body simulations of NSCs constructed based on observational parameters from two local dwarf galaxies: NGC205 and NGC404. For the first time, we achieve a star particle mass resolution of $1\\rm\\;M_{\\odot}$ and a BH mass resolution of $10\\rm\\;M_{\\odot}$. This level of resolution is crucial for accurately modeling the collisional dynamics of these dense systems. Including stellar-mass BHs within the stellar population significantly influences the IMBH binary dynamics, nearly doubling the sinking rate and halving the merger time. During the initial phase of the inspiral, the IMBH binary disrupts both the stellar and BH cusps. However, the BH cusp quickly regains its steep slope due to its shorter relaxation time and continues to dominate the evolution of the IMBH binary, despite being much less massive compared to the stellar component. We uncover an interesting mechanism in which BHs first efficiently extract energy from the IMBH binary and then transfer this energy to the surrounding stars, allowing the BHs to spiral back toward the center of the system and restart the process. Our results imply that, although stellar mass BHs are a minor component of a stellar population, they can significantly facilitate IMBH growth within NSCs via mergers. We also notice that these dense systems can potentially boost Intermediate Mass Ratio Inspirals (IMRIs) predominantly on radial orbits.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-11T19:00:16Z",
+      "arxiv:comment": "Accepted for publication in Astronomy & Astrophysics",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Fazeel Mahmood Khan"
+        },
+        {
+          "name": "Peter Berczik"
+        },
+        {
+          "name": "Margarita Sobolenko"
+        },
+        {
+          "name": "Andreas Just"
+        },
+        {
+          "name": "Rainer Spurzem"
+        },
+        {
+          "name": "Kelly Holley-Bockelmann"
+        },
+        {
+          "name": "Andrea Valerio Macciò"
+        }
+      ],
+      "score": 4
+    },
     {
       "id": "http://arxiv.org/abs/2512.10650v1",
       "title": "OutLines: Modeling Spectral Lines from Winds, Bubbles, and Outflows",
@@ -752,145 +1001,6 @@
         },
         {
           "name": "Casiana Muñoz-Tunón"
-        }
-      ],
-      "score": 0.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.07029v1",
-      "title": "Understanding the Planetary Formation and Evolution in Star Clusters(UPiC)-II: Catalog of planets/candidates in Open Clusters and Moving Groups",
-      "updated": "2025-12-07T22:42:00Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.07029v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.07029v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Detecting planets in open clusters offers a unique opportunity to test planet formation theories in clustered environments. The precisely determined ages of young open clusters make their planets particularly valuable for tracing the early evolution of planetary systems. As the second paper of the UPiC project, this study focuses on stars in stellar groups that host transiting planets or planetary candidates. We categorize these stellar groups into Open Clusters (OCs) and Moving Groups (MGs) based on the Jacobi radius to investigate potential differences in their planetary systems. By cross-matching the latest star cluster catalogs with catalogs of transiting planets and candidates, we have compiled the most extensive catalog to date, containing 106 confirmed planets and 168 candidates within OCs and MGs. We refitted the structural parameters of these stellar groups and identified substructures using the \\texttt{HDBSCAN} and Gaussian Mixture Model (GMM) algorithms. Our analysis reveals the density evolution of both MGs and OCs during their first Gyr. We find that MGs consistently exhibit a significantly higher planet fraction than OCs, regardless of sample selection, particularly for Hot Jupiters. Furthermore, exoplanet radii show a clear dichotomy at early stages: most sub-Jupiters evolve into Neptune-sized planets within 100 Myr, while super-Jupiters undergo only minimal contraction. These results suggest that young sub-Jupiters (\\textless 100 Myr) represent puffy, Neptune-mass planets undergoing vigorous photoevaporation, whereas Jupiter-mass planets can maintain their atmospheres. We also report evidence for the early emergence of the hot-Neptune desert at 100 Myr in both OCs and MGs.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.EP",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-07T22:42:00Z",
-      "arxiv:comment": "33 pages, 16 figures, 2 tables (4 in Appendix), submitted to APJS. Machine-readable tables will be released upon acceptance for publication",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.EP"
-        }
-      },
-      "author": [
-        {
-          "name": "Yuan-Zhe Dai"
-        },
-        {
-          "name": "Hui-Gen Liu"
-        },
-        {
-          "name": "Xiaoying Pang"
-        },
-        {
-          "name": "Yueyue Jiang"
-        },
-        {
-          "name": "Jerome P. de Leon"
-        },
-        {
-          "name": "Jing Zhong"
-        },
-        {
-          "name": "Ji-Lin Zhou"
-        }
-      ],
-      "score": 13
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.06873v1",
-      "title": "Precise determination of circumstellar disk lifetimes: Disk evolution in a single star-forming region",
-      "updated": "2025-12-07T15:01:39Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.06873v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.06873v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Determining how long circumstellar disks last is key to understanding the timescale of planet formation. Typically, this is done by measuring the fraction of young stars with infrared-excess, a sign of circumstellar material, in stellar clusters of different ages. However, comparing data from different star-forming regions at different distances introduces uncertainties and biases because of the different sample completeness and environment. This study addresses these challenges by analyzing 33 clusters, aged 3 to 21 million years (PARSEC isochrones), within the Scorpius-Centaurus OB association, sampling the stellar IMF from the hydrogen burning limit to about 8 M$_\\odot$. By using $\\mathit{Gaia}$, 2MASS, and WISE data, we identified stars with infrared-excess through color-color diagrams and spectral energy distributions, ensuring a consistent selection of disk-bearing sources. Our results indicate a disk lifetime of $5.8 \\pm 0.3$ Myr, about a factor of two longer than most previous estimates, suggesting that planet formation may have more time than previously thought. We also find that an exponential decay model best describes disk dispersal. These findings emphasize the importance of studying disk evolution in a single star-forming region to reduce uncertainties and refine our understanding of planet formation timelines.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.EP",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-07T15:01:39Z",
-      "arxiv:comment": "Accepted for publication in A&A, 9 (12) Pages, 3 (9) Figures, 1 (5) Tables, main text (appendix)",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.SR"
-        }
-      },
-      "author": [
-        {
-          "name": "Fabian A. Polnitzky"
-        },
-        {
-          "name": "Sebastian Ratzenböck"
-        },
-        {
-          "name": "Josefa E. Großschedl"
-        },
-        {
-          "name": "João Alves"
         }
       ],
       "score": 0.5
