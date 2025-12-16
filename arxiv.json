@@ -1,6 +1,68 @@
 {
-  "fetched_at": "2025-12-16T02:08:34.038Z",
+  "fetched_at": "2025-12-16T06:42:34.798Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.13486v1",
+      "title": "Resolving Galaxy Nuclei and Compact Stellar Systems as Engines of Galaxy Evolution",
+      "updated": "2025-12-15T16:20:14Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.13486v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.13486v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "In this white paper we focus on compact stellar systems, star clusters, nuclear star clusters (NSCs), stripped nuclei, and ultra-compact dwarfs (UCDs), as engines of galaxy evolution and black-hole growth. We show how the same capability also enables transformative science in active galactic nucleus (AGN) fuelling, stellar surfaces and interacting binaries, and exoplanet atmospheres. These science drivers are naturally aligned with a next-generation kilometre-scale optical/IR interferometer for the 2040s that reuses existing ESO infrastructure while adding diffraction-limited integral-field spectroscopy (IFS).",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-15T16:20:14Z",
+      "arxiv:comment": "ESO Expanding Horizons Initiative",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.IM"
+        }
+      },
+      "author": [
+        {
+          "name": "Julia Lamprecht"
+        },
+        {
+          "name": "Izzy L. Garland"
+        },
+        {
+          "name": "Daniel Jadlovsky"
+        },
+        {
+          "name": "Jiri Zak"
+        },
+        {
+          "name": "Tereza Jeřábková"
+        }
+      ],
+      "score": 2
+    },
     {
       "id": "http://arxiv.org/abs/2512.11958v1",
       "title": "Modeling the Milky Way Circumnuclear Disk: Rosettes and Rings",
