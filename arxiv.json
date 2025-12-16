@@ -1,6 +1,54 @@
 {
-  "fetched_at": "2025-12-15T18:40:42.962Z",
+  "fetched_at": "2025-12-16T02:08:34.038Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.11958v1",
+      "title": "Modeling the Milky Way Circumnuclear Disk: Rosettes and Rings",
+      "updated": "2025-12-12T19:00:01Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.11958v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.11958v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The Milky Way Galactic Center hosts a $\\sim4\\times10^{6}\\,M_\\odot$ supermassive black hole (SMBH), Sgr A*. The dominant structures in its immediate vicinity are the nuclear star cluster (NSC), whose enclosed mass at 2 pc is approximately half that of the SMBH, and the circumnuclear disk/ring (CND), which extends between $\\sim0.5$ pc and $\\sim3$ pc from Sgr A* and is the largest reservoir of molecular gas in this region. Existing models of the CND commonly use one circular orbit to describe the motion of its gas. Here, we explore a much broader range of models. In the combined potential of Sgr A* and the NSC, we consider non-Keplerian rosette orbits as well as a circular disk, which is formed using a finely-spaced set of concentric rings. For both systems, we test various inner/outer radii, inclinations, and position angles, sampling a total of $\\sim3.3 \\times 10^{5}$ models. We then conduct mock observations of all models to construct velocity maps, which we compare with HCN ($J=1{-}0$) observations of the CND. We find that the best-fitting model is a circular disk with inner and outer radii of 1.0 pc and 2.9 pc, an inclination of $i=60^{\\circ}$, and a position angle of $\\text{PA} = 35^{\\circ}.$",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-12T19:00:01Z",
+      "arxiv:comment": "10 pages, 3 figures, 2 tables, 1 appendix",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Asad Ukani"
+        },
+        {
+          "name": "Lena Murchikova"
+        },
+        {
+          "name": "Mark D. Gorski"
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2512.11501v1",
       "title": "Dynamical evolution of massless particles in star clusters with NBODY6++GPU-MASSLESS: II. The long-term evolution of free-floating comets",
@@ -761,249 +809,6 @@
         }
       ],
       "score": 4
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.08054v1",
-      "title": "Spatially Resolved Physical Properties of Young Star Clusters and Star-forming Clumps in the Brightest z>6 Galaxy, the Strongly Lensed Cosmic Spear at z=6.2",
-      "updated": "2025-12-08T21:27:01Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.08054v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.08054v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "We present spatially resolved analysis of stellar populations in the brightest $z>6$ galaxy known to date (AB mag 23), the strongly lensed MACS0308$-$zD1 (dubbed the ``Cosmic Spear'') at $z_{\\rm spec}=6.2$. New JWST NIRCam imaging and high-resolution NIRSpec IFU spectroscopy span the rest-frame ultraviolet to optical. The NIRCam imaging reveals bright star-forming clumps and a tail consisting of three distinct, extremely compact star clusters that are multiply-imaged by gravitational lensing. The star clusters have effective radii of $R_{\\rm{eff}} \\sim 5$ pc, stellar masses of $M_{*} \\sim 10^{6}-10^{7}\\,M_{\\odot}$, and high stellar mass surface densities of $Σ_{*} > 10^{4}\\,M_{\\odot}~\\rm{pc}^{-2}$. While their stellar populations are very young ($\\sim 5-9$ Myr), their dynamical ages exceed unity, consistent with the clusters being gravitationally bound systems. Placing the star clusters in the size vs.~stellar mass density plane, we find they occupy a region similar to other high-redshift star clusters within galaxies observed recently with JWST, being significantly more massive and denser than local star clusters. Spatially resolved analysis of the brightest clump reveals a compact, intensely star-forming core. The ionizing photon production efficiency ($ξ_{\\rm{ion}}$) is slightly suppressed in this central region, potentially indicating a locally elevated Lyman continuum escape fraction facilitated by feedback-driven channels.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-08T21:27:01Z",
-      "arxiv:comment": "27 pages, 13 figures, submitted to ApJ",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": " Abdurro'uf"
-        },
-        {
-          "name": "Dan Coe"
-        },
-        {
-          "name": "Tom Resseguier"
-        },
-        {
-          "name": "Calla Murphy"
-        },
-        {
-          "name": "Xinfeng Xu"
-        },
-        {
-          "name": "Angela Adamo"
-        },
-        {
-          "name": "Namrata Roy"
-        },
-        {
-          "name": "Alaina Henry"
-        },
-        {
-          "name": "Vasily Kokorev"
-        },
-        {
-          "name": "Gabriel Brammer"
-        },
-        {
-          "name": "Seiji Fujimoto"
-        },
-        {
-          "name": "Henry C. Ferguson"
-        },
-        {
-          "name": "Amanda Pagul"
-        },
-        {
-          "name": "Rogier A. Windhorst"
-        },
-        {
-          "name": "Timothy Heckman"
-        },
-        {
-          "name": "Jose M. Diego"
-        },
-        {
-          "name": "Hollis B. Akins"
-        },
-        {
-          "name": "Joseph Allingham"
-        },
-        {
-          "name": "Ricardo O. Amorín"
-        },
-        {
-          "name": "Danielle A. Berg"
-        },
-        {
-          "name": "Maruša Bradač"
-        },
-        {
-          "name": "Larry D. Bradley"
-        },
-        {
-          "name": "Wenlei Chen"
-        },
-        {
-          "name": "John Chisholm"
-        },
-        {
-          "name": "Christopher J. Conselice"
-        },
-        {
-          "name": "Pratika Dayal"
-        },
-        {
-          "name": "Miroslava Dessauges-Zavadsky"
-        },
-        {
-          "name": "Andreas L. Faisst"
-        },
-        {
-          "name": "Steven L. Finkelstein"
-        },
-        {
-          "name": "Yoshinobu Fudamoto"
-        },
-        {
-          "name": "Lukas J. Furtak"
-        },
-        {
-          "name": "Yuichi Harikane"
-        },
-        {
-          "name": "Tiger Yu-Yang Hsiao"
-        },
-        {
-          "name": "Yolanda Jimenez-Teja"
-        },
-        {
-          "name": "Anton M. Koekemoer"
-        },
-        {
-          "name": "Rebecca L. Larson"
-        },
-        {
-          "name": "Ray A. Lucas"
-        },
-        {
-          "name": "Matteo Messa"
-        },
-        {
-          "name": "Lamiya Mowla"
-        },
-        {
-          "name": "Minami Nakane"
-        },
-        {
-          "name": "Gaël Noirot"
-        },
-        {
-          "name": "Richard Pan"
-        },
-        {
-          "name": "Massimo Pascale"
-        },
-        {
-          "name": "Johan Richard"
-        },
-        {
-          "name": "Massimo Ricotti"
-        },
-        {
-          "name": "Luke Robbins"
-        },
-        {
-          "name": "Daniel Schaerer"
-        },
-        {
-          "name": "Fengwu Sun"
-        },
-        {
-          "name": "Eros Vanzella"
-        },
-        {
-          "name": "Brian Welch"
-        },
-        {
-          "name": "Chris Willott"
-        },
-        {
-          "name": "Adi Zitrin"
-        }
-      ],
-      "score": 8
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.07945v1",
-      "title": "On the missing dust of super-early galaxies: Supernova blowout and gas-dust venting in Blue Monsters",
-      "updated": "2025-12-08T19:00:02Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.07945v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.07945v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "A subset of very young, super-early galaxies at $z\\gtrsim10$, often termed Blue Monsters, shows extremely blue UV continua and faint far-IR emission, which could imply much less dust than expected from standard enrichment scenarios. We seek to understand the possible reason behind the apparent absence of dust in the Blue Monsters. We show how clustered supernovae drive mechanical blowout in stratified, self-gravitating clouds by combining full 3-D hydrodynamical dust-survival yields with 3-D thin-shell scalings, and we predict the retained dust-to-stellar mass ratio at the cluster scale and the corresponding galaxy-integrated value. We take the net dust yield per unit stellar mass from existing 3-D hydrodynamical studies of young stellar clusters with sequential supernovae, and we set the blowout radius as a function of gas concentration using established 3-D thin-shell scalings. Assuming gas-dust coupling across the blowout boundary, the retained dust-to-stellar ratio accounts for the fraction of supernovae that remain confined versus those that vent mechanically. Across typical cluster masses, sizes, and cloud-scale star formation efficiencies, mechanical venting removes a large share of gas and dust. The retained dust-to-stellar mass ratio is lowered by about half to two orders of magnitude relative to the supernova net dust yield. The outcome depends mainly on gas concentration and only weakly on metallicity, so it remains effective at low $Z$. After weighting by a Schechter cluster mass function and a Weibull core-radius distribution, the galaxy-integrated value falls in the same range inferred for spectroscopically confirmed Blue Monsters. Thus, mechanical venting at the cluster scale can account for the very low dust fractions inferred for Blue Monsters without requiring extreme in situ destruction and without fine-tuning.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-08T19:00:02Z",
-      "arxiv:comment": "4 pages, 2 figures. Accepted as a Letter in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Sergio Martínez-González"
-        },
-        {
-          "name": "Santiago Jiménez"
-        },
-        {
-          "name": "Casiana Muñoz-Tunón"
-        }
-      ],
-      "score": 0.5
     }
   ]
 }
