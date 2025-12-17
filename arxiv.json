@@ -1,6 +1,51 @@
 {
-  "fetched_at": "2025-12-16T18:40:50.292Z",
+  "fetched_at": "2025-12-17T02:03:18.049Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.13823v1",
+      "title": "Searching for Intermediate-Mass Black Holes in Milky Way satellites",
+      "updated": "2025-12-15T19:06:28Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.13823v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.13823v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Intermediate-mass black holes (IMBHs), with masses between roughly $10^2\\,M_\\odot$ and $10^5\\,M_\\odot$, represent a largely uncharted component of the black-hole (BH) population. They are theoretically predicted to form in several early-Universe pathways, including the remnants of massive Population III stars, the runaway collapse of dense stellar clusters, and the direct collapse of metal-poor gas. Establishing whether IMBHs are present in dwarf galaxy satellites of the Milky Way (MW), and with what occupation fraction - i.e. the fraction of galaxies with a certain stellar mass that host a central BH - provides one of the most incisive tests of BH seed formation models. Despite their importance, present dynamical constraints on IMBHs remain weak. Dynamical IMBH masses or upper limits are available for very few such systems, with secure detections in less than ten cases. A next-generation wide-field spectroscopic facility, capable of combining deep multiplexed stellar spectroscopy with high-resolution integral-field observations of galaxy centers, would open access to IMBH masses in the $\\leq10\\,M_\\odot$ regime. Such an advance would make possible - for the first time - a robust measurement of the IMBH occupation fraction in dwarf galaxies. A key scientific requirement for the coming decades is to establish the observational and instrumental capabilities needed to detect or tightly constrain IMBHs in nearby dwarf galaxies, particularly in the $\\simeq10^3-10^4 \\,M_\\odot$ mass range, and thereby enable a measurement of their occupation fraction. Such a measurement is fundamental for distinguishing between competing scenarios for the formation of BH seeds in the early Universe.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-15T19:06:28Z",
+      "arxiv:comment": "Submitted as ESO white paper",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "R. Pascale"
+        },
+        {
+          "name": "G. Battaglia"
+        }
+      ],
+      "score": 0.5
+    },
     {
       "id": "http://arxiv.org/abs/2512.13486v1",
       "title": "Resolving Galaxy Nuclei and Compact Stellar Systems as Engines of Galaxy Evolution",
@@ -692,185 +737,6 @@
         }
       ],
       "score": 7
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.08898v1",
-      "title": "Self-lensing of moving gravitational-wave sources can break the microlensing crossing timescale degeneracy",
-      "updated": "2025-12-09T18:38:47Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.08898v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.08898v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "When a moving gravitational-wave (GW) source travels behind a massive astrophysical object, its signal is gravitationally lensed, showing a waveform distortion similar to a Paczyński curve. We present a first study of the lensing signature of a massive black hole (MBH) on a frequency-dependent GW signal from a moving binary merger. For both light and GW sources in a Keplerian circular orbit around a MBH lens, the self-lensing geometry breaks the microlensing degeneracy in the Einstein radius crossing timescale $t_{\\rm E}$. The duration of the curve ($2 t_{\\rm E}$) becomes independent on the MBH mass $M_{\\rm MBH}$, and provides a direct measure of the distance $d_{\\rm LS}$ to the MBH. However, $M_{\\rm MBH}$ remains unknown. We show that, in GW signals, the redshifted mass $M_{{\\rm MBH},z}$ can additionally be obtained from the interference pattern, by measuring the modulation period $T$, the GW frequency $f$, and $t_{\\rm E}$: $M_{{\\rm MBH},z}\\simeq 2.5\\times 10^6\\,M_\\odot\\,(t_{\\rm E}/[100\\,{\\rm s}])\\,(f\\,T)^{-1}$. If this lensing signature is not considered, it may be confused with other waveform distortions, especially in the modeling of overlapping signals in next generation ground-based GW detectors. The observation of one of these curves and its associated parameters may help (1) constrain the orbital distance $d_{\\rm LS}$ of sources, especially around low mass MBHs at the centers of star clusters and galaxies, (2) additionally estimate the mass $M_{{\\rm MBH},z}$ of these MBHs, and (3) infer the orbital inclination of the binary. Simultaneously obtaining $d_{\\rm LS}$ and $M_{{\\rm MBH},z}$ through self-lensing can help constrain the astrophysical environments where GW signals come from.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.CO",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-09T18:38:47Z",
-      "arxiv:comment": "9 pages, 6 figures. Comments welcome",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.HE"
-        }
-      },
-      "author": {
-        "name": "Helena Ubach"
-      },
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.08898v2",
-      "title": "Self-lensing of moving gravitational-wave sources can break the microlensing crossing timescale degeneracy",
-      "updated": "2025-12-11T18:13:21Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.08898v2",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.08898v2",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "When a moving gravitational-wave (GW) source travels behind a massive astrophysical object, its signal is gravitationally lensed, showing a waveform distortion similar to a Paczyński curve. We present a first study of the lensing signature of a massive black hole (MBH) on a frequency-dependent GW signal from a moving binary merger. For both light and GW sources in a Keplerian circular orbit around a MBH lens, the self-lensing geometry breaks the microlensing degeneracy in the Einstein radius crossing timescale $t_{\\rm E}$. The duration of the curve ($2 t_{\\rm E}$) becomes independent on the MBH mass $M_{\\rm MBH}$, and provides a direct measure of the distance $d_{\\rm LS}$ to the MBH. However, $M_{\\rm MBH}$ remains unknown. We show that, in GW signals, the redshifted mass $M_{{\\rm MBH},z}$ can additionally be obtained from the interference pattern, by measuring the modulation period $T$, the GW frequency $f$, and $t_{\\rm E}$: $M_{{\\rm MBH},z}\\simeq 2.5\\times 10^6\\,M_\\odot\\,(t_{\\rm E}/[100\\,{\\rm s}])\\,(f\\,T)^{-1}$. If this lensing signature is not considered, it may be confused with other waveform distortions, especially in the modeling of overlapping signals in next generation ground-based GW detectors. The observation of one of these curves and its associated parameters may help (1) constrain the orbital distance $d_{\\rm LS}$ of sources, especially around low-mass MBHs at the center of star clusters and galaxies, (2) additionally estimate the mass $M_{{\\rm MBH},z}$ of these MBHs, and (3) infer the orbital inclination of the binary. Simultaneously obtaining $d_{\\rm LS}$ and $M_{{\\rm MBH},z}$ through self-lensing can help constrain the astrophysical environments where GW signals come from.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.HE",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.CO",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-09T18:38:47Z",
-      "arxiv:comment": "9 pages, 6 figures. Submitted version. Comments welcome",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.HE"
-        }
-      },
-      "author": {
-        "name": "Helena Ubach"
-      },
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.08387v1",
-      "title": "Chemical analysis of the Milky Way's Nuclear Star Cluster: Evidence for a metallicity gradient",
-      "updated": "2025-12-09T09:18:08Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.08387v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.08387v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "The Milky Way nuclear star cluster (MWNSC) is located together with its surrounding nuclear stellar disc (MWNSD) in the Galactic centre and they dominate the gravitational potential within the inner 300\\,pc. However, the formation and evolution of both systems and their possible connections are still under debate. We reanalyse the low-resolution KMOS spectra in the MWNSC with the aim to improve the stellar parameters ($\\rm T_{eff}$, $\\rm \\log\\,g$, and $\\rm [M/H])$ for the MWNSC. We use an improved line-list, especially dedicated for cool M giants allowing to improve the stellar parameters and to obtain in addition global $\\rm α$-elements. A comparison with high-resolution IR spectra (IGRINS) gives very satisfactory results pinning down the uncertainties to $\\rm T_{eff} \\simeq 150\\,K$, $\\rm log\\,g \\simeq 0.4\\,dex$, and $\\rm [M/H] \\simeq 0.2\\,dex$. Our $\\rm α$-elements agree within 0.1\\,dex compared to the IGRINS spectra. We obtain a high-quality sample of 1140 M giant stars where we see an important contribution of a metal-poor population ($\\rm \\sim 20\\,\\%$) centered at $\\rm [M/H] \\simeq -0.7\\,dex$ while the most dominant part comes from the metal-rich population with $\\rm [M/H] \\simeq 0.26\\,dex$. We construct a metallicity map and find a metallicity gradient of $\\rm \\sim -0.1 \\pm 0.02 \\,dex/pc$ favouring the inside-out formation scenario for the MWNSC.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-09T09:18:08Z",
-      "arxiv:comment": "Accepted for publication in Astronomy&Astrophysics",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "M. Schultheis"
-        },
-        {
-          "name": "L. Serrano"
-        },
-        {
-          "name": "B. Thorsbro"
-        },
-        {
-          "name": "F. Nogueras-Lara"
-        },
-        {
-          "name": "A. Feldmeier-Krause"
-        },
-        {
-          "name": "G. Nandakumar"
-        },
-        {
-          "name": "K. Fiteni"
-        },
-        {
-          "name": "M. C. Sormani"
-        }
-      ],
-      "score": 4
     }
   ]
 }
