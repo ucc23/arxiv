@@ -1,6 +1,209 @@
 {
-  "fetched_at": "2025-12-18T18:40:11.040Z",
+  "fetched_at": "2025-12-19T02:07:37.662Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.16708v1",
+      "title": "On the Origin of Kinematic Structure in the Young Association Serpens OB2",
+      "updated": "2025-12-18T16:12:37Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.16708v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.16708v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The Serpens OB2 association (l ~ 18.5 deg, b ~ 1.9 deg, d = 1950 +/- 30 pc) is a large star-forming complex ~65 pc above the Galactic midplane, with a clumpy, elongated structure extending ~50 pc parallel to the plane. We analyse a sample of probable association members, including OB stars and low-to-intermediate-mass young stellar objects (YSOs) from the SPICY catalogue. While both populations are found throughout the association, the OB stars lie preferentially on the side nearest the Galactic plane, while the YSOs are generally younger and more strongly clustered around molecular-cloud clumps detected in 13CO MWISP data. Using Gaia DR3 proper motions to probe the association's internal kinematics, we find aligned stellar velocities on length scales <2 pc, two-point velocity statistics that show increasing velocity differences and predominantly divergent motions at larger separations, and distinct velocities for star clusters within the association. Finally, the association exhibits gradual, but statistically significant global expansion perpendicular to the Galactic plane, with a spatial gradient of 0.10 +/- 0.02 km/s/pc. The expansion of the H II region Sh 2-54, powered by the association's OB stars, may be accelerating the star-forming cloud away from the plane given the system's geometry, plausibly inducing the vertical stellar velocity gradient. The clumpy stellar distribution, correlated velocities on small scales, and increasingly divergent motions on larger scales are consistent with an initial velocity field inherited from a turbulent molecular cloud modified by stellar feedback. Ser OB2 demonstrates that the multi-scale expansion of an OB association can begin even while star formation is still ongoing throughout the complex.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-18T16:12:37Z",
+      "arxiv:comment": "Submitted to MNRAS; comments are welcome",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Michael A. Kuhn",
+          "arxiv:affiliation": "University of Hertfordshire"
+        },
+        {
+          "name": "Robert A. Benjamin",
+          "arxiv:affiliation": "University of Wisconsin-Whitewater"
+        },
+        {
+          "name": "Simran S. Singh",
+          "arxiv:affiliation": "University of Hertfordshire"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.16316v1",
+      "title": "Hydrodynamic Evolution and Detectability of Nova Remnants in the Galactic Center",
+      "updated": "2025-12-18T08:56:31Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.16316v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.16316v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Thousands of X-ray sources have been detected in the Galactic center (GC), most believed to be cataclysmic variables (CVs). As a potential probe of the old stellar population, in particular CVs, the existence and detectability of novae in the GC remain elusive, due to the prohibitive extinction toward the GC and their relatively low occurrence rate. Nova remnants evolving in the characteristic hot ($T\\sim{10^{6}~\\rm K}$) and dense ($n_e\\sim{10~\\rm cm^{-3}}$) interstellar medium in the GC may shed light on recent novae and provide useful insight on the GC ecosystem. In this work, we perform hydrodynamical simulations of putative nova remnants in the GC environment and calculate their time-dependent multiwavelength emission to estimate the detectability. Among 79 models sampling the nova parameter space (primarily ejecta mass and velocity), 6, 44, and 51 modelled nova remnants are detectable at their X-ray, radio, and Paschen-$α$ maximum, respectively, for existing {\\it Chandra}, VLA, and HST observations of the GC. The predicted peak luminosities are $\\sim10^{32}~\\rm erg~s^{-1}$, $\\sim10^{31}~\\rm erg~s^{-1}$, and $\\sim10^{36}~\\rm erg~s^{-1}$ in these three bands and the detectable window ranges from weeks to notably hundred years. By specifying a CV population of the nuclear star cluster, we estimate the probability of detecting at least one remnant to be 20\\%, 8\\%, and 18\\% in X-rays, radio, and Pa$α$. The nova remnant would be best resolved in the X-ray band. Our study highlights the potential for detecting nova remnants through further observations, leveraging JWST and the potentially forthcoming AXIS and SKA.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-18T08:56:31Z",
+      "arxiv:comment": "15 pages, 11 figures, accepted by MNRAS",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.HE"
+        }
+      },
+      "author": [
+        {
+          "name": "Zhao Su"
+        },
+        {
+          "name": "Zhiyuan Li"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.16042v1",
+      "title": "Astrometric and Spectroscopic Analysis of IC 2714: An Open Cluster Hosting a Lithium-Rich Giant",
+      "updated": "2025-12-17T23:52:15Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.16042v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.16042v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        },
+        {
+          "$": {
+            "rel": "related",
+            "href": "https://doi.org/10.3847/1538-4357/ae2854",
+            "title": "doi"
+          }
+        }
+      ],
+      "summary": "Open clusters serve as laboratories to study and evaluate stellar evolution and Galactic chemical evolution models. Chemical peculiarities, such as lithium-rich giants, are rarely observed in these stellar systems. This work focuses on eight red giants (#005, #028, #034, #053, #087, #121, #126, and #190) previously reported as members of the Galactic cluster IC 2714. We conducted a detailed investigation using high-resolution spectroscopy, supplemented with data from the Gaia DR3 catalog. Besides deriving the cluster's fundamental parameters, we provide the most thorough chemical characterization of IC 2714 to date, reporting the abundance of 23 species, including light elements (Li, C, N, O), odd-Z elements (Na, Al), $α$-elements (Si, Ca, Ti, Mg), iron-peak elements (Sc, Cr, Ni), $\\textit{s}$-process-dominated elements (Y, Zr, Ba, La, Ce, Nd) and $\\textit{r}$-process elements (Sm, Eu). We also present the carbon isotopic ratios $^{12}$C/$^{13}$C for the first time for seven stars. One particular star (#087) exhibits a high lithium abundance ($\\log \\varepsilon$(Li)$_{\\rm NLTE}$ = $+$1.54 dex) and a slightly higher projected rotational velocity ($v \\sin i$ = 6.7 km s$^{-1}$). Our results suggest that the analyzed stars are in the core-helium-burning phase of evolution, where the most lithium-rich giants are found. Combining astrometric probabilities and chemical abundances, we conclude that two giants (#028 and #034) might not be cluster members.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-17T23:52:15Z",
+      "arxiv:comment": "21 pages, 7 figures; accepted for publication in The Astrophysical Journal",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "T. Flaulhabe"
+        },
+        {
+          "name": "N. Holanda"
+        },
+        {
+          "name": "G. Tautvaišienė"
+        },
+        {
+          "name": "O. J. Katime Santrich"
+        },
+        {
+          "name": "F. F. S. Maia"
+        },
+        {
+          "name": "B. P. L. Ferreira"
+        },
+        {
+          "name": "W. J. B. Corradi"
+        },
+        {
+          "name": "C. B. Pereira"
+        },
+        {
+          "name": "M. Carlos"
+        },
+        {
+          "name": "S. Daflon"
+        }
+      ],
+      "arxiv:doi": "10.3847/1538-4357/ae2854",
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2512.14799v1",
       "title": "Why the northern hemisphere needs a 30-40 m telescope and the science at stake: Massive stars in spiral galaxies",
@@ -488,295 +691,6 @@
         },
         {
           "name": "Ian Dobbs-Dixon"
-        }
-      ],
-      "score": 7
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.11175v1",
-      "title": "The Interplay of Stellar Evolution and Collisions in Galactic Nuclei",
-      "updated": "2025-12-11T23:38:06Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.11175v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.11175v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Nuclear star clusters (NSCs) surrounding supermassive black holes (SMBHs) are among the densest stellar environments in the universe. In these environments, collisions can shape the stellar mass function and produce exotic stellar populations. In this work, we investigate how stellar collisions couple with stellar evolution in the inner parsec of an NSC. We simulate the evolution of a sample of $1000$ $1$ $M_\\odot$ stars embedded in a uniform cluster of dynamically relaxed 0.5 $M_\\odot$ stars. Using COSMIC to evolve stellar properties in time , we track the mass, radius, and evolutionary state of the stars as they collide in the cluster. Our results show that most stars within $0.1$~pc of the SMBH experience a collision while on the main-sequence. However, outside of this distance, stars collide during the red giant phase, when the stellar radius increases dramatically. We find that the most common type of collision -- main-sequence or red giant -- over the lifetime of the cluster depends on the steepness of the stellar cusp, which determines the spatial distribution of the stars in the cluster. These results show that stellar evolution plays a fundamental role in shaping the collisional history of stars in nuclear star clusters. Lastly, we consider whether the closest known stars to the Milky Way's SMBH have experienced a collision. We estimate that several of the S-stars have a high probability of experiencing a collision over their main-sequence lifetime, perhaps with implications for their observed youth and properties.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-11T23:38:06Z",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Jaden S. Sidhu"
-        },
-        {
-          "name": "Sanaea C. Rose"
-        },
-        {
-          "name": "Frederic A. Rasio"
-        }
-      ],
-      "score": 2
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.11046v1",
-      "title": "Dynamical constraints on the S2 (S0-2) star possible companions",
-      "updated": "2025-12-11T19:05:07Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.11046v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.11046v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "The center of the Galaxy harbors a supermassive black hole, Sgr\\,A*, which is surrounded by a massive star cluster known as the S-cluster. The most extensively studied star in this cluster is the B-type main-sequence S2 star (also known as S0-2). These types of stars are commonly found in binary systems in the Galactic field, but observations do not seem to detect a companion to S2. This absence may be attributed to observational biases or to a dynamically hostile environment caused by phenomena such as tidal disruption or mergers. Using a $N$-body code with first-order post-Newtonian corrections, we investigate whether S2 can host a stellar or planetary companion. We perform $10^{5}$ simulations adopting uniform distributions for the orbital elements of the companion. Our results show that companions may exist for orbital periods shorter than 100~days, eccentricities below 0.8, and across the full range of mutual inclinations. The number of surviving companions increases with shorter orbital periods, lower eccentricities, and nearly coplanar orbits. We also find that the disruption mechanisms include mergers driven by Lidov-Kozai cycles and breakups that occur when the companion surpasses the Hill radius of its orbit. Finally, we find that the presence of a companion would alter S2's astrometric signal by no more than $ 5\\,μ{\\rm as}$. Current radial-velocity detection limits constrain viable stellar binary configurations to approximately 4.4\\% of the simulated cases. Including astrometric limits reduces to 4.3\\%. Imposing an additional constraint that any companion must have a mass $\\lesssim 2\\,M_{\\odot}$ (otherwise it would be visible) narrows the fraction of undetectable stellar binaries to just 3.0\\%.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.EP",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-11T19:05:07Z",
-      "arxiv:comment": "10 pages; Accepted for publication in A&A",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Rodrigo P. Silva"
-        },
-        {
-          "name": "Alexandre C. M. Correia"
-        },
-        {
-          "name": "Tjarda C. N. Boekholt"
-        },
-        {
-          "name": "Paulo J. V. Garcia"
-        }
-      ],
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.11038v1",
-      "title": "Intermediate Mass Black Hole Binary Evolution in Nuclear Star Clusters: the effect of the stellar mass black hole population",
-      "updated": "2025-12-11T19:00:16Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.11038v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.11038v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "In this study, we investigate the dynamics of Intermediate-Mass Black Hole (IMBH) binaries within Nuclear Star Clusters (NSCs) that contain a population of stellar-mass black holes (BHs). We examine how these stellar and BH populations influence the dynamics of the IMBH binary and, in turn, how the evolving IMBH binary affects the surrounding stellar and BH populations. We conduct high-resolution $N$-body simulations of NSCs constructed based on observational parameters from two local dwarf galaxies: NGC205 and NGC404. For the first time, we achieve a star particle mass resolution of $1\\rm\\;M_{\\odot}$ and a BH mass resolution of $10\\rm\\;M_{\\odot}$. This level of resolution is crucial for accurately modeling the collisional dynamics of these dense systems. Including stellar-mass BHs within the stellar population significantly influences the IMBH binary dynamics, nearly doubling the sinking rate and halving the merger time. During the initial phase of the inspiral, the IMBH binary disrupts both the stellar and BH cusps. However, the BH cusp quickly regains its steep slope due to its shorter relaxation time and continues to dominate the evolution of the IMBH binary, despite being much less massive compared to the stellar component. We uncover an interesting mechanism in which BHs first efficiently extract energy from the IMBH binary and then transfer this energy to the surrounding stars, allowing the BHs to spiral back toward the center of the system and restart the process. Our results imply that, although stellar mass BHs are a minor component of a stellar population, they can significantly facilitate IMBH growth within NSCs via mergers. We also notice that these dense systems can potentially boost Intermediate Mass Ratio Inspirals (IMRIs) predominantly on radial orbits.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-11T19:00:16Z",
-      "arxiv:comment": "Accepted for publication in Astronomy & Astrophysics",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Fazeel Mahmood Khan"
-        },
-        {
-          "name": "Peter Berczik"
-        },
-        {
-          "name": "Margarita Sobolenko"
-        },
-        {
-          "name": "Andreas Just"
-        },
-        {
-          "name": "Rainer Spurzem"
-        },
-        {
-          "name": "Kelly Holley-Bockelmann"
-        },
-        {
-          "name": "Andrea Valerio Macciò"
-        }
-      ],
-      "score": 4
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.10650v1",
-      "title": "OutLines: Modeling Spectral Lines from Winds, Bubbles, and Outflows",
-      "updated": "2025-12-11T13:57:28Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.10650v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.10650v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Common methods for studying the kinematics and geometry of outflowing gas rely on modeling emission and absorption lines in integrated spectra using methods that are not physically motivated, including empirical quantiles or fitting multiple Gaussian or Voigt profiles. Such methods are not always consistent with the interpretation of these features and, as a result, miss key underlying physics and can even lead to inaccurate interpretations of observations. To address this problem, we present the publicly available python code OutLines, which provides astrophysical models of spectral emission and absorption line profiles produced by outflows in a variety of environments. The OutLines code accounts for differences in parameterization of the velocity field and density profile while allowing for different outflow geometries, making OutLines versatile and useful for a wide variety of astrophysical phenomena. We demonstrate the wide applicability of OutLines by using the code to model line profiles in an H II region knot, super star clusters, a starburst galaxy, and an AGN. In each of these contexts, we illustrate how OutLines can illuminate key underlying physics in ways that improve our scientific understanding and address important open questions in astronomy, including the key mechanisms in the baryon cycle, the evolution of H II regions and galaxies, and even Lyman continuum escape. OutLines will be a critical resource as massively multiplexed spectroscopic surveys like WEAVE-LOFAR and 4MOST/WAVES come online, providing the means to probe feedback kinematics with deeper, higher resolution spectroscopy for unprecedented large samples of galaxies.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-11T13:57:28Z",
-      "arxiv:comment": "MNRAS under review",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": {
-        "name": "Sophia R. Flury"
-      },
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.10616v1",
-      "title": "Stellar masses and mass ratios for Gaia open cluster members",
-      "updated": "2025-12-11T13:12:35Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.10616v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.10616v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Context: Unresolved binaries in star clusters can bias stellar and cluster mass estimates, making their proper treatment essential for studying cluster dynamics and evolution. Aims: We aim to develop a fast and robust framework for jointly deriving stellar masses and multiplicity statistics of member stars, together with optimal cluster parameters. Methods: We use Gaia DR3 parallaxes together with multi-band photometry of open cluster (OC) members to infer stellar masses and binary mass-ratios through simulation-based inference (SBI), while iteratively fitting the cluster parameters. The validation of our SBI framework on simulated clusters demonstrates that the inclusion of infrared photometry significantly improves the detection of low mass-ratio binaries. The minimum mass-ratio threshold for reliably identifying unresolved binaries depends on cluster properties and the available photometry, but typically lies below $q=0.5$. Results: Applying our method to 42 well-populated OCs, we derive a catalogue of stellar masses and mass-ratios for 27201 stars, achieving typical uncertainties of 0.08 in $q$ and $0.01\\,\\mathrm{M}_\\odot$ in the primary stellar mass. We analyse the archetype OCs M67 and NGC 2360 in detail, including mass segregation and mass-ratio distribution among other characteristics, while deriving multiplicity fractions for the rest of the sample. We find evidence that the high mass-ratio ($q\\geq 0.6$) binary fraction shows a strong correlation with the age and a weak anti-correlation with the cluster metallicity. Furthermore, the variation of the binary fraction with stellar mass in OCs shows strong accordance with the observed dependence for field stars heavier than $\\gtrsim0.6\\,\\mathrm{M}_\\odot$. Conclusions: Our work paves a path for future population-level investigations of multiplicity statistics and precision stellar masses in extended samples of OCs.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-11T13:12:35Z",
-      "arxiv:comment": "13 pages main text, 8 pages appendix and 26 figures. Accepted in A&A. Before archiving at the CDS completes, tables are available at https://drive.google.com/drive/folders/1zkPjxyPd7ZV1OOp9k10l3XfCFZqs9-4N?usp=sharing",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Sagar Malhotra"
-        },
-        {
-          "name": "Alfred Castro-Ginard"
-        },
-        {
-          "name": "Friedrich Anders"
-        },
-        {
-          "name": "Carme Jordi"
-        },
-        {
-          "name": "Judit Donada"
-        },
-        {
-          "name": "Xavier Luri"
-        },
-        {
-          "name": "Lola Balaguer-Núñez"
-        },
-        {
-          "name": "Songmei Qin"
-        },
-        {
-          "name": "Yueyue Jiang"
-        },
-        {
-          "name": "Andrija Župić"
         }
       ],
       "score": 7
