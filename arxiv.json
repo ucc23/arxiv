@@ -1,6 +1,70 @@
 {
-  "fetched_at": "2025-12-23T18:39:44.412Z",
+  "fetched_at": "2025-12-24T02:06:32.346Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.20574v1",
+      "title": "Revisiting the near infrared Calcium triplet as metallicity indicator",
+      "updated": "2025-12-23T18:17:25Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.20574v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.20574v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The near-infrared Calcium II Triplet (CaT), around 850nm, is a key metallicity indicator for red giant stars. We present a revised [Fe/H] calibration as a function of CaT line strengths and four luminosity indicators, including the $Gaia$ $G$-band, together with the classical $V$, $I$, and $K_s$ bandpasses. For this purpose, we used a sample of 366 red giant stars belonging to 25 globular and open clusters, complemented by 52 extremely metal-poor field giant stars. The CaT line strengths are determined by fitting Gaussian-Lorentzian combination profiles using the Python lmfit package, which utilises the algorithms implemented therein. The derived calibration is valid for a wide metallicity range, $-4$\\,dex$ \\lesssim \\mathrm{[Fe/H]} \\lesssim +0.15$, and for ages older than $\\sim$200 Myr. In addition, we performed a detailed assessment of how factors such as spectral resolution, spectral quality (expressed through the signal-to-noise ratio), and the algorithms used to constrain the line profiles affect the measured line strengths and the resulting metallicities.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-23T18:17:25Z",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": [
+        {
+          "name": "M. Navabi"
+        },
+        {
+          "name": "R. Carrera"
+        },
+        {
+          "name": "N. E. D. Noël"
+        },
+        {
+          "name": "C. Gallart"
+        },
+        {
+          "name": "E. Pancino"
+        },
+        {
+          "name": "M. De Leo"
+        }
+      ],
+      "score": 1.5
+    },
     {
       "id": "http://arxiv.org/abs/2512.19185v1",
       "title": "ALMA Observations of Cold Methanol Gas in the Large Magellanic Cloud (LMC): N79 South GMC",
@@ -491,265 +555,6 @@
       ],
       "arxiv:doi": "10.3847/1538-4357/ae2854",
       "score": 6
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.14799v1",
-      "title": "Why the northern hemisphere needs a 30-40 m telescope and the science at stake: Massive stars in spiral galaxies",
-      "updated": "2025-12-16T17:05:13Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.14799v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.14799v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "This document discusses the three main lines expected to dominate massive-star research in the 2040s, namely: (1) The role of metallicity in stellar evolution, especially in determining the end products such as gravitational-wave progenitors. (2) The initial mass function from the most massive stars to substellar objects. (3) The role of the environment in the different modes of star formation from compact star clusters to born-this-way associations and from massive clusters to small stellar groups. More specifically, we present the contributions to such science that would be enabled by a 30~m type telescope in the northern hemisphere studying spiral galaxies. Those can be grouped in three: our own Galaxy, the Milky Way; the other two spiral galaxies in the Local Group, M31 and M33; and other galaxies within 25 Mpc, such as M101, M51, and NGC~6946. This work is based on the fact that, as of today, no construction of a 30~m telescope has yet started in the northern hemisphere, so even in the best case scenario of such a hypothetical telescope, its full operation would not start until the late 2030s or early 2040s. It makes no assumptions about its location but supposes an instrumentation development similar to that of ELT.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.IM",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-16T17:05:13Z",
-      "arxiv:comment": "White Paper submitted to \"ESO Expanding Horizons: Transforming Astronomy in the 2040s\"",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.IM"
-        }
-      },
-      "author": [
-        {
-          "name": "J. Maíz Apellániz"
-        },
-        {
-          "name": "S. Simón-Díaz"
-        },
-        {
-          "name": "A. Herrero"
-        },
-        {
-          "name": "S. R. Berlanas"
-        },
-        {
-          "name": "J. M. Mas Hesse"
-        },
-        {
-          "name": "I. Negueruela"
-        },
-        {
-          "name": "G. Holgado"
-        },
-        {
-          "name": "M. García"
-        }
-      ],
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.14786v1",
-      "title": "Why the Northern Hemisphere Needs a 30-40 m Telescope and the Science at Stake: Mapping formation pathways of nuclear star clusters across galaxies",
-      "updated": "2025-12-16T14:55:59Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.14786v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.14786v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Nuclear star clusters (NSCs) are dense, compact stellar systems only a few parsecs across, located at galaxy centers. Their small sizes make them difficult to resolve spatially. NSCs often coexist with massive black holes, and both trace the dynamical state and evolution of their host galaxies. Dense stellar environments such as NSCs are also ideal sites for forming intermediate-mass black holes (IMBHs). To date, spatially resolved NSC properties, crucial for reconstructing dynamical and star-formation histories, have only been obtained for galaxies within 5 Mpc, using the highest-resolution instruments on the current class of very large telescopes. This severely limits spectroscopic studies, and a systematic, unbiased survey has never been accomplished. Because the vast majority of known NSCs are located in the Northern Hemisphere, only a 30-m-class telescope in the North can provide the statistical power needed to study their physical properties and measure the mass of coexisting central black holes. We propose leveraging the capabilities of a 30-m-class Northern telescope to obtain the first comprehensive, spatially resolved survey of NSCs, finally allowing us to unveil their formation pathways and their yet unknown connection with central massive black holes.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.IM",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-16T14:55:59Z",
-      "arxiv:comment": "White Paper submitted to \"ESO Expanding Horizons: Transforming Astronomy in the 2040s\"",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.IM"
-        }
-      },
-      "author": [
-        {
-          "name": "Francesca Pinna",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Isabel Pérez",
-          "arxiv:affiliation": [
-            "Universidad de Granada, Spain",
-            "Instituto Carlos I de Física Teórica y Computacional, Spain"
-          ]
-        },
-        {
-          "name": "Anna Ferré-Mateu",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Begoña García Lorenzo",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Alessandra Mastrobuono Battisti",
-          "arxiv:affiliation": "Università degli Studi di Padova, Italy"
-        },
-        {
-          "name": "Abbas Askar",
-          "arxiv:affiliation": "Nicolaus Copernicus Astronomical Center, Polish Academy of Sciences, Poland"
-        },
-        {
-          "name": "Michael Beasley",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Bahar Bidaran",
-          "arxiv:affiliation": "Universidad de Granada, Spain"
-        },
-        {
-          "name": "Ana L. Chies-Santos",
-          "arxiv:affiliation": "Universidade Federal do Rio Grande do Sul"
-        },
-        {
-          "name": "Sébastien Comerón",
-          "arxiv:affiliation": [
-            "Universidad de La Laguna, Spain",
-            "Instituto de Astrofísica de Canarias, Spain"
-          ]
-        },
-        {
-          "name": "Kristen C. Dage",
-          "arxiv:affiliation": "Curtin Institute of Radio Astronomy, Australia"
-        },
-        {
-          "name": "Adriana de Lorenzo-Cáceres",
-          "arxiv:affiliation": [
-            "Universidad de La Laguna, Spain",
-            "Instituto de Astrofísica de Canarias, Spain"
-          ]
-        },
-        {
-          "name": "Katja Fahrion",
-          "arxiv:affiliation": "University of Vienna, Austria"
-        },
-        {
-          "name": "Jesús Falcón Barroso",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Anja Feldmeier-Krause",
-          "arxiv:affiliation": "Max-Planck-Institut für Astronomie, Germany"
-        },
-        {
-          "name": "Emma Fernández Alvar",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Nils Hoyer",
-          "arxiv:affiliation": "Max-Planck-Institut für Astronomie, Germany"
-        },
-        {
-          "name": "Rubén García Benito",
-          "arxiv:affiliation": "Instituto de Astrofísica de Andalucía, Spain"
-        },
-        {
-          "name": "Rosa M. Gonzalez Delgado",
-          "arxiv:affiliation": "Instituto de Astrofísica de Andalucía, Spain"
-        },
-        {
-          "name": "Ignacio Martín Navarro",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Cristina Ramos Almeida",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        },
-        {
-          "name": "Patricia Sánchez Blázquez",
-          "arxiv:affiliation": "Universidad Complutense de Madrid, Spain"
-        },
-        {
-          "name": "Rubén Sánchez Janssen",
-          "arxiv:affiliation": [
-            "Isaac Newton Group of Telescopes, Spain",
-            "Instituto de Astrofísica de Canarias, Spain"
-          ]
-        },
-        {
-          "name": "Alexandre Vazdekis",
-          "arxiv:affiliation": [
-            "Instituto de Astrofísica de Canarias, Spain",
-            "Universidad de La Laguna, Spain"
-          ]
-        }
-      ],
-      "score": 4
     }
   ]
 }
