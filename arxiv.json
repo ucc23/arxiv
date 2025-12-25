@@ -1,6 +1,126 @@
 {
-  "fetched_at": "2025-12-24T18:38:13.585Z",
+  "fetched_at": "2025-12-25T02:08:37.914Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.20965v1",
+      "title": "GW241011 and GW241110: Hints of Hierarchical Mergers from the Merger Entropy Index",
+      "updated": "2025-12-24T05:43:20Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.20965v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.20965v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "GW241011 and GW241110 both exhibit extremely asymmetric masses, high primary spins, and significant spin-orbit misalignment, which challenge the formation of first-generation binary black hole mergers formed from stellar collapse. This implies that these two gravitational wave events might originate from the hierarchical merger mechanism, with at least one of the black holes being the remnant of a previous merger. Here we investigate the origin of hierarchical mergers for GW241011 and GW241110 using the merger entropy index which measures the efficiency of entropy transfer for binary black hole mergers in general relativity. We find that GW241011 is consistent with hierarchical mergers in dense star clusters. The origin of GW241110 remains under debate due to its large distribution uncertainty, which leads to method-dependent inference and should be taken into account when interpreting this event in terms of hierarchical mergers.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.HE",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "gr-qc",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-24T05:43:20Z",
+      "arxiv:comment": "Comments are welcome",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.HE"
+        }
+      },
+      "author": [
+        {
+          "name": "Guo-Peng Li"
+        },
+        {
+          "name": "Xi-Long Fan"
+        }
+      ],
+      "score": 1
+    },
+    {
+      "id": "http://arxiv.org/abs/2512.20923v1",
+      "title": "Expanding Asteroseismic Studies in Star Clusters Using NASA's TESS and ESA's Gaia Missions",
+      "updated": "2025-12-24T04:02:35Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.20923v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.20923v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Star clusters have long been central to the study of stellar evolution due to their chemically and chronologically homogeneous populations. Asteroseismology, the analysis of stellar oscillations and pulsations, provides precise information about properties such as masses, radii, and ages of stars in the field. However, these stars lack calibration to an absolute scale, and so this project seeks to utilize the data from NASA's TESS mission and ESA's Gaia mission to identify additional cluster stars suitable for asteroseismic analysis and calibration. In this work we analyze 14 stars belonging to 3 well-populated clusters, 5 additional stars that are the only detected oscillators in their respective clusters, and 3 detected oscillators of unknown cluster membership. By significantly expanding the number of clusters with measured oscillating giants, this project increases the opportunity for cross-validation between classical stellar models and asteroseismic methods, allowing for improvements in both calibration techniques and age estimations across the galaxy.",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.SR",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-24T04:02:35Z",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.SR"
+        }
+      },
+      "author": [
+        {
+          "name": "Carli Mankowski"
+        },
+        {
+          "name": "Jamie Tayar"
+        },
+        {
+          "name": "Cassidy Martin"
+        }
+      ],
+      "score": 4
+    },
     {
       "id": "http://arxiv.org/abs/2512.20574v1",
       "title": "Revisiting the near infrared Calcium triplet as metallicity indicator",
@@ -470,91 +590,6 @@
         }
       ],
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.16042v1",
-      "title": "Astrometric and Spectroscopic Analysis of IC 2714: An Open Cluster Hosting a Lithium-Rich Giant",
-      "updated": "2025-12-17T23:52:15Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.16042v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.16042v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        },
-        {
-          "$": {
-            "rel": "related",
-            "href": "https://doi.org/10.3847/1538-4357/ae2854",
-            "title": "doi"
-          }
-        }
-      ],
-      "summary": "Open clusters serve as laboratories to study and evaluate stellar evolution and Galactic chemical evolution models. Chemical peculiarities, such as lithium-rich giants, are rarely observed in these stellar systems. This work focuses on eight red giants (#005, #028, #034, #053, #087, #121, #126, and #190) previously reported as members of the Galactic cluster IC 2714. We conducted a detailed investigation using high-resolution spectroscopy, supplemented with data from the Gaia DR3 catalog. Besides deriving the cluster's fundamental parameters, we provide the most thorough chemical characterization of IC 2714 to date, reporting the abundance of 23 species, including light elements (Li, C, N, O), odd-Z elements (Na, Al), $α$-elements (Si, Ca, Ti, Mg), iron-peak elements (Sc, Cr, Ni), $\\textit{s}$-process-dominated elements (Y, Zr, Ba, La, Ce, Nd) and $\\textit{r}$-process elements (Sm, Eu). We also present the carbon isotopic ratios $^{12}$C/$^{13}$C for the first time for seven stars. One particular star (#087) exhibits a high lithium abundance ($\\log \\varepsilon$(Li)$_{\\rm NLTE}$ = $+$1.54 dex) and a slightly higher projected rotational velocity ($v \\sin i$ = 6.7 km s$^{-1}$). Our results suggest that the analyzed stars are in the core-helium-burning phase of evolution, where the most lithium-rich giants are found. Combining astrometric probabilities and chemical abundances, we conclude that two giants (#028 and #034) might not be cluster members.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-17T23:52:15Z",
-      "arxiv:comment": "21 pages, 7 figures; accepted for publication in The Astrophysical Journal",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "T. Flaulhabe"
-        },
-        {
-          "name": "N. Holanda"
-        },
-        {
-          "name": "G. Tautvaišienė"
-        },
-        {
-          "name": "O. J. Katime Santrich"
-        },
-        {
-          "name": "F. F. S. Maia"
-        },
-        {
-          "name": "B. P. L. Ferreira"
-        },
-        {
-          "name": "W. J. B. Corradi"
-        },
-        {
-          "name": "C. B. Pereira"
-        },
-        {
-          "name": "M. Carlos"
-        },
-        {
-          "name": "S. Daflon"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae2854",
-      "score": 6
     }
   ]
 }
