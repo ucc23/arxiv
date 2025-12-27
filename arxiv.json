@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-12-26T18:37:40.345Z",
+  "fetched_at": "2025-12-27T02:05:29.242Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2512.20965v1",
@@ -251,96 +251,6 @@
         }
       ],
       "arxiv:doi": "10.3847/1538-4357/ae2ad6",
-      "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.17644v1",
-      "title": "The contribution of the color space in LSST-like photometry for the selection of extragalactic globular cluster candidates",
-      "updated": "2025-12-19T14:44:28Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.17644v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.17644v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Globular clusters (GCs), densely packed collections of thousands to millions of old stars, are excellent tracers of their host galaxies' evolutionary histories. Traditional methods for identifying GCs in galaxies rely on cuts over photometric catalogs and can yield source lists with high levels of contamination from compact background galaxies and foreground stars. In an era when large-scale sky surveys produce photometry for millions of sources, it is essential to employ flexible and scalable tools to reliably identify GCs in external galaxies. To prepare for surveys like Rubin/LSST, we need to explore practical methodological improvements and quantify the limitations inherent in the datasets. This paper investigates the selection of point-like extragalactic GCs exclusively in the $ugrizY$ color space. We use archival data to assemble an LSST-like photometric catalog for the Fornax Cluster containing labeled spectroscopically confirmed GCs, galaxies, and stars. From this catalog, using principal component analysis and non-linear auto-encoders (AEs), we construct inputs to random forest and multi-layer perceptron classifiers. We show that selecting GCs using ugrizY colors can lead to contamination rates of ~ 45%. If the principal components of the colors are used instead, this rate reduces to ~ 35% without increasing incompleteness. The AEs did not improve GC identification. To further reduce contamination and extract the full potential of LSST for star cluster studies, we argue for the need to augment photometric information with ancillary data (morphology from space-based missions and near-infrared photometry) before attempting to leverage more complex models.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-19T14:44:28Z",
-      "arxiv:comment": "Submitted to AAS journals. Comments are welcome!",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Nicholas Schweder-Souza"
-        },
-        {
-          "name": "Ana L. Chies-Santos"
-        },
-        {
-          "name": "Rafael S. de Souza"
-        },
-        {
-          "name": "Kristen C. Dage"
-        },
-        {
-          "name": "Charles J. Bonatto"
-        },
-        {
-          "name": "Juan P. Caso"
-        },
-        {
-          "name": "Michele Cantiello"
-        },
-        {
-          "name": "Pedro dos Santos-Lopes"
-        },
-        {
-          "name": "Pedro Floriano"
-        },
-        {
-          "name": "Thayse A. Pacheco"
-        },
-        {
-          "name": "Katherine L. Rhode"
-        },
-        {
-          "name": "Pauline Barmby"
-        },
-        {
-          "name": "Niranjana P."
-        },
-        {
-          "name": "Yasna Ordenes-Briceño"
-        },
-        {
-          "name": "Teymoor Saifollahi"
-        },
-        {
-          "name": "Rubens E. G. Machado"
-        },
-        {
-          "name": "Julia Gschwend"
-        }
-      ],
       "score": 1
     }
   ]
