@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-12-29T18:38:40.193Z",
+  "fetched_at": "2025-12-30T02:09:18.619Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2512.20965v1",
@@ -184,74 +184,6 @@
         }
       ],
       "score": 1.5
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.19185v1",
-      "title": "ALMA Observations of Cold Methanol Gas in the Large Magellanic Cloud (LMC): N79 South GMC",
-      "updated": "2025-12-22T09:18:36Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.19185v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.19185v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        },
-        {
-          "$": {
-            "rel": "related",
-            "href": "https://doi.org/10.3847/1538-4357/ae2ad6",
-            "title": "doi"
-          }
-        }
-      ],
-      "summary": "We report ALMA continuum and molecular line observations at 0.1 pc resolution toward the super star cluster (SSC) candidate H72.97-69.39 in the N79 region of the LMC. The continuum emission has a sharp peak around the SSC candidate but is also widely distributed. We identify two continuum sources at the northern (N79S-1) and northwestern (N79S-2) positions of the SSC continuum peak, associated with CH$_3$OH emission. In addition to CH$_3$OH, we also detect H$_2$CO, H$_2$CS, CS, SO, CO, CN, and CCH at the positions of N79S-1 and N79S-2. The rotation diagram analysis of CH$_3$OH and SO lines yields an average gas temperature of 13 $\\pm$ 0.4 K for N79S-1 and 15 $\\pm$ 0.9 K for N79S-2. Most emission lines exhibit line widths of less than 2.8 km s$^{-1}$, consistent with emissions from cold, dense molecular cloud cores. The abundance of cold CH$_3$OH gas is estimated to be (2.1 $\\pm$ 1.1)$\\times$ 10$^{-9}$ at N79S-1 and (4.5 $\\pm$2.5)$\\times$ 10$^{-10}$ at N79S-2. Despite the lower metallicity in the LMC, the CH$_3$OH abundance at N79S-1 is comparable to that of similar cold sources in our Galaxy. However, the formation of organic molecules is inhibited throughout the N79 regions, as can be seen in the non-detection of CH$_3$OH in most of the regions. The two positions N79S-1 and N79S-2 would be exceptional positions, where CH$_3$OH production is efficient. The possible origins of cold CH$_3$OH gas in these dense cores are discussed, along with a possible explanation for the non-detection of CH$_3$OH in the SSC candidate.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-22T09:18:36Z",
-      "arxiv:comment": "Accepted for publication in The Astrophysical Journal (ApJ)",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "Suman Kumar Mondal"
-        },
-        {
-          "name": "Takashi Shimonishi"
-        },
-        {
-          "name": "Soumen Mondal"
-        },
-        {
-          "name": "Prasanta Gorai"
-        },
-        {
-          "name": "Kei E. I. Tanaka"
-        },
-        {
-          "name": "Kenji Furuya"
-        },
-        {
-          "name": "Ankan Das"
-        }
-      ],
-      "arxiv:doi": "10.3847/1538-4357/ae2ad6",
-      "score": 1
     }
   ]
 }
