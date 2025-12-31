@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2025-12-30T18:40:34.075Z",
+  "fetched_at": "2025-12-31T02:09:39.481Z",
   "entries": [
     {
       "id": "http://arxiv.org/abs/2512.20965v1",
@@ -120,70 +120,6 @@
         }
       ],
       "score": 4
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.20574v1",
-      "title": "Revisiting the near infrared Calcium triplet as metallicity indicator",
-      "updated": "2025-12-23T18:17:25Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.20574v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.20574v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "The near-infrared Calcium II Triplet (CaT), around 850nm, is a key metallicity indicator for red giant stars. We present a revised [Fe/H] calibration as a function of CaT line strengths and four luminosity indicators, including the $Gaia$ $G$-band, together with the classical $V$, $I$, and $K_s$ bandpasses. For this purpose, we used a sample of 366 red giant stars belonging to 25 globular and open clusters, complemented by 52 extremely metal-poor field giant stars. The CaT line strengths are determined by fitting Gaussian-Lorentzian combination profiles using the Python lmfit package, which utilises the algorithms implemented therein. The derived calibration is valid for a wide metallicity range, $-4$\\,dex$ \\lesssim \\mathrm{[Fe/H]} \\lesssim +0.15$, and for ages older than $\\sim$200 Myr. In addition, we performed a detailed assessment of how factors such as spectral resolution, spectral quality (expressed through the signal-to-noise ratio), and the algorithms used to constrain the line profiles affect the measured line strengths and the resulting metallicities.",
-      "category": [
-        {
-          "$": {
-            "term": "astro-ph.SR",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        },
-        {
-          "$": {
-            "term": "astro-ph.GA",
-            "scheme": "http://arxiv.org/schemas/atom"
-          }
-        }
-      ],
-      "published": "2025-12-23T18:17:25Z",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.SR"
-        }
-      },
-      "author": [
-        {
-          "name": "M. Navabi"
-        },
-        {
-          "name": "R. Carrera"
-        },
-        {
-          "name": "N. E. D. Noël"
-        },
-        {
-          "name": "C. Gallart"
-        },
-        {
-          "name": "E. Pancino"
-        },
-        {
-          "name": "M. De Leo"
-        }
-      ],
-      "score": 1.5
     }
   ]
 }
