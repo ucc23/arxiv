@@ -1,6 +1,74 @@
 {
-  "fetched_at": "2026-01-01T02:27:02.915Z",
+  "fetched_at": "2026-01-01T06:42:32.934Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2512.24895v1",
+      "title": "Resolving the Origins and Pathways of Ionizing Radiation Escape with UV Integral Field Spectroscopy",
+      "updated": "2025-12-31T14:42:58Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2512.24895v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2512.24895v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "The Epoch of Reionization marks the last major phase transition in the early Universe, during which the majority of neutral hydrogen once filling the intergalactic medium was ionized by the first galaxies. The James Webb Space Telescope (JWST) is now identifying promising galaxy candidates capable of producing sufficient ionizing photons to drive this transformation. However, the fraction of these photons that escape into intergalactic space--the escape fraction--remains highly uncertain. Stellar feedback is thought to play a critical role in carving low-density channels that allow ionizing radiation to escape, but the dominant mechanisms, their operation, and their connection to observable signatures are not well understood. Local analogs of high-redshift galaxies offer a powerful alternative for studying these processes, since ionizing radiation is unobservable at high redshift due to intergalactic absorption. However, current UV space-based instrumentation lacks the spatial resolution and sensitivity required to fully address this problem. The core challenge lies in the multiscale nature of LyC escape: ionizing photons are generated on scales of 1--100 pc in super star clusters but must traverse the circumgalactic medium which can extend beyond 100 kpc. The proposed Habitable Worlds Observatory (HWO) will provide a platform for future UV instruments capable of resolving these scales. In this article, we present a science case for understanding how LyC photons escape from star-forming galaxies and define the observational requirements for future instruments aboard HWO, including a UV integral field spectrograph (IFS).",
+      "category": [
+        {
+          "$": {
+            "term": "astro-ph.IM",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        },
+        {
+          "$": {
+            "term": "astro-ph.GA",
+            "scheme": "http://arxiv.org/schemas/atom"
+          }
+        }
+      ],
+      "published": "2025-12-31T14:42:58Z",
+      "arxiv:comment": "26 pages, 2 figures, comments welcome. arXiv admin note: substantial text overlap with arXiv:2506.23105",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.IM"
+        }
+      },
+      "author": [
+        {
+          "name": "Cody Carr"
+        },
+        {
+          "name": "Renyue Cen"
+        },
+        {
+          "name": "Brian Fleming"
+        },
+        {
+          "name": "Sophia Flury"
+        },
+        {
+          "name": "Stephan McCandliss"
+        },
+        {
+          "name": "Sally Oey"
+        },
+        {
+          "name": "Allison Strom"
+        }
+      ],
+      "score": 1
+    },
     {
       "id": "http://arxiv.org/abs/2512.24670v1",
       "title": "Dust destruction in bubbles driven by multiple supernovae explosions",
