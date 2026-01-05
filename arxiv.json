@@ -1,6 +1,63 @@
 {
-  "fetched_at": "2026-01-04T18:36:50.860Z",
+  "fetched_at": "2026-01-05T02:27:42.293Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2601.00061v1",
+      "title": "Exploring the Structure and Evolution of Four Young Open Clusters Near the Galactic Mid-plane via Gaia DR3",
+      "updated": "2025-12-31T19:00:01Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2601.00061v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2601.00061v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "We present a comprehensive analysis of four young open clusters, NGC 663, NGC 2301, NGC 2384, and NGC 7510, utilizing high-precision astrometric and photometric data from Gaia DR3. Cluster membership was determined using the UPMASK algorithm, resulting in probable member counts ranging from 337 to 1498 across the clusters. Bayesian MCMC isochrone fitting yielded cluster ages in the range $\\log t \\sim 7.0$ -$8.15$, with uncertainties of $\\sim 0.11$-$0.18$. Reddening values ranged from $E(B-V)=0.093$ mag in NGC 2301 to $1.24$ mag in NGC 7510, consistent with their positions near the Galactic plane. The stellar mass function slopes ($α\\approx 2.00$-$2.26$) closely match the Salpeter IMF, with total stellar masses spanning nearly an order of magnitude, from $\\sim 486\\,M_\\odot$ in NGC 2301 to $\\sim 3584\\,M_\\odot$ in NGC 663. Dynamical relaxation times indicate that only NGC 2301 ($τ\\approx 10.00$) and NGC 2384b ($τ\\approx 2.03$) are dynamically relaxed; the others remain dynamically evolving. Orbital integrations in the MWPotential2014 model reveal nearly circular Galactic orbits with very low eccentricities ($e \\approx 0.003$-$0.014$) and small vertical distances ($Z_{\\rm max} < 0.142$ kpc), confirming their confinement to the thin disk. SED and kinematic analysis show that NGC 2384a and NGC 2384b are separated by $\\sim 0.55$ kpc, indicating an optical pair.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2025-12-31T19:00:01Z",
+      "arxiv:comment": "32 pages, including 19 figures and 6 tables accepted for publication in the Research in Astronomy and Astrophysics (RAA)",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "W. H. Elsanhoury"
+        },
+        {
+          "name": "S. Taşdemir"
+        },
+        {
+          "name": "D. C. Çınar"
+        },
+        {
+          "name": "R. Canbay"
+        },
+        {
+          "name": "A. A. Haroon"
+        },
+        {
+          "name": "A. Ahmed"
+        }
+      ],
+      "score": 6
+    },
     {
       "id": "http://arxiv.org/abs/2512.24895v1",
       "title": "Resolving the Origins and Pathways of Ionizing Radiation Escape with UV Integral Field Spectroscopy",
