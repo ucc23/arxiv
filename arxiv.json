@@ -1,6 +1,60 @@
 {
-  "fetched_at": "2026-01-05T18:41:44.716Z",
+  "fetched_at": "2026-01-06T02:10:59.303Z",
   "entries": [
+    {
+      "id": "http://arxiv.org/abs/2601.01597v1",
+      "title": "The effects of star-gas interactions on binary evolution in open clusters",
+      "updated": "2026-01-04T16:52:56Z",
+      "link": [
+        {
+          "$": {
+            "href": "https://arxiv.org/abs/2601.01597v1",
+            "rel": "alternate",
+            "type": "text/html"
+          }
+        },
+        {
+          "$": {
+            "href": "https://arxiv.org/pdf/2601.01597v1",
+            "rel": "related",
+            "type": "application/pdf",
+            "title": "pdf"
+          }
+        }
+      ],
+      "summary": "Star-gas interactions can provide gravitational feedback that influences the dynamical evolution of stellar clusters, through processes such as dynamical friction (DF) and its non-dissipative counterpart, negative dynamical friction (NDF). Using the \\texttt{PeTar} code, we perform direct $N$-body simulations of an open cluster initially containing $10^4$ stars, evolving within a gaseous medium spanning a range of ambient densities. Our results demonstrate that NDF associated with stellar outflows interacting with the surrounding gas can enhance the rate of cluster expansion, preferentially transporting stars toward the cluster outskirts. This behavior is accompanied by a more rapid decline in the number of binaries composed of a neutron star and a main-sequence star. A statistical analysis of binary orbital parameters further indicates that, compared to DF-dominated evolution, NDF tends to retain systems with larger semi-major axes and lower eccentricities. Outflow-ambient gas interactions can modify the dynamical processing of binaries in star clusters, leading to changes in the survival fraction and composition of the remaining binary population.",
+      "category": {
+        "$": {
+          "term": "astro-ph.GA",
+          "scheme": "http://arxiv.org/schemas/atom"
+        }
+      },
+      "published": "2026-01-04T16:52:56Z",
+      "arxiv:comment": "17 pages, 13 figures",
+      "arxiv:primary_category": {
+        "$": {
+          "term": "astro-ph.GA"
+        }
+      },
+      "author": [
+        {
+          "name": "Jixuan Yang"
+        },
+        {
+          "name": "Lile Wang"
+        },
+        {
+          "name": "Xinyu Li"
+        },
+        {
+          "name": "Meng Sun"
+        },
+        {
+          "name": "Rainer Spurzem"
+        }
+      ],
+      "score": 7.5
+    },
     {
       "id": "http://arxiv.org/abs/2601.00061v1",
       "title": "Exploring the Structure and Evolution of Four Young Open Clusters Near the Galactic Mid-plane via Gaia DR3",
@@ -170,57 +224,6 @@
         }
       ],
       "score": 1
-    },
-    {
-      "id": "http://arxiv.org/abs/2512.23863v1",
-      "title": "The ionization structure and chemical history in isolated H ii regions of dwarf galaxies with VIMOS/IFU II. The Leo A galaxy",
-      "updated": "2025-12-29T21:06:20Z",
-      "link": [
-        {
-          "$": {
-            "href": "https://arxiv.org/abs/2512.23863v1",
-            "rel": "alternate",
-            "type": "text/html"
-          }
-        },
-        {
-          "$": {
-            "href": "https://arxiv.org/pdf/2512.23863v1",
-            "rel": "related",
-            "type": "application/pdf",
-            "title": "pdf"
-          }
-        }
-      ],
-      "summary": "Study the ionized gas in metal-poor environments is key to understanding the mechanisms regulating galaxy evolution. However, most of the previous studies of extragalactic HII regions rely on unresolved observations of gaseous structures. We study the south-western, spatially resolved, HII region of Leo A, one of the most studied isolated dwarf galaxies in the Local Group. Using archival VIMOS-IFU/VLT data, we explored its gaseous structure through optical emission lines to gain insights into the present-day drivers of gas physics in this dIrr, and we place constraints on the chemical evolution scenario responsible for this low chemical enrichment. The emission line maps reveal that the strongest emission comes from the south-west region. A stratified distribution of ionic species was detected, likely powered by the young star cluster at the nebular centre. HST/ACS data show that the brightest star is in the centre of both the HII region and the star cluster. Photoionization production rates derived indicate that this star can sustain the ionization budget to power the HII region, although subject to the assumed electron density. Using the direct method, we derived a metallicity of $12+\\log(\\mathrm{O/H})=7.29\\pm0.06$ dex, increasing to $7.46\\pm0.09$ dex after correcting for temperature fluctuations, placing Leo A in the low-mass end of the MZR. Chemical evolution models suggest that, under constant accretion, the stellar mass growth and metal enrichment over the last 10 Gyr are successfully reproduced by both leaky-box and gas-regulator models. Those results are similar to those found in SagDIG, supporting a picture in which the present-day evolution of Leo A is dominated by stellar feedback processes. The combination of mass loss mechanisms and accretion events reproduces its chemical evolution, suggesting that Leo A has evolved under a gas equilibrium regime across its lifetime.",
-      "category": {
-        "$": {
-          "term": "astro-ph.GA",
-          "scheme": "http://arxiv.org/schemas/atom"
-        }
-      },
-      "published": "2025-12-29T21:06:20Z",
-      "arxiv:comment": "Paper accepted for publication on A&A. 17 pages, 14 figures, 5 appendices",
-      "arxiv:primary_category": {
-        "$": {
-          "term": "astro-ph.GA"
-        }
-      },
-      "author": [
-        {
-          "name": "A. Andrade"
-        },
-        {
-          "name": "I. Saviane"
-        },
-        {
-          "name": "L. Monaco"
-        },
-        {
-          "name": "M. Gullieuszik"
-        }
-      ],
-      "score": 2
     }
   ]
 }
